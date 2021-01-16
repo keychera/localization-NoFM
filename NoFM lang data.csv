@@ -1,15 +1,15 @@
 Id,英文,日语
 Id,en,jp
 cardName_1,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_1,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_1,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_2,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_2,Deal 2 physical damage.,2点のダメージを与える
+cardDesc_2,Deal 2 physical damage.,2点のダメージを与える,Berikan 2 damage fisik
 cardLevelUpDesc_2,Deal 2 physical damage.,<color=#8adf6a>2</color>点のダメージを与える
 cardName_3,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_3,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_3,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_3,Deal 3 physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_4,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_4,Deal 4 physical damage.,4点のダメージを与える
+cardDesc_4,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 damage fisik
 cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>ダメージを与える
 cardName_5,Crush,粉砕
 cardDesc_5,Deal 12 physical damage.,12点のダメージを与える
@@ -116,12 +116,12 @@ cardDesc_44,Deal 3 piercing damage.,3点の貫通ダメージを与える
 cardName_45,Chaos Strike,滅多打ち
 cardDesc_45,Deal 5 piercing damage.,5点の貫通ダメージを与える
 cardName_46,Claw Swipe,鋭い爪
-cardDesc_46,Deal 2 physical damage.,2点のダメージを与える
+cardDesc_46,Deal 2 physical damage.,2点のダメージを与える,Berikan 2 damage fisik
 cardName_47,Claw Swipe,鋭い爪
-cardDesc_47,Deal 4 physical damage.,4点のダメージを与える
+cardDesc_47,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 damage fisik
 cardLevelUpDesc_47,Deal <color=#8adf6a>4</color> physical damage.,<color=#8adf6a>4</color>点のダメージを与える
 cardName_48,Claw Swipe,鋭い爪
-cardDesc_48,Deal 6 physical damage.,6点のダメージを与える
+cardDesc_48,Deal 6 physical damage.,6点のダメージを与える,Berikan 6 damage fisik
 cardLevelUpDesc_48,Deal <color=#8adf6a>6</color> physical damage.,<color=#8adf6a>6</color>点のダメージを与える
 cardName_49,Burn,やけど
 cardDesc_49,Enemy suffers <color=#e6c14f>Burned</color> ×3.,敵に3点の<color=#e6c14f>やけど</color>を与える
@@ -131,60 +131,60 @@ cardLevelUpDesc_50,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>4</color> 
 cardName_51,Shapeshifter,千変万化
 cardDesc_51,Draw 2 cards.,カードを2枚引く
 cardName_52,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_52,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_52,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_53,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_53,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_53,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_53,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_54,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_54,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_54,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_54,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_56,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_56,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_56,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_57,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_57,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_57,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_57,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_58,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_58,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_58,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_58,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_60,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_60,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_60,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_61,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_61,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_61,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_61,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_62,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_62,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_62,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_62,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_64,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_64,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_64,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_65,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_65,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_65,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_65,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_66,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_66,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_66,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_66,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_70,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_70,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_70,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_71,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_71,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_71,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_71,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_72,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_72,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_72,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_72,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_73,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_73,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_73,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_74,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_74,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_74,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_74,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_75,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_75,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_75,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_75,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_76,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_76,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_76,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_77,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_77,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_77,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_77,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_78,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_78,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_78,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_78,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_79,Burning Strike,炎の一撃
 cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える
@@ -222,20 +222,20 @@ cardName_91,Spiny Shield,棘の障壁
 cardDesc_91,Deal 5 physical damage. Take one less damage until the start of your next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する
 cardLevelUpDesc_91,Deal <color=#8adf6a>5</color>physical damage. Take one less damage until the start of your next turn.,<color=#8adf6a>5</color>点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する
 cardName_92,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_92,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_92,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_93,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_93,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_93,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_93,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_94,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_94,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_94,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_94,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_95,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_95,Deal 1 physical damage.,1点のダメージを与える
+cardDesc_95,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_96,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_96,Deal 3 physical damage.,3点のダメージを与える
+cardDesc_96,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
 cardLevelUpDesc_96,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a>3</color>点のダメージを与える
 cardName_97,Basic Attack,通常攻撃,Serangan Dasar
-cardDesc_97,Deal 5 physical damage.,5点のダメージを与える
+cardDesc_97,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_97,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_100,Spell Blocker,対抗呪文
 cardDesc_100,Triggers when the enemy plays a spell card: Counter it.,敵が魔法カードをプレイした場合、そのカードを打ち消す
