@@ -13,7 +13,7 @@ cardDesc_4,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 dam
 cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>ダメージを与える
 cardName_5,Crush,粉砕,Remukkan
 cardDesc_5,Deal 12 physical damage.,12点のダメージを与える,Berikan 12 damage fisik
-cardName_6,Dual Destinies,捨て身の攻撃
+cardName_6,Dual Destinies,捨て身の攻撃,Takdir Ganda
 cardDesc_6,Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える
 cardName_7,Fires of Rage,烈火の怒りの一撃
 cardDesc_7,Deal 2 fire damage + 1 for every 5 missing health.,2点の火属性のダメージを与える。失った5HPごとにダメージ+１
@@ -1855,7 +1855,7 @@ cardDesc_8614,"Restore 5 HP,  cannot be used until your HP is full.",5点のHP�
 cardName_8650,Frost Nova,冷気爆発
 cardDesc_8650,<color=#e6c14f>Exiled</color>.Enemy suffers<color=#e6c14f>Chilled</color>×20.,<color=#e6c14f>除外</color>\n敵に20点の<color=#e6c14f>凍結</color>を与える
 cardLevelUpDesc_8650,<color=#e6c14f>Exiled</color>.Enemy suffers<color=#e6c14f>Chilled</color>×<color=#8adf6a>20</color>.,<color=#e6c14f>除外</color>\n敵に<color=#8adf6a>20</color>点の<color=#e6c14f>凍結</color>を与える
-cardName_8651,Dual Destinies,捨て身の攻撃
+cardName_8651,Dual Destinies,捨て身の攻撃,Takdir Ganda
 cardDesc_8651,Deal 9 damage to the enemy and 1 piercing damage to yourself.,敵に9点のダメージを与え、あなたに1点の貫通ダメージを与える
 cardLevelUpDesc_8651,Deal 9 damage to the enemy and <color=#9adf6a>1</color> piercing damage to yourself.,敵に9点のダメージを与え、あなたに<color=#8adf6a>1</color>点の貫通ダメージを与える
 cardName_8652,Absolute Defense,絶対的な防御
