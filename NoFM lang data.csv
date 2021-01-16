@@ -12,7 +12,7 @@ cardName_4,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_4,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 damage fisik
 cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>ダメージを与える
 cardName_5,Crush,粉砕,Remukkan
-cardDesc_5,Deal 12 physical damage.,12点のダメージを与える
+cardDesc_5,Deal 12 physical damage.,12点のダメージを与える,Berikan 12 damage fisik
 cardName_6,Dual Destinies,捨て身の攻撃
 cardDesc_6,Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える
 cardName_7,Fires of Rage,烈火の怒りの一撃
@@ -213,7 +213,7 @@ cardName_88,Shield Crusher,盾割り
 cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う
 cardLevelUpDesc_88,Deal <color=#8adf6a>4</color> physical damage. The enemy loses 50% Armor.,<color=#8adf6a>4</color>点のダメージを与え、敵は防御を半分失う
 cardName_89,Crush,粉砕,Remukkan
-cardDesc_89,Deal 15 physical damage.,15点のダメージを与える
+cardDesc_89,Deal 15 physical damage.,15点のダメージを与える,Berikan 15 damage fisik
 cardLevelUpDesc_89,Deal <color=#8adf6a>15</color> physical damage.,<color=#8adf6a>15</color>点のダメージを与える
 cardName_90,Charged Strike,溜め攻撃
 cardDesc_90,<color=#e6c14f>Exiled</color>. Deal 3 physical damage + 3 for each action the enemy has. The enemy loses all Actions.,<color=#e6c14f>除外</color>\n3点のダメージを与える。敵は全てのアクションを失い、失ったアクションを1点につき与えるダメージ+3
