@@ -11,7 +11,7 @@ cardLevelUpDesc_3,Deal 3 physical damage.,<color=#8adf6a>3</color>点のダメ�
 cardName_4,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_4,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 damage fisik
 cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>ダメージを与える
-cardName_5,Crush,粉砕
+cardName_5,Crush,粉砕,Remukkan
 cardDesc_5,Deal 12 physical damage.,12点のダメージを与える
 cardName_6,Dual Destinies,捨て身の攻撃
 cardDesc_6,Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える
@@ -212,7 +212,7 @@ cardLevelUpDesc_87,Deal 2 lightning damage. Get <color=#8adf6a>2</color> <color=
 cardName_88,Shield Crusher,盾割り
 cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う
 cardLevelUpDesc_88,Deal <color=#8adf6a>4</color> physical damage. The enemy loses 50% Armor.,<color=#8adf6a>4</color>点のダメージを与え、敵は防御を半分失う
-cardName_89,Crush,粉砕
+cardName_89,Crush,粉砕,Remukkan
 cardDesc_89,Deal 15 physical damage.,15点のダメージを与える
 cardLevelUpDesc_89,Deal <color=#8adf6a>15</color> physical damage.,<color=#8adf6a>15</color>点のダメージを与える
 cardName_90,Charged Strike,溜め攻撃
@@ -4083,7 +4083,7 @@ heroSkillStory_Discover_59,Deal 3 damage. Take 1 less damage until next turn.,5�
 heroSkillName_60,Shapeshifter,千変万化
 heroSkillStory_60," CD: 3 Combats\nDraw 2 cards.",充填：3\nカードを2枚引く
 heroSkillStory_Discover_60,Draw 2 cards,カードを2枚引く
-heroSkillName_61,Crush,粉砕
+heroSkillName_61,Crush,粉砕,Remukkan
 heroSkillStory_61," CD: 3 Combats\nDeal 15 damage.",充填：3\n15点のダメージを与える
 heroSkillStory_Discover_61,Deal 15 damage,15点のダメージを与える
 heroSkillName_62,Cleansing,遥か見

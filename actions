@@ -1,2 +1,3 @@
 (Basic Attack,通常攻撃)$ -> $1,Serangan Dasar
 (Deal (\d) physical damage\.,(\d)点のダメージを与える)$ -> $1,Berikan $2 damage fisik
+(Crush,粉砕)$ -> $1,Remukkan
