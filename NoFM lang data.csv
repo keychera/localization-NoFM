@@ -27,7 +27,7 @@ cardDesc_9,Deal 6 fire damage + 1 for every 5 missing health.,5点の火属性�
 cardLevelUpDesc_9,Deal <color=#8adf6a>6</color> fire damage + 1 for every 5 missing health.,<color=#8adf6a>５</color>点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan <color=#8adf6a>6</color> damage api dan + 1 untuk setiap nyawa yang hilang
 cardDescEx_9,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
 cardName_10,Burning Strike,炎の一撃,Serangan Membara
-cardDesc_10,Deal 4 fire damage.,4点の火属性のダメージを与える
+cardDesc_10,Deal 4 fire damage.,4点の火属性のダメージを与える,Berikan 4 damage api
 cardName_11,Soul Strike,魂の一撃
 cardDesc_11,Deal 2 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,2点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
 cardName_12,Soul Strike,魂の一撃
@@ -187,7 +187,7 @@ cardName_78,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_78,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_78,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
 cardName_79,Burning Strike,炎の一撃,Serangan Membara
-cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える
+cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える,Berikan 6 damage api
 cardName_81,Life Prayer,生命の祈り
 cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する
 cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する
@@ -421,11 +421,11 @@ cardDesc_401,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<co
 cardName_402,Acid Bomb,毒液の爆弾
 cardDesc_402,Enemy suffers <color=#e6c14f>Poisoned</color> ×6.,敵に6点の<color=#e6c14f>毒</color>を与える
 cardName_403,Blazing Charge,火炎魔法
-cardDesc_403,Deal 7 fire damage.,7点の火属性のダメージを与える
+cardDesc_403,Deal 7 fire damage.,7点の火属性のダメージを与える,Berikan 7 damage api
 cardName_404,Fireball,火の玉
-cardDesc_404,Deal 15 fire damage.,15点の火属性のダメージを与える
+cardDesc_404,Deal 15 fire damage.,15点の火属性のダメージを与える,Berikan 15 damage api
 cardName_405,Pyroblast,紅蓮の爆発
-cardDesc_405,Deal 25 fire damage.,25点の火属性のダメージを与える
+cardDesc_405,Deal 25 fire damage.,25点の火属性のダメージを与える,Berikan 25 damage api
 cardName_406,Blood Drinker,血の杯
 cardDesc_406,<color=#e6c14f>Exiled</color>. Absorb 2 health. Draw 1 card.,<color=#e6c14f>除外</color>\n2点の貫通ダメージを与える。与えたダメージに等しいHPを回復し、カードを1枚引く
 cardName_407,Life Leech,生命吸収
@@ -745,7 +745,7 @@ cardDesc_604,<color=#e6c14f>Exiled</color>. Infects the enemy with a deadly viru
 cardName_605,Intimidate,脅迫
 cardDesc_605,"When the enemy draws a card on their next turn,  they discard 1 card at random.",次のターンに、敵がカードを引いた後に、ランダムに敵の手札からカードを1枚捨てる
 cardName_606,Flamethrower,火吹き
-cardDesc_606,Deal 9 fire damage.,9点の火属性のダメージを与える
+cardDesc_606,Deal 9 fire damage.,9点の火属性のダメージを与える,Berikan 9 damage api
 cardName_607,Horror Breath,恐怖の瘴気
 cardDesc_607,Deal 2 damage. Counter the next card the enemy would play.,2点のダメージを与える。敵が次にプレイするカードを打ち消す
 cardName_608,Defang,恐怖の震え
@@ -840,8 +840,8 @@ cardName_641,Plunder,略奪
 cardDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを2枚ずつ破壊する
 cardLevelUpDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを<color=#8adf6a>2</color>枚ずつ破壊する
 cardName_642,Flamethrower,火吹き
-cardDesc_642,Deal 12 fire damage.,12点の火属性のダメージを与える
-cardLevelUpDesc_642,Deal 12 fire damage.,<color=#8adf6a>12</color>点の火属性のダメージを与える
+cardDesc_642,Deal 12 fire damage.,12点の火属性のダメージを与える,Berikan 12 damage api
+cardLevelUpDesc_642,Deal 12 fire damage.,<color=#8adf6a>12</color>点の火属性のダメージを与える,Berikan 12 damage api
 cardName_643,Thunderstorm,雷雨
 cardDesc_643,Deal 8 lightning damage and lose 2 Action.,8点の雷属性のダメージを与える、敵は2点のアクションを失う
 cardLevelUpDesc_643,Deal 8 lightning damage and lose 2 Action.,<color=#8adf6a>8</color>点の雷属性のダメージを与える、敵は2点のアクションを失う
@@ -1182,13 +1182,13 @@ cardName_2049,Wind Stone,風のルーン石
 cardDesc_2049,Deal 4 lightning damage. Draw 1 spell card from your deck.,4点の雷属性のダメージを与える。デッキから魔法カードを1枚引く
 cardName_2050,Blazing Charge,火炎魔法
 cardDesc_2050,Deal 10 fire damage,10点の火属性のダメージを与える
-cardLevelUpDesc_2050,Deal <color=#8adf6a>10</color> fire damage.,<color=#8adf6a>10</color>点の火属性のダメージを与える
+cardLevelUpDesc_2050,Deal <color=#8adf6a>10</color> fire damage.,<color=#8adf6a>10</color>点の火属性のダメージを与える,Berikan <color=#8adf6a>10</color> damage api
 cardName_2051,Fireball,火の玉
 cardDesc_2051,Deal 18 fire damage,18点の火属性のダメージを与える
-cardLevelUpDesc_2051,Deal <color=#8adf6a>18</color> fire damage.,<color=#8adf6a>18</color>点の火属性のダメージを与える
+cardLevelUpDesc_2051,Deal <color=#8adf6a>18</color> fire damage.,<color=#8adf6a>18</color>点の火属性のダメージを与える,Berikan <color=#8adf6a>18</color> damage api
 cardName_2052,Pyroblast,紅蓮の爆発
 cardDesc_2052,Deal 30 fire damage,30点の火属性のダメージを与える
-cardLevelUpDesc_2052,Deal <color=#8adf6a>30</color> fire damage.,<color=#8adf6a>30</color>点の火属性のダメージを与える
+cardLevelUpDesc_2052,Deal <color=#8adf6a>30</color> fire damage.,<color=#8adf6a>30</color>点の火属性のダメージを与える,Berikan <color=#8adf6a>30</color> damage api
 cardName_2053,Cold Snap,大寒波
 cardDesc_2053,Deal 6 water damage (enemies with <color=#e6c14f>Chilled</color> take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ×3.,6点の水属性のダメージを与える(敵が凍結の場合、ダメージを2倍にする)。敵に3点の<color=#e6c14f>凍結</color>を与える
 cardLevelUpDesc_2053,Deal <color=#8adf6a>6</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ×<color=#8adf6a>3</color>.,<color=#8adf6a>6</color>点の水属性のダメージを与える(敵が凍結の場合、ダメージを2倍にする)。敵に<color=#8adf6a>3</color>点の<color=#e6c14f>凍結</color>を与える
