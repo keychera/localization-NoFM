@@ -5,3 +5,4 @@
 (Dual Destinies,捨て身の攻撃)$ -> $1,Takdir Ganda
 Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える,Berikan 9 damage fisik dan terima 2 damage piercing
 (Fires of Rage,烈火の怒りの一撃)$ -> $1,Kemarahan Api
+(Deal( .* )fire damage \+ 1 for every 5 missing health\.(,.*点)の火属性のダメージを与える。失った5HPごとにダメージ\+１)$ -> $1,Berikan$2damage api dan + 1 untuk setiap nyawa yang hilang
