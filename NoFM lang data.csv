@@ -1,16 +1,16 @@
-Id,英文,日语
-Id,en,jp
+Id,英文,日语,(chinese word for Indonesian lang)
+Id,en,jp,id
 cardName_1,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_1,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik
 cardName_2,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_2,Deal 2 physical damage.,2点のダメージを与える,Berikan 2 damage fisik
-cardLevelUpDesc_2,Deal 2 physical damage.,<color=#8adf6a>2</color>点のダメージを与える
+cardLevelUpDesc_2,Deal 2 physical damage.,<color=#8adf6a>2</color>点のダメージを与える,Berikan 2 damage
 cardName_3,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_3,Deal 3 physical damage.,3点のダメージを与える,Berikan 3 damage fisik
-cardLevelUpDesc_3,Deal 3 physical damage.,<color=#8adf6a>3</color>点のダメージを与える
+cardLevelUpDesc_3,Deal 3 physical damage.,<color=#8adf6a>3</color>点のダメージを与える,Berikan 3 damage
 cardName_4,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_4,Deal 4 physical damage.,4点のダメージを与える,Berikan 4 damage fisik
-cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>ダメージを与える
+cardLevelUpDesc_4,Deal 4 physical damage.,<color=#8adf6a>4</color>点のダメージを与える,Berikan 4 damage
 cardName_5,Crush,粉砕,Remukkan
 cardDesc_5,Deal 12 physical damage.,12点のダメージを与える,Berikan 12 damage fisik
 cardName_6,Dual Destinies,捨て身の攻撃,Takdir Ganda

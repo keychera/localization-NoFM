@@ -7,3 +7,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Fires of Rage,烈火の怒りの一撃)$ -> $1,Kemarahan Api
 (Deal( .* )fire damage \+ 1 for every 5 missing health\.(,.*点)の火属性のダメージを与える。失った5HPごとにダメージ\+１)$ -> $1,Berikan$2damage api dan + 1 untuk setiap nyawa yang hilang
 (Deal \{0\} fire damage \+ 1 for every 5 missing health\.,\{0\}点の火属性のダメージを与える。\(失った5HPごとにダメージ\+１\))$ -> $1,Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
+(,Deal (\d*) physical damage\.,.*点のダメージを与える)$ -> $1,Berikan $2 damage
