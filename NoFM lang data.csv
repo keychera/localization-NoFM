@@ -26,7 +26,7 @@ cardName_9,Fires of Rage,烈火の怒りの一撃,Kemarahan Api
 cardDesc_9,Deal 6 fire damage + 1 for every 5 missing health.,5点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan 6 damage api dan + 1 untuk setiap nyawa yang hilang
 cardLevelUpDesc_9,Deal <color=#8adf6a>6</color> fire damage + 1 for every 5 missing health.,<color=#8adf6a>５</color>点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan <color=#8adf6a>6</color> damage api dan + 1 untuk setiap nyawa yang hilang
 cardDescEx_9,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
-cardName_10,Burning Strike,炎の一撃
+cardName_10,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_10,Deal 4 fire damage.,4点の火属性のダメージを与える
 cardName_11,Soul Strike,魂の一撃
 cardDesc_11,Deal 2 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,2点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
@@ -186,7 +186,7 @@ cardLevelUpDesc_77,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a
 cardName_78,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_78,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik
 cardLevelUpDesc_78,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える
-cardName_79,Burning Strike,炎の一撃
+cardName_79,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える
 cardName_81,Life Prayer,生命の祈り
 cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する
