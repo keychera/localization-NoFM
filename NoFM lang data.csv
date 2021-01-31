@@ -51,7 +51,7 @@ cardName_19,Storm Strike,雷の一撃,Serangan Badai
 cardDesc_19,Deal 6 lightning damage. You deal + 1 damage this turn.,6点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan 6 damage listrik. Di putaran ini, damage-mu + 1"
 cardLevelUpDesc_19,Deal <color=#8adf6a>6</color> lightning damage. You deal + 1 damage this turn.,<color=#8adf6a>6</color>点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan <color=#8adf6a>6</color> damage listrik. Di putaran ini, damage-mu + 1"
 cardName_20,Lightning Strike,落雷,Serangan Listrik
-cardDesc_20,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を1枚獲得
+cardDesc_20,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
 cardName_21,Piercing Attack,鋭い一撃
 cardDesc_21,Deal 1 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,1点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ
 cardDescEx_21,Deal <color=#8adf6a>1</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
@@ -207,7 +207,7 @@ cardName_86,Misfortune,厄災
 cardDesc_86,Deal 40 physical damage after 5 turns.,5ターン後、40点のダメージを与える
 cardDescEx_86,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える
 cardName_87,Lightning Strike,落雷,Serangan Listrik
-cardDesc_87,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する
+cardDesc_87,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
 cardLevelUpDesc_87,Deal 2 lightning damage. Get <color=#8adf6a>2</color> <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color>. in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を<color=#8adf6a>2</color>枚獲得する
 cardName_88,Shield Crusher,盾割り
 cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う
