@@ -43,13 +43,13 @@ cardDesc_15,"<color=#e6c14f>Exiled</color>. Deal 4 physical damage. On their tur
 cardName_16,Binding Strike,締付け,Serangan Mengikat
 cardDesc_16,"<color=#e6c14f>Exiled</color>. Deal 6 physical damage. On their turn,  the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n6点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない
 cardName_17,Storm Strike,雷の一撃,Serangan Badai
-cardDesc_17,Deal 2 lightning damage. You deal + 1 damage this turn.,2点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１
+cardDesc_17,Deal 2 lightning damage. You deal + 1 damage this turn.,2点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan 2 damage listrik. Di putaran ini, damage-mu + 1"
 cardName_18,Storm Strike,雷の一撃,Serangan Badai
-cardDesc_18,Deal 4 lightning damage. You deal + 1 damage this turn.,4点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１
-cardLevelUpDesc_18,Deal <color=#8adf6a>4</color> lightning damage. You deal + 1 damage this turn.,<color=#8adf6a>4</color>点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+1
+cardDesc_18,Deal 4 lightning damage. You deal + 1 damage this turn.,4点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan 4 damage listrik. Di putaran ini, damage-mu + 1"
+cardLevelUpDesc_18,Deal <color=#8adf6a>4</color> lightning damage. You deal + 1 damage this turn.,<color=#8adf6a>4</color>点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan <color=#8adf6a>4</color> damage listrik. Di putaran ini, damage-mu + 1"
 cardName_19,Storm Strike,雷の一撃,Serangan Badai
-cardDesc_19,Deal 6 lightning damage. You deal + 1 damage this turn.,6点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１
-cardLevelUpDesc_19,Deal <color=#8adf6a>6</color> lightning damage. You deal + 1 damage this turn.,<color=#8adf6a>6</color>点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+1
+cardDesc_19,Deal 6 lightning damage. You deal + 1 damage this turn.,6点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan 6 damage listrik. Di putaran ini, damage-mu + 1"
+cardLevelUpDesc_19,Deal <color=#8adf6a>6</color> lightning damage. You deal + 1 damage this turn.,<color=#8adf6a>6</color>点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan <color=#8adf6a>6</color> damage listrik. Di putaran ini, damage-mu + 1"
 cardName_20,Lightning Strike,落雷
 cardDesc_20,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を1枚獲得
 cardName_21,Piercing Attack,鋭い一撃
