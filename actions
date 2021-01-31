@@ -10,3 +10,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (,Deal (\d*) physical damage\.,.*点のダメージを与える)$ -> $1,Berikan $2 damage
 (Burning Strike,炎の一撃)$ -> $1,Serangan Membara
 (Deal (.*) fire damage.,(.*)点の火属性のダメージを与える)$ -> $1,Berikan $2 damage api
+(Soul Strike,魂の一撃)$ -> $1,Serangan Jiwa

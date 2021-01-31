@@ -28,12 +28,12 @@ cardLevelUpDesc_9,Deal <color=#8adf6a>6</color> fire damage + 1 for every 5 miss
 cardDescEx_9,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
 cardName_10,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_10,Deal 4 fire damage.,4点の火属性のダメージを与える,Berikan 4 damage api
-cardName_11,Soul Strike,魂の一撃
+cardName_11,Soul Strike,魂の一撃,Serangan Jiwa
 cardDesc_11,Deal 2 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,2点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
-cardName_12,Soul Strike,魂の一撃
+cardName_12,Soul Strike,魂の一撃,Serangan Jiwa
 cardDesc_12,Deal 3 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,3点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
 cardLevelUpDesc_12,Deal <color=#8adf6a>3</color> physical damage. If this card kills the enemy you permanently gain 2 maximum health.,<color=#8adf6a>3</color>点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
-cardName_13,Soul Strike,魂の一撃
+cardName_13,Soul Strike,魂の一撃,Serangan Jiwa
 cardDesc_13,Deal 5 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,5点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
 cardLevelUpDesc_13,Deal <color=#8adf6a>5</color> physical damage. If this card kills the enemy you permanently gain 2 maximum health.,<color=#8adf6a>5</color>点のダメージを与える。このカードで敵を倒した場合、HPの上限+2
 cardName_14,Binding Strike,締付け
