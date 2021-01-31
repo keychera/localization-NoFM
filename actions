@@ -11,3 +11,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Burning Strike,炎の一撃)$ -> $1,Serangan Membara
 (Deal (.*) fire damage.,(.*)点の火属性のダメージを与える)$ -> $1,Berikan $2 damage api
 (Soul Strike,魂の一撃)$ -> $1,Serangan Jiwa
+(Deal (.*) physical damage\. If this card kills the enemy you permanently gain 2 maximum health\.,(.*)点のダメージを与える。このカードで敵を倒した場合、HPの上限\+2)$ -> $1,"Berikan $2 damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
