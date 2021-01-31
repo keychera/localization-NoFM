@@ -36,11 +36,11 @@ cardLevelUpDesc_12,Deal <color=#8adf6a>3</color> physical damage. If this card k
 cardName_13,Soul Strike,魂の一撃,Serangan Jiwa
 cardDesc_13,Deal 5 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,5点のダメージを与える。このカードで敵を倒した場合、HPの上限+2,"Berikan 5 damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
 cardLevelUpDesc_13,Deal <color=#8adf6a>5</color> physical damage. If this card kills the enemy you permanently gain 2 maximum health.,<color=#8adf6a>5</color>点のダメージを与える。このカードで敵を倒した場合、HPの上限+2,"Berikan <color=#8adf6a>5</color> damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
-cardName_14,Binding Strike,締付け
+cardName_14,Binding Strike,締付け,Serangan Mengikat
 cardDesc_14,"<color=#e6c14f>Exiled</color>. Deal 2 physical damage. On their turn,  the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n2点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない
-cardName_15,Binding Strike,締付け
+cardName_15,Binding Strike,締付け,Serangan Mengikat
 cardDesc_15,"<color=#e6c14f>Exiled</color>. Deal 4 physical damage. On their turn,  the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n4点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない
-cardName_16,Binding Strike,締付け
+cardName_16,Binding Strike,締付け,Serangan Mengikat
 cardDesc_16,"<color=#e6c14f>Exiled</color>. Deal 6 physical damage. On their turn,  the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n6点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない
 cardName_17,Storm Strike,雷の一撃
 cardDesc_17,Deal 2 lightning damage. You deal + 1 damage this turn.,2点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１
