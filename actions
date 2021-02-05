@@ -18,3 +18,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 ("<color=#e6c14f>Exiled</color>\. Deal (.*) physical damage\. On their turn,  the enemy can only play 1 type of card\.",<color=#e6c14f>除外</color>\\n(.*)点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない)$ -> $1,"<color=#e6c14f>Dibuang</color>. Berikan $2 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu"
 (Lightning Strike,落雷)$ -> $1,Serangan Listrik
 (Deal 2 lightning damage\. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand\.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>\*</color>を2枚獲得する)$ -> $1,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
+(Piercing Attack,鋭い一撃)$ -> $1,Serangan Tusuk
