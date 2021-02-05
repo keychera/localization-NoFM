@@ -53,14 +53,14 @@ cardLevelUpDesc_19,Deal <color=#8adf6a>6</color> lightning damage. You deal + 1 
 cardName_20,Lightning Strike,落雷,Serangan Listrik
 cardDesc_20,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
 cardName_21,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_21,Deal 1 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,1点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ
+cardDesc_21,Deal 1 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,1点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 1 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardDescEx_21,Deal <color=#8adf6a>1</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
 cardName_22,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_22,Deal 3 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,3点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ
+cardDesc_22,Deal 3 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,3点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 3 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardLevelUpDesc_22,Deal <color=#8adf6a>3</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>3</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
 cardDescEx_22,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
 cardName_23,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,5点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ
+cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,5点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 5 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardLevelUpDesc_23,Deal <color=#8adf6a>5</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>5</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
 cardDescEx_23,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ
 cardName_24,Divine Strike,聖なる光
