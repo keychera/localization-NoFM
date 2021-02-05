@@ -15,14 +15,14 @@ cardName_5,Crush,粉砕,Remukkan
 cardDesc_5,Deal 12 physical damage.,12点のダメージを与える,Berikan 12 damage fisik
 cardName_6,Dual Destinies,捨て身の攻撃,Takdir Ganda
 cardDesc_6,Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える,Berikan 9 damage fisik dan terima 2 damage piercing
-cardName_7,Fires of Rage,烈火の怒りの一撃,Kemarahan Api
+cardName_7,Fires of Rage,烈火の怒りの一撃,Api Kemarahan
 cardDesc_7,Deal 2 fire damage + 1 for every 5 missing health.,2点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan 2 damage api dan + 1 untuk setiap nyawa yang hilang
 cardDescEx_7,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
-cardName_8,Fires of Rage,烈火の怒りの一撃,Kemarahan Api
+cardName_8,Fires of Rage,烈火の怒りの一撃,Api Kemarahan
 cardDesc_8,Deal 3 fire damage + 1 for every 5 missing health.,3点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan 3 damage api dan + 1 untuk setiap nyawa yang hilang
 cardLevelUpDesc_8,Deal <color=#8adf6a>3</color> fire damage + 1 for every 5 missing health.,<color=#8adf6a>3</color>点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan <color=#8adf6a>3</color> damage api dan + 1 untuk setiap nyawa yang hilang
 cardDescEx_8,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
-cardName_9,Fires of Rage,烈火の怒りの一撃,Kemarahan Api
+cardName_9,Fires of Rage,烈火の怒りの一撃,Api Kemarahan
 cardDesc_9,Deal 6 fire damage + 1 for every 5 missing health.,5点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan 6 damage api dan + 1 untuk setiap nyawa yang hilang
 cardLevelUpDesc_9,Deal <color=#8adf6a>6</color> fire damage + 1 for every 5 missing health.,<color=#8adf6a>５</color>点の火属性のダメージを与える。失った5HPごとにダメージ+１,Berikan <color=#8adf6a>6</color> damage api dan + 1 untuk setiap nyawa yang hilang
 cardDescEx_9,Deal {0} fire damage + 1 for every 5 missing health.,{0}点の火属性のダメージを与える。(失った5HPごとにダメージ+１),Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
