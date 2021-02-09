@@ -92,7 +92,7 @@ cardDesc_33,Deal 3 physical damage. Draw 1 card.,3点のダメージを与え、
 cardName_34,Swift Strike,電光石火,Serangan Tangkas
 cardDesc_34,Deal 5 physical damage. Draw 1 card.,5点のダメージを与え、カードを1枚引く,Berikan 5 damage fisik. Ambil 1 kartu.
 cardLevelUpDesc_34,Deal <color=#8adf6a>5</color> physical damage. Draw 1 card.,<color=#8adf6a>5</color>点のダメージを与え、カードを1枚引く,Berikan <color=#8adf6a>5</color> damage fisik. Ambil 1 kartu.
-cardName_35,Double Strike,二段攻撃
+cardName_35,Double Strike,二段攻撃,Serangan Ganda
 cardDesc_35,Deal 2 physical damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く
 cardName_36,Skull Splitter,頭蓋砕き
 cardDesc_36,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 5 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、5点のダメージを与える
@@ -978,7 +978,7 @@ cardName_1061,Awaiting Orders,待機
 cardDesc_1061,<color=#e6c14f>Exiled</color>. Add 2 <color=#e6c14f>temporary</color> Feint cards to your hand (Feint: draw 1 card).,<color=#e6c14f>除外</color>\n手札に「陽動作戦」<color=#e6c14f>*</color>を2枚加える（陽動作戦：カードを1枚引く）
 cardName_1062,Feint,陽動作戦
 cardDesc_1062,Draw 1 card,カードを1枚引く
-cardName_1063,Double Strike,二段攻撃
+cardName_1063,Double Strike,二段攻撃,Serangan Ganda
 cardDesc_1063,Effects are the same as the previous attack card you used this turn.,このカードはあなたが前にプレイした攻撃カードの効果になる
 cardName_1064,Fearless,大胆不敵
 cardDesc_1064,"Draw 3 cards. Next turn,  you draw 3 less cards.",カードを3枚引く。次のターンに、あなたは引くカードを3枚減らす
@@ -4074,7 +4074,7 @@ heroSkillStory_1003,"Choose and get 1 spell card from your deck, double its effe
 heroSkillStory_Discover_1003,"Choose and get 1 spell card from your deck, double its effect. Cd: 5 combats.",デッキから魔法カードを1枚選び、それの効果を2倍にし、手札に加える\n充填：5
 heroSkillName_1007,Contract cost,冥府の契約
 heroSkillStory_1007,"Lose 2 health,  draw 2 cards. Cd: 2 combats.",2点のHPを失い、カードを2枚引く\n充填：3
-heroSkillName_58,Double Strike,二段攻撃
+heroSkillName_58,Double Strike,二段攻撃,Serangan Ganda
 heroSkillStory_58," CD: 3 Combats\nDeal 2 damage. Draw 2 cards.",充填：3\n2点のダメージを与え、カードを2枚引く
 heroSkillStory_Discover_58,Deal 2 damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く
 heroSkillName_59,Spiny Shield,棘の障壁
