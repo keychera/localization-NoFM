@@ -71,12 +71,12 @@ cardLevelUpDesc_25,Deal <color=#8adf6a>3</color> physical damage and restore the
 cardName_26,Divine Strike,聖なる光,Serangan Ilahi
 cardDesc_26,Deal 4 physical damage and restore the same amount of health.,4点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan 4 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 cardLevelUpDesc_26,Deal <color=#8adf6a>4</color> physical damage and restore the same amount of health.,<color=#8adf6a>4</color>点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan <color=#8adf6a>4</color> damage fisik dan sembuhkan nyawa dengan jumlah yang sama
-cardName_27,Painful Strike,苦痛の一撃
+cardName_27,Painful Strike,苦痛の一撃,Serangan Menyakitkan
 cardDesc_27,Deal 2 physical damage.\nGain 2 mana.,2点のダメージを与え、2MPを獲得する
-cardName_28,Painful Strike,苦痛の一撃
+cardName_28,Painful Strike,苦痛の一撃,Serangan Menyakitkan
 cardDesc_28,Deal 4 physical damage.\nGain 4 mana.,4点のダメージを与え、4MPを獲得する
 cardLevelUpDesc_28,Deal <color=#8adf6a>4</color> physical damage. Gain <color=#8adf6a>4</color> mana.,<color=#8adf6a>4</color>点のダメージを与え、<color=#8adf6a>4</color>MPを獲得する
-cardName_29,Painful Strike,苦痛の一撃
+cardName_29,Painful Strike,苦痛の一撃,Serangan Menyakitkan
 cardDesc_29,Deal 6 physical damage.\nGain 6 mana.,6点のダメージを与え、6MPを獲得する
 cardLevelUpDesc_29,Deal <color=#8adf6a>6</color> physical damage. Gain <color=#8adf6a>6</color> mana.,<color=#8adf6a>6</color>点のダメージを与え、<color=#8adf6a>6</color>MPを獲得する
 cardName_30,Infection,感染
