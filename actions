@@ -21,3 +21,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Piercing Attack,鋭い一撃)$ -> $1,Serangan Tusuk
 (Deal (.*) piercing damage \+ 1 for every 4 points of <color=#e6c14f>Armor</color> you have\.,(.*)点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに\+1貫通ダメージ)$ -> $1,Berikan $2 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 (Deal (.*) piercing damage \+ 1 for every 4 points of <color=#e6c14f>Armor</color> you have\.,(.*)点の貫通ダメージを与える。あなたの防御4点ごとに\+1貫通ダメージ)$ -> $1,Berikan $2 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+(Divine Strike,聖なる光)$ -> $1,Serangan Ilahi

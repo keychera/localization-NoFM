@@ -63,12 +63,12 @@ cardName_23,Piercing Attack,鋭い一撃,Serangan Tusuk
 cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,5点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 5 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardLevelUpDesc_23,Deal <color=#8adf6a>5</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>5</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>5</color> serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardDescEx_23,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardName_24,Divine Strike,聖なる光
+cardName_24,Divine Strike,聖なる光,Serangan Ilahi
 cardDesc_24,Deal 2 physical damage and restore the same amount of health.,2点のダメージを与える。与えたダメージに等しいHPを回復する
-cardName_25,Divine Strike,聖なる光
+cardName_25,Divine Strike,聖なる光,Serangan Ilahi
 cardDesc_25,Deal 3 physical damage and restore the same amount of health.,3点のダメージを与える。与えたダメージに等しいHPを回復する
 cardLevelUpDesc_25,Deal <color=#8adf6a>3</color> physical damage and restore same amount of health.,<color=#8adf6a>3</color>点のダメージを与える。与えたダメージに等しいHPを回復する
-cardName_26,Divine Strike,聖なる光
+cardName_26,Divine Strike,聖なる光,Serangan Ilahi
 cardDesc_26,Deal 4 physical damage and restore the same amount of health.,4点のダメージを与える。与えたダメージに等しいHPを回復する
 cardLevelUpDesc_26,Deal <color=#8adf6a>4</color> physical damage and restore same amount of health.,<color=#8adf6a>4</color>点のダメージを与える。与えたダメージに等しいHPを回復する
 cardName_27,Painful Strike,苦痛の一撃
