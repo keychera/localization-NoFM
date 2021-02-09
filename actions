@@ -24,3 +24,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Divine Strike,聖なる光)$ -> $1,Serangan Ilahi
 (Deal (.*) physical damage and restore the same amount of health\.,(.*)点のダメージを与える。与えたダメージに等しいHPを回復する)$ -> $1,Berikan $2 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 (Painful Strike,苦痛の一撃)$ -> $1,Serangan Menyakitkan
+(Deal (.*) physical damage\. Gain (.*) mana\.,(.*)点のダメージを与え、(.*)MPを獲得する)$ -> $1,Berikan $2 damage fisik. Dapatkan $3 mana.
