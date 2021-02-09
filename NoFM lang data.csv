@@ -64,13 +64,13 @@ cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armo
 cardLevelUpDesc_23,Deal <color=#8adf6a>5</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>5</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>5</color> serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardDescEx_23,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardName_24,Divine Strike,聖なる光,Serangan Ilahi
-cardDesc_24,Deal 2 physical damage and restore the same amount of health.,2点のダメージを与える。与えたダメージに等しいHPを回復する
+cardDesc_24,Deal 2 physical damage and restore the same amount of health.,2点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan 2 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 cardName_25,Divine Strike,聖なる光,Serangan Ilahi
-cardDesc_25,Deal 3 physical damage and restore the same amount of health.,3点のダメージを与える。与えたダメージに等しいHPを回復する
-cardLevelUpDesc_25,Deal <color=#8adf6a>3</color> physical damage and restore same amount of health.,<color=#8adf6a>3</color>点のダメージを与える。与えたダメージに等しいHPを回復する
+cardDesc_25,Deal 3 physical damage and restore the same amount of health.,3点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan 3 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
+cardLevelUpDesc_25,Deal <color=#8adf6a>3</color> physical damage and restore the same amount of health.,<color=#8adf6a>3</color>点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan <color=#8adf6a>3</color> damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 cardName_26,Divine Strike,聖なる光,Serangan Ilahi
-cardDesc_26,Deal 4 physical damage and restore the same amount of health.,4点のダメージを与える。与えたダメージに等しいHPを回復する
-cardLevelUpDesc_26,Deal <color=#8adf6a>4</color> physical damage and restore same amount of health.,<color=#8adf6a>4</color>点のダメージを与える。与えたダメージに等しいHPを回復する
+cardDesc_26,Deal 4 physical damage and restore the same amount of health.,4点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan 4 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
+cardLevelUpDesc_26,Deal <color=#8adf6a>4</color> physical damage and restore the same amount of health.,<color=#8adf6a>4</color>点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan <color=#8adf6a>4</color> damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 cardName_27,Painful Strike,苦痛の一撃
 cardDesc_27,Deal 2 physical damage.\nGain 2 mana.,2点のダメージを与え、2MPを獲得する
 cardName_28,Painful Strike,苦痛の一撃
