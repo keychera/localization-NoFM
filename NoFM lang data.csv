@@ -80,13 +80,13 @@ cardName_29,Painful Strike,苦痛の一撃,Serangan Menyakitkan
 cardDesc_29,Deal 6 physical damage. Gain 6 mana.,6点のダメージを与え、6MPを獲得する,Berikan 6 damage fisik. Dapatkan 6 mana.
 cardLevelUpDesc_29,Deal <color=#8adf6a>6</color> physical damage. Gain <color=#8adf6a>6</color> mana.,<color=#8adf6a>6</color>点のダメージを与え、<color=#8adf6a>6</color>MPを獲得する,Berikan <color=#8adf6a>6</color> damage fisik. Dapatkan <color=#8adf6a>6</color> mana.
 cardName_30,Infection,感染,Infeksi
-cardDesc_30,Enemy suffers <color=#e6c14f>Poisoned</color> ×2.,敵に2点の<color=#e6c14f>毒</color>を与える
+cardDesc_30,Enemy suffers <color=#e6c14f>Poisoned</color> ×2.,敵に2点の<color=#e6c14f>毒</color>を与える,Berikan 2 poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_31,Infection,感染,Infeksi
-cardDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>3</color>.,敵に<color=#8adf6a>3</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える,Berikan 3 poin <color=#e6c14f>Racun</color> ke musuh.
+cardLevelUpDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>3</color>.,敵に<color=#8adf6a>3</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>3</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_32,Infection,感染,Infeksi
-cardDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える,Berikan 4 poin <color=#e6c14f>Racun</color> ke musuh.
+cardLevelUpDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>4</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_33,Swift Strike,電光石火
 cardDesc_33,Deal 3 physical damage.\nDraw 1 card.,3点のダメージを与え、カードを1枚引く
 cardName_34,Swift Strike,電光石火
@@ -417,9 +417,9 @@ cardLevelUpDesc_345,"At the start of your turn,  add a <color=#e6c14f>temporary<
 cardName_400,Brainstorm,渦まく知識
 cardDesc_400,Draw 3 cards.,カードを3枚引く。
 cardName_401,Acid Spray,毒液の噴射
-cardDesc_401,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える
+cardDesc_401,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える,Berikan 3 poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_402,Acid Bomb,毒液の爆弾
-cardDesc_402,Enemy suffers <color=#e6c14f>Poisoned</color> ×6.,敵に6点の<color=#e6c14f>毒</color>を与える
+cardDesc_402,Enemy suffers <color=#e6c14f>Poisoned</color> ×6.,敵に6点の<color=#e6c14f>毒</color>を与える,Berikan 6 poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_403,Blazing Charge,火炎魔法
 cardDesc_403,Deal 7 fire damage.,7点の火属性のダメージを与える,Berikan 7 damage api
 cardName_404,Fireball,火の玉
@@ -579,7 +579,7 @@ cardDesc_519,"Until the start of your next turn,  deal 4 piercing damage every t
 cardName_520,Poison Sting,毒針
 cardDesc_520,Deal 2 piercing damage. The enemy suffers <color=#e6c14f>Poisoned</color> ×1.,2点の貫通ダメージを与え、敵に1点の<color=#e6c14f>毒</color>を与える
 cardName_521,Venom,毒液
-cardDesc_521,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える
+cardDesc_521,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える,Berikan 3 poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_522,Incentivize,激励
 cardDesc_522,Deal 1 physical damage.\nDraw 1 card.,1点のダメージを与え、カードを1枚引く
 cardName_523,Soul Blitz,エクトプラズマ
@@ -1199,11 +1199,11 @@ cardName_2055,Lethal Frost,瞬間凍結
 cardDesc_2055,Deal 20 water damage (enemies with <color=#e6c14f>Chilled</color> take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ×5.,20点の水属性のダメージを与える(敵が凍結の場合、ダメージを2倍にする)。敵に5点の<color=#e6c14f>凍結</color>を与える
 cardLevelUpDesc_2055,Deal <color=#8adf6a>20</color> water damage (enemies with Chilled take double damage). The enemy suffers <color=#e6c14f>Chilled</color> ×<color=#8adf6a>5</color>.,<color=#8adf6a>20</color>点の水属性のダメージを与える(敵が凍結の場合、ダメージを2倍にする)。敵に<color=#8adf6a>5</color>点の<color=#e6c14f>凍結</color>を与える
 cardName_2056,Acid Spray,毒液の噴射
-cardDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える,Berikan 4 poin <color=#e6c14f>Racun</color> ke musuh.
+cardLevelUpDesc_2056,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>4</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_2057,Acid Bomb,毒液の爆弾
 cardDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color>×7.,敵に7点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>7</color>.,敵に<color=#8adf6a>7</color>点の<color=#e6c14f>毒</color>を与える
+cardLevelUpDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>7</color>.,敵に<color=#8adf6a>7</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>7</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_2058,Healing Potion,回復薬
 cardDesc_2058,Restore 7 health. Overhealing will be converted to <color=#e6c14f>Armor</color>.,7点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
 cardLevelUpDesc_2058,Restore <color=#8adf6a>7</color> health. Overhealing will be converted to Armor.,<color=#8adf6a>7</color>点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
@@ -1230,11 +1230,11 @@ cardDesc_2067,<color=#e6c14f>Exiled</color>. Get 2 random cards.,<color=#e6c14f>
 cardName_2070,Demon Mirror,悪魔の手鏡
 cardDesc_2070,"At the start of your turn,  Shuffle 1 Prank into enemy's deck.",ターン開始の時、敵のデッキに<color=#e6c14f>いたずら</color>を1枚加える
 cardName_2071,Venom,毒液
-cardDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える,Berikan 4 poin <color=#e6c14f>Racun</color> ke musuh.
+cardLevelUpDesc_2071,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>4</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_2072,Venom,毒液
-cardDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ×5.,敵に5点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>5</color>.,敵に<color=#8adf6a>5</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ×5.,敵に5点の<color=#e6c14f>毒</color>を与える,Berikan 5 poin <color=#e6c14f>Racun</color> ke musuh.
+cardLevelUpDesc_2072,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>5</color>.,敵に<color=#8adf6a>5</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>5</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_3002,Magic Curtain,魔術のカーテン
 cardDesc_3002,All mana costs this turn decrease by 1. Draw 1 card.,このターンに、MPのコストを1減らす。カードを1枚引く
 cardName_3004,Iron Curtain,鉄のガントレット
