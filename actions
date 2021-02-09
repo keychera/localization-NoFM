@@ -32,3 +32,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Double Strike,二段攻撃)$ -> $1,Serangan Ganda
 manual -> Deal 2 physical damage. Draw 2 cards.,2点のダメージを与え、カードを2枚引く,Berikan 2 damage fisik. Ambil 2 kartu.
 (Skull Splitter,頭蓋砕き)$ -> $1,Pembelah Tengkorak
+(<color=#e6c14f>Exile</color> the leftmost card from your hand\. Deal (.*) physical damage\.,一番左の手札を<color=#e6c14f>除外</color>\\nし、.*点のダメージを与える)$ -> $1,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan $2 damage fisik.

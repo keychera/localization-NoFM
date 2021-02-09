@@ -95,7 +95,7 @@ cardLevelUpDesc_34,Deal <color=#8adf6a>5</color> physical damage. Draw 1 card.,<
 cardName_35,Double Strike,二段攻撃,Serangan Ganda
 cardDesc_35,Deal 2 physical damage. Draw 2 cards.,2点のダメージを与え、カードを2枚引く,Berikan 2 damage fisik. Ambil 2 kartu.
 cardName_36,Skull Splitter,頭蓋砕き,Pembelah Tengkorak
-cardDesc_36,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 5 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、5点のダメージを与える
+cardDesc_36,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 5 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、5点のダメージを与える,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan 5 damage fisik.
 cardName_37,Charged Strike,溜め攻撃
 cardDesc_37,<color=#e6c14f>Exiled</color>. Deal 2 physical damage + 2 damage for each action the enemy has. The enemy loses all Actions.,<color=#e6c14f>除外</color>\n2点のダメージを与える。敵は全てのアクションを失い、失ったアクション1点につき与えるダメージ+2
 cardName_38,Backstab,背後の一突き
@@ -1497,8 +1497,8 @@ cardName_4021,Cast 'n Run,瞬間移動魔法
 cardDesc_4021,Gain 7 mana and 2 Action,7点のMPと2点のアクションを獲得する
 cardLevelUpDesc_4021,Gain 7 mana and <color=#8adf6a>2</color> Action.,<color=#8adf6a>7</color>点のMPと<color=#8adf6a>2</color>点のアクションを獲得する
 cardName_4022,Skull Splitter,頭蓋砕き,Pembelah Tengkorak
-cardDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 8 damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、8点のダメージを与える
-cardLevelUpDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal <color=#8adf6a>8</color> damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、<color=#8adf6a>8</color>点のダメージを与える
+cardDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 8 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、8点のダメージを与える,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan 8 damage fisik.
+cardLevelUpDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal <color=#8adf6a>8</color> physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、<color=#8adf6a>8</color>点のダメージを与える,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan <color=#8adf6a>8</color> damage fisik.
 cardName_4033,Confession,懺悔
 cardDesc_4033,Deal 5 piercing damage to the enemy at end of each of your turns.,あなたの各ターンの終了時、敵に3点の貫通ダメージを与える
 cardName_4034,Claw Swipe,ひっかき
