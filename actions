@@ -31,3 +31,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Deal (.*) physical damage\. Draw (.*) card\.,(.*)点のダメージを与え、カードを(.*)枚引く)$ -> $1,Berikan $2 damage fisik. Ambil $3 kartu.
 (Double Strike,二段攻撃)$ -> $1,Serangan Ganda
 manual -> Deal 2 physical damage. Draw 2 cards.,2点のダメージを与え、カードを2枚引く,Berikan 2 damage fisik. Ambil 2 kartu.
+(Skull Splitter,頭蓋砕き)$ -> $1,Pembelah Tengkorak
