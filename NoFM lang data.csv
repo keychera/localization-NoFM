@@ -93,7 +93,7 @@ cardName_34,Swift Strike,電光石火,Serangan Tangkas
 cardDesc_34,Deal 5 physical damage. Draw 1 card.,5点のダメージを与え、カードを1枚引く,Berikan 5 damage fisik. Ambil 1 kartu.
 cardLevelUpDesc_34,Deal <color=#8adf6a>5</color> physical damage. Draw 1 card.,<color=#8adf6a>5</color>点のダメージを与え、カードを1枚引く,Berikan <color=#8adf6a>5</color> damage fisik. Ambil 1 kartu.
 cardName_35,Double Strike,二段攻撃,Serangan Ganda
-cardDesc_35,Deal 2 physical damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く
+cardDesc_35,Deal 2 physical damage. Draw 2 cards.,2点のダメージを与え、カードを2枚引く,Berikan 2 damage fisik. Ambil 2 kartu.
 cardName_36,Skull Splitter,頭蓋砕き
 cardDesc_36,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 5 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、5点のダメージを与える
 cardName_37,Charged Strike,溜め攻撃
