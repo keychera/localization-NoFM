@@ -27,3 +27,4 @@ Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを�
 (Deal (.*) physical damage\. Gain (.*) mana\.,(.*)点のダメージを与え、(.*)MPを獲得する)$ -> $1,Berikan $2 damage fisik. Dapatkan $3 mana.
 (Infection,感染)$ -> $1,Infeksi
 (Enemy suffers <color=#e6c14f>Poisoned</color> ×(.*)\.,敵に(.*)点の<color=#e6c14f>毒</color>を与える)$ -> $1,Berikan $2 poin <color=#e6c14f>Racun</color> ke musuh.
+(Swift Strike,電光石火)$ -> $1,Serangan Tangkas

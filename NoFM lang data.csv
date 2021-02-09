@@ -87,9 +87,9 @@ cardLevelUpDesc_31,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6
 cardName_32,Infection,感染,Infeksi
 cardDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与える,Berikan 4 poin <color=#e6c14f>Racun</color> ke musuh.
 cardLevelUpDesc_32,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>4</color> poin <color=#e6c14f>Racun</color> ke musuh.
-cardName_33,Swift Strike,電光石火
+cardName_33,Swift Strike,電光石火,Serangan Tangkas
 cardDesc_33,Deal 3 physical damage.\nDraw 1 card.,3点のダメージを与え、カードを1枚引く
-cardName_34,Swift Strike,電光石火
+cardName_34,Swift Strike,電光石火,Serangan Tangkas
 cardDesc_34,Deal 5 physical damage.\nDraw 1 card.,5点のダメージを与え、カードを1枚引く
 cardLevelUpDesc_34,Deal <color=#8adf6a>5</color> physical damage. Draw 1 card.,<color=#8adf6a>5</color>点のダメージを与え、カードを1枚引く
 cardName_35,Double Strike,二段攻撃
