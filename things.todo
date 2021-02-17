@@ -1,11 +1,35 @@
 Todo:
-  ☐ I want to localize a game called "Night of Full Moon"
-  ☐ I want to check out a software called "Weblate"
-    ☐ find out if it is useful or just overkill for this project
-    ☐ I need to contact the dev about my localization process, will do if Im already at 25% 
+  ✔ I want to localize a game called "Night of Full Moon" @done(21-01-16 22:49)
+
+  ✘ figure out strat to record the unique strings @cancelled(21-02-17 23:57) 
+    ☐ what is this?
+  ✔ calculate the progress, maybe with like csv/excel formula stuff @done(21-02-17 23:55)
+    ☐ only 2% progress before this stream!
+
+  ✔ try to find a way to show which line that is not translated yet @done(21-01-21 23:00) -> use this:(.*,.*,.*,.*)
+    ☐ try to find a better way
+  
   ☐ I need to find out whether ID localization is done or in progress by someone else as well, maybe we can join forces.
+  ☐ to view the CSV even nicer, find out how
 
-  ☐ calculate the progress, maybe with like csv/excel formula stuff
 
+
+just notes!:
+  ☐ try (.*) instead of (.)*
+  ☐ temporary in JP use *, but in english use the word temporary
+  ☐ line 54 is not consistent with line 210
+  ☐ piercing = tembus or tusuk? 
+  ☐ dot (.) at the end of the sentences, basically lines before 74
+
+
+  ✘ giving up writing actions because i feel like it is something that I can make later, and useless @cancelled(21-02-17 23:55)
+  
+
+late-game!:
   ☐ optimize them!
     ☐ make something that you thought of in Godot!
+  
+  ☐ I need to contact the dev about my localization process, will do if Im already at 25% 
+  
+  ☐ I want to check out a software called "Weblate"
+    ☐ find out if it is useful or just overkill for this project
