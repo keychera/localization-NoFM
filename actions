@@ -1,0 +1,37 @@
+(Basic Attack,通常攻撃)$ -> $1,Serangan Dasar
+(Deal (\d) physical damage\.,(\d)点のダメージを与える)$ -> $1,Berikan $2 damage fisik
+(Crush,粉砕)$ -> $1,Remukkan
+(Deal (\d\d) physical damage\.,(\d\d)点のダメージを与える)$ -> $1,Berikan $2 damage fisik
+(Dual Destinies,捨て身の攻撃)$ -> $1,Takdir Ganda
+Deal 9 physical damage and take 2 piercing damage.,敵に9点のダメージを与え、あなたに2点の貫通ダメージを与える,Berikan 9 damage fisik dan terima 2 damage piercing
+(Fires of Rage,烈火の怒りの一撃)$ -> $1,Api Kemarahan
+(Deal( .* )fire damage \+ 1 for every 5 missing health\.(,.*点)の火属性のダメージを与える。失った5HPごとにダメージ\+１)$ -> $1,Berikan$2damage api dan + 1 untuk setiap nyawa yang hilang
+(Deal \{0\} fire damage \+ 1 for every 5 missing health\.,\{0\}点の火属性のダメージを与える。\(失った5HPごとにダメージ\+１\))$ -> $1,Berikan {0} damage api dan + 1 untuk setiap nyawa yang hilang
+(,Deal (\d*) physical damage\.,.*点のダメージを与える)$ -> $1,Berikan $2 damage fisik
+(Burning Strike,炎の一撃)$ -> $1,Serangan Membara
+(Deal (.*) fire damage.,(.*)点の火属性のダメージを与える)$ -> $1,Berikan $2 damage api
+(Soul Strike,魂の一撃)$ -> $1,Serangan Jiwa
+(Deal (.*) physical damage\. If this card kills the enemy you permanently gain 2 maximum health\.,(.*)点のダメージを与える。このカードで敵を倒した場合、HPの上限\+2)$ -> $1,"Berikan $2 damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
+(Binding Strike,締付け)$ -> $1,Serangan Mengikat
+(Storm Strike,雷の一撃)$ -> $1,Serangan Badai
+(Deal (.*) lightning damage\. You deal \+ 1 damage this turn\.,(.*)点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ\+１)$ -> $1,"Berikan $2 damage listrik. Di putaran ini, damage-mu + 1"
+("<color=#e6c14f>Exiled</color>\. Deal (.*) physical damage\. On their turn,  the enemy can only play 1 type of card\.",<color=#e6c14f>除外</color>\\n(.*)点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない)$ -> $1,"<color=#e6c14f>Dibuang</color>. Berikan $2 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu"
+(Lightning Strike,落雷)$ -> $1,Serangan Listrik
+(Deal 2 lightning damage\. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand\.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>\*</color>を2枚獲得する)$ -> $1,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
+(Piercing Attack,鋭い一撃)$ -> $1,Serangan Tusuk
+(Deal (.*) piercing damage \+ 1 for every 4 points of <color=#e6c14f>Armor</color> you have\.,(.*)点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに\+1貫通ダメージ)$ -> $1,Berikan $2 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+(Deal (.*) piercing damage \+ 1 for every 4 points of <color=#e6c14f>Armor</color> you have\.,(.*)点の貫通ダメージを与える。あなたの防御4点ごとに\+1貫通ダメージ)$ -> $1,Berikan $2 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+(Divine Strike,聖なる光)$ -> $1,Serangan Ilahi
+(Deal (.*) physical damage and restore the same amount of health\.,(.*)点のダメージを与える。与えたダメージに等しいHPを回復する)$ -> $1,Berikan $2 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
+(Painful Strike,苦痛の一撃)$ -> $1,Serangan Menyakitkan
+(Deal (.*) physical damage\. Gain (.*) mana\.,(.*)点のダメージを与え、(.*)MPを獲得する)$ -> $1,Berikan $2 damage fisik. Dapatkan $3 mana.
+(Infection,感染)$ -> $1,Infeksi
+(Enemy suffers <color=#e6c14f>Poisoned</color> ×(.*)\.,敵に(.*)点の<color=#e6c14f>毒</color>を与える)$ -> $1,Berikan $2 poin <color=#e6c14f>Racun</color> ke musuh.
+(Swift Strike,電光石火)$ -> $1,Serangan Tangkas
+(Deal (.*) physical damage\. Draw (.*) card\.,(.*)点のダメージを与え、カードを(.*)枚引く)$ -> $1,Berikan $2 damage fisik. Ambil $3 kartu.
+(Double Strike,二段攻撃)$ -> $1,Serangan Ganda
+manual -> Deal 2 physical damage. Draw 2 cards.,2点のダメージを与え、カードを2枚引く,Berikan 2 damage fisik. Ambil 2 kartu.
+(Skull Splitter,頭蓋砕き)$ -> $1,Pembelah Tengkorak
+(<color=#e6c14f>Exile</color> the leftmost card from your hand\. Deal (.*) physical damage\.,一番左の手札を<color=#e6c14f>除外</color>\\nし、.*点のダメージを与える)$ -> $1,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan $2 damage fisik.
+
+DEPRECATED, for now it's just notes for actions instead of that...
