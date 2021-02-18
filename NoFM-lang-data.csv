@@ -129,7 +129,7 @@ cardName_50,Fearful Bite,ひと噛み,Gigitan Ketakutan
 cardDesc_50,<color=#e6c14f>Exiled</color>. Deal 4 physical damage. The enemy suffers <color=#e6c14f>Weakness</color> for 1 turn.,<color=#e6c14f>除外</color>\n4点のダメージを与える。敵を1ターンの間<color=#e6c14f>弱化</color>させる,Berikan 4 damage fisik. Musuh akan <color=#e6c14f>Lemah</color> untuk 1 putaran.
 cardLevelUpDesc_50,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>4</color> physical damage. The enemy suffers <color=#e6c14f>Weakness</color> for 1 turn.,<color=#e6c14f>除外</color>\n<color=#8adf6a>4</color>点のダメージを与える。敵を1ターンの間<color=#e6c14f>弱化</color>させる,Berikan <color=#8adf6a>4</color> damage fisik. Musuh akan <color=#e6c14f>Lemah</color> untuk 1 putaran.
 cardName_51,Shapeshifter,千変万化,Shapeshifter
-cardDesc_51,Draw 2 cards.,カードを2枚引く
+cardDesc_51,Draw 2 cards.,カードを2枚引く,Ambil 2 kartu.
 cardName_52,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_52,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik.
 cardName_53,Basic Attack,通常攻撃,Serangan Dasar
@@ -453,9 +453,9 @@ cardDesc_417,Deal 4 lightning damage. Draw 1 spell card from your deck.,4点の�
 cardName_418,Disaster,津波
 cardDesc_418,Deal 30 water damage. Discard all the enemy's equipment and prayer cards.,30点の水属性のダメージを与える。敵の装備中の装備カードと進行中の祈りカードを全て破壊する
 cardName_419,Magic Pocket Watch,時を操る懐中時計
-cardDesc_419,Draw 2 cards. 30% chance to get an extra turn. Chance is reduced every time you play this card.,カードを2枚引く。30%の確率で追加のターンを獲得する(成功する度に確率が下がる)
+cardDesc_419,Draw 2 cards. 30% chance to get an extra turn. Chance is reduced every time you play this card.,カードを2枚引く。30%の確率で追加のターンを獲得する(成功する度に確率が下がる),Ambil 2 kartu. 30% chance to get an extra turn. Chance is reduced every time you play this card.
 cardName_420,Heaven and Hell,悪魔の天秤
-cardDesc_420,Gain 8 mana or draw 2 cards.,選択：\n8点のMPを獲得する／カードを2枚引く
+cardDesc_420,Gain 8 mana or draw 2 cards.,選択：\n8点のMPを獲得する／カードを2枚引く,Gain 8 mana or Ambil 2 kartu.
 cardName_421,Hand of God,神の手
 cardDesc_421,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, or gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, or gain <color=#e6c14f>Armor</color> ×15."
 cardName_422,Holy Shield,聖なる盾
@@ -467,7 +467,7 @@ cardDesc_424,"Until the start of your next turn, when the enemy plays an attack 
 cardName_425,Greed,貪欲
 cardDesc_425,Draw 4 cards. Discard all non-attack cards in your hand.,カードを4枚引く。攻撃カード以外の全てのカードを捨てる
 cardName_426,Natural Mark,ルーン石の加護
-cardDesc_426,<color=#e6c14f>Exiled</color>. Draw 2 cards. Halve any elemental damage you take in this combat.,<color=#e6c14f>除外</color>\nカードを2枚引き、この戦闘で、あなたが受ける属性ダメージを半減する
+cardDesc_426,<color=#e6c14f>Exiled</color>. Draw 2 cards. Halve any elemental damage you take in this combat.,<color=#e6c14f>除外</color>\nカードを2枚引き、この戦闘で、あなたが受ける属性ダメージを半減する,<color=#e6c14f>Exiled</color>. Ambil 2 kartu. Halve any elemental damage you take in this combat.
 cardName_427,Magic Shield,魔力の盾
 cardDesc_427,"<color=#e6c14f>Exiled</color>. Until your next turn, each 2 damage you take is converted to 1 mana loss. Gain 2 mana.",<color=#e6c14f>除外</color>\n2点のMPを獲得する。あなたの次のターンまで、ダメージを受ける度に、2点のダメージにつき、代わりに1点のMPを失う。
 cardName_428,Heavy Fog,深い霧
@@ -512,7 +512,7 @@ cardDesc_446,<color=#e6c14f>Exiled</color>. Restore 50% of the health you've los
 cardName_447,Heaven and Hell,悪魔の天秤
 cardDesc_447,Gain 8 mana.,8点のMPを獲得する。
 cardName_448,Heaven and Hell,悪魔の天秤
-cardDesc_448,Draw 2 cards.,カードを2枚引く。
+cardDesc_448,Draw 2 cards.,カードを2枚引く。,Ambil 2 kartu.
 cardName_450,Desperate Attack,背水の陣
 cardDesc_450,Deal piercing damage equal to half the health you've lost.,あなたが失ったHPの半分に等しい貫通ダメージを与える
 cardDescEx_450,Deal {0} piercing damage.,あなたが失ったHPの半分に等しいの貫通ダメージを与える({0}点の貫通ダメージを与える)
@@ -565,13 +565,13 @@ cardDesc_512,View 3 cards from the enemy's deck and choose 1 to <color=#e6c14f>e
 cardName_513,Chaos,混乱
 cardDesc_513,All damage you deal this turn is treated as piercing damage.,このターン中、あなたが与えるダメージは全て貫通ダメージになる。カードを1枚引く
 cardName_514,Focus,集中
-cardDesc_514,Draw 2 cards,カードを2枚引く
+cardDesc_514,Draw 2 cards,カードを2枚引く,Ambil 2 kartu
 cardName_515,Desire,欲望
 cardDesc_515,"<color=#e6c14f>Exiled</color>, Draw 1 card. Gain 2 Gold.",<color=#e6c14f>除外</color>\nカードを1枚引き、2枚の金貨獲得
 cardName_516,Fury,抑えられない怒り
 cardDesc_516,View 3 cards from your deck and choose 1 to copy to your hand.,あなたのデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピー<color=#e6c14f>*</color>し、手札に加える
 cardName_517,Choice,取捨選択
-cardDesc_517,Draw 2 cards and then discard 1 card from your hand.,カードを2枚引き、手札からカードを1枚捨てる
+cardDesc_517,Draw 2 cards and then discard 1 card from your hand.,カードを2枚引き、手札からカードを1枚捨てる,Ambil 2 kartu and then discard 1 card from your hand.
 cardName_518,Loss,多すぎる施し
 cardDesc_518,Draw 3 cards and then discard 2 cards from your hand.,カードを3枚引き、手札からカードを2枚捨てる
 cardName_519,Lunacy,狂気
@@ -654,7 +654,7 @@ cardDesc_556,Enemy suffers <color=#e6c14f>Frailty</color> ×2.,敵に2点の<col
 cardName_557,Escape,逃走
 cardDesc_557,<color=#e6c14f>Exiled</color>. Gain immunity to all damage for 1 turn.,<color=#e6c14f>除外</color>\nあなたは次のターンまで、無敵状態になる
 cardName_558,Auction Ticket,ハンマープライス
-cardDesc_558,Draw 2 cards. Costs -1 Action for each piece of equipment you have equipped.,カードを2枚引く。装備中の装備カード1枚につき、このカードのコスト-1
+cardDesc_558,Draw 2 cards. Costs -1 Action for each piece of equipment you have equipped.,カードを2枚引く。装備中の装備カード1枚につき、このカードのコスト-1,Ambil 2 kartu. Costs -1 Action for each piece of equipment you have equipped.
 cardName_559,Painful Blow,渾身の一撃
 cardDesc_559,Deal 3 damage. You lose your hand and Action. Deal 3 additional damage for each card and Action lost.,3点のダメージを与える。全ての手札を捨て、全てのアクションを失う。捨てたカードと失ったアクションを1点につき、与えるダメージ+3
 cardName_560,Tearing,暴れる
@@ -721,7 +721,7 @@ cardDesc_588,"This combat, restore 2 health at the start of each turn.",今の�
 cardName_589,Corrosive Potion,腐蝕のポーション
 cardDesc_589,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.,カードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
 cardName_590,Predetermined Route,最善のルート
-cardDesc_590,"Draw 1 card. If this card is discarded because of other effects, draw 2 cards.",カードを1枚引く。他の効果によってこのカードを捨てた場合、カードを2枚引く
+cardDesc_590,"Draw 1 card. If this card is discarded because of other effects, draw 2 cards.",カードを1枚引く。他の効果によってこのカードを捨てた場合、カードを2枚引く,"Draw 1 card. If this card is discarded because of other effects, Ambil 2 kartu."
 cardName_591,Pre-emptive Attack,攻撃態勢
 cardDesc_591,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 10 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードを捨てた場合、10点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 10 piercing damage."
 cardName_592,Pre-emptive Healing,治療態勢
@@ -956,7 +956,7 @@ cardName_1031,Lethal Stab,フォーカード
 cardDesc_1031,Deal 6 damage. Add 1 damage for each spell card played this turn.,6点のダメージを与える。このターンに、あなたがプレイした魔法カード1枚につき与えるダメージ+1
 cardDescEx_1031,Deal {0} damage. Add 1 damage for each spell card played this turn.,{0}点のダメージを与える。このターンに、あなたがプレイした魔法カード1枚につき与えるダメージ+1
 cardName_1032,Shrinking Balloon,自動降下の爆弾
-cardDesc_1032,Draw 2 cards. If this card is in your hand when you play another card decrease its cost by 1.,カードを2枚引く。手札の他のカードをプレイする度に、このカードのMPコストを-1
+cardDesc_1032,Draw 2 cards. If this card is in your hand when you play another card decrease its cost by 1.,カードを2枚引く。手札の他のカードをプレイする度に、このカードのMPコストを-1,Ambil 2 kartu. If this card is in your hand when you play another card decrease its cost by 1.
 cardName_1033,Magic Wand,魔法の杖
 cardDesc_1033,"At the end of your turn, spells in your hand reduce their mana cost by 2.",あなたのターンの終了時、あなたの手札にある魔法カードのMPコストを-2
 cardName_1034,Magic Wand,魔法の杖
@@ -973,7 +973,7 @@ cardDesc_1047,"<color=#e6c14f>Exile</color> your leftmost card, deal 7 damage.",
 cardName_1057,Bone Staff,骨の杖
 cardDesc_1057,"Every time one of your cards is discarded or <color=#e6c14f>exiled</color>, deal 2 damage to the enemy.",カードを捨てる、または<color=#e6c14f>除外</color>\nする度に、敵に2点のダメージを与える
 cardName_1060,Charged Staff,チャージ式魔力棒
-cardDesc_1060,"After you use 2 spell cards, discard this card from the equipment area and draw 2 cards.",このカードを装備中の間に、魔法カードを2枚プレイした後にこのカードを破壊し、カードを2枚引く
+cardDesc_1060,"After you use 2 spell cards, discard this card from the equipment area and draw 2 cards.",このカードを装備中の間に、魔法カードを2枚プレイした後にこのカードを破壊し、カードを2枚引く,"After you use 2 spell cards, discard this card from the equipment area and Ambil 2 kartu."
 cardName_1061,Awaiting Orders,待機
 cardDesc_1061,<color=#e6c14f>Exiled</color>. Add 2 <color=#e6c14f>temporary</color> Feint cards to your hand (Feint: draw 1 card).,<color=#e6c14f>除外</color>\n手札に「陽動作戦」<color=#e6c14f>*</color>を2枚加える（陽動作戦：カードを1枚引く）
 cardName_1062,Feint,陽動作戦
@@ -989,7 +989,7 @@ cardDesc_1067,"Draw an attack, spell, mana card from your deck.",デッキから
 cardName_1068,Decoction,調理
 cardDesc_1068,<color=#e6c14f>Exiled</color>. Get a random card.,<color=#e6c14f>除外</color>\nランダムにカードを1枚獲得
 cardName_1069,Meditation,瞑想
-cardDesc_1069,Draw 2 cards. Shuffle 2 Freeze cards into your deck.,カードを2枚引く。あなたのデッキに<color=#e6c14f>凍結</color>を2枚加える
+cardDesc_1069,Draw 2 cards. Shuffle 2 Freeze cards into your deck.,カードを2枚引く。あなたのデッキに<color=#e6c14f>凍結</color>を2枚加える,Ambil 2 kartu. Shuffle 2 Freeze cards into your deck.
 cardName_1070,Possess,取り憑かれた
 cardDesc_1070,<color=#e6c14f>Exiled</color>. Gain 6 mana. Draw 1 card.,<color=#e6c14f>除外</color>\nカードを1枚引き、6点のMPを獲得する
 cardName_1071,Marvelous Scroll,不思議な巻物
@@ -1023,9 +1023,9 @@ cardDesc_1086,"Each character draws 3 cards, the enemy discards all non-attack c
 cardName_1088,Mirror,映し出す鏡
 cardDesc_1088,<color=#e6c14f>Exiled</color>. Copy the leftmost card in your hand.,<color=#e6c14f>除外</color>\n手札の一番左のカードのコピーを獲得する
 cardName_1089,Enchant,苛立ち
-cardDesc_1089,<color=#e6c14f>Exiled</color>.\nDraw 2 cards.,<color=#e6c14f>除外</color>\nカードを2枚引く
+cardDesc_1089,<color=#e6c14f>Exiled</color>.\nDraw 2 cards.,<color=#e6c14f>除外</color>\nカードを2枚引く,<color=#e6c14f>Exiled</color>.\nAmbil 2 kartu.
 cardName_1090,Omnipotence,森羅万象
-cardDesc_1090,"Shuffle 5 random cards to your deck, draw 2 cards.",<color=#e6c14f>除外</color>\nランダムにカードを5枚あなたのデッキに加える。カードを2枚引く
+cardDesc_1090,"Shuffle 5 random cards to your deck, draw 2 cards.",<color=#e6c14f>除外</color>\nランダムにカードを5枚あなたのデッキに加える。カードを2枚引く,"Shuffle 5 random cards to your deck, Ambil 2 kartu."
 cardName_1091,Lightning Explosion,ほとばしる電撃
 cardDesc_1091,"Deal 6 lightning damage, +1 damage for each lightning damage dealt this turn.",6点の雷属性のダメージを与える。このターンに雷属性のダメージを与える回数分だけ、与えるダメージを+1
 cardDescEx_1091,Deal {0} lightning damage (+1 damage for each lightning damage dealt this turn).,{0}点の雷属性のダメージを与える。このターンに雷属性のダメージを与える回数分だけ、与えるダメージを+1
@@ -1071,14 +1071,14 @@ cardDescEx_1119,Deal {0} damage. Deal 1 additional damage for each 2 points of A
 cardName_1121,Torch,たいまつ
 cardDesc_1121,When you deal physical damage you also deal 1 fire damage.,物理ダメージを与える度に、1点の火属性のダメージを与える
 cardName_1125,Hack,力の前借り
-cardDesc_1125,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに、引くカードの枚数を1枚減らす
+cardDesc_1125,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに、引くカードの枚数を1枚減らす,Ambil 2 kartu. Draw one less card next turn.
 cardName_1126,Hack,振りかぶる
 cardDesc_1126,Deal 3 damage. Either player draw one less card next turn.,3点のダメージを与える。次のターンに、お互いが引くカードの枚数を1枚減らす
 cardName_1128,Hack,振りかぶる
 cardDesc_1128,Deal 5 damage. Either player draw one less card next turn.,5点のダメージを与える。次のターンに、お互いが引くカードの枚数を1枚減らす
 cardLevelUpDesc_1128,Deal <color=#8adf6a>5</color> damage. Either player draw one less card next turn.,<color=#8adf6a>5</color>点のダメージを与える。次のターンに、お互いが引くカードの枚数を1枚減らす
 cardName_1133,Bind Wound,包帯巻き
-cardDesc_1133,Discard your hand.\nDraw 2 cards,手札のカードを全て捨て、カードを2枚引く
+cardDesc_1133,Discard your hand.\nDraw 2 cards,手札のカードを全て捨て、カードを2枚引く,Discard your hand.\nAmbil 2 kartu
 cardName_1134,Plot,企み
 cardDesc_1134,Draw 1 card. Get one <color=#e6c14f>temporary</color> copy of that card.,カードを1枚引き、それのコピー<color=#e6c14f>*</color>を1枚獲得する
 cardName_1141,Thorns of Destruction,破滅の棘
@@ -1088,7 +1088,7 @@ cardName_1142,Confession,懺悔
 cardDesc_1142,"At the end of each of your turns, deal 4 piercing damage to the enemy.",あなたの各ターンの終了時、敵に4点の貫通ダメージを与える,"At the end of each of your turns, Berikan 4 damage tusuk to the enemy."
 cardLevelUpDesc_1142,"At the end of each of your turns, deal <color=#8adf6a>4</color> piercing damage to the enemy.",あなたの各ターンの終了時、敵に<color=#8adf6a>4</color>点の貫通ダメージを与える
 cardName_1143,Portal,転送ポータル
-cardDesc_1143,"<color=#e6c14f>Exiled</color>. Draw 2 cards, if you draw a spell card it costs 0 mana.",<color=#e6c14f>除外</color>\nカードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする
+cardDesc_1143,"<color=#e6c14f>Exiled</color>. Draw 2 cards, if you draw a spell card it costs 0 mana.",<color=#e6c14f>除外</color>\nカードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする,"<color=#e6c14f>Exiled</color>. Ambil 2 kartu, if you draw a spell card it costs 0 mana."
 cardName_1144,Marvelous Scroll,不思議な巻物
 cardDesc_1144,"Gain 5 mana, get a <color=#e6c14f>temporary</color> random spell.",5点のMPを獲得する。ランダムに魔法カード<color=#e6c14f>*</color>を1枚獲得
 cardName_1145,Spores Galore,繁殖する菌
@@ -1112,7 +1112,7 @@ cardDesc_1706,Restore 2 health.\nDraw 1 card.,2点のHPを回復し、カード�
 cardName_1707,No Trespassing!,通行止め
 cardDesc_1707,Gain <color=#e6c14f>Armor</color> ×4. Counter the next card the enemy would play.,4点の<color=#e6c14f>防御</color>を獲得する。敵が次にカードをプレイした場合、そのカードを打ち消す
 cardName_1708,Robo-Rabbit,部品交換
-cardDesc_1708,Gain <color=#e6c14f>Armor</color> ×3.\nDraw 2 cards.,3点の<color=#e6c14f>防御</color>を獲得する。カードを2枚引く
+cardDesc_1708,Gain <color=#e6c14f>Armor</color> ×3.\nDraw 2 cards.,3点の<color=#e6c14f>防御</color>を獲得する。カードを2枚引く,Gain <color=#e6c14f>Armor</color> ×3.\nAmbil 2 kartu.
 cardName_1709,Hypnosis,催眠
 cardDesc_1709,The enemy loses 2 Actions.,<color=#e6c14f>除外</color>\n敵が2点のアクションを失う
 cardName_1710,Intoxication,乾杯
@@ -1350,7 +1350,7 @@ cardDesc_3240,Deal 5 piercing damage. Drain 5 maximum health from the enemy.,5�
 cardLevelUpDesc_3240,Deal <color=#8adf6a>5</color> piercing damage. Drain <color=#8adf6a>5</color> maximum health from the enemy.,<color=#8adf6a>5</color>点の貫通ダメージを与え、敵のHPの上限を<color=#8adf6a>5</color>点吸収する
 cardDescEx_3240,Deal {0} piercing damage. Drain {0} maximum health from the enemy.,{0}点の貫通ダメージを与え、敵のHPの上限を{0}点吸収する
 cardName_3254,Chain Reaction,連鎖反応
-cardDesc_3254,<color=#e6c14f>Exiled</color>. Draw 2 cards. Double the effect of spell cards you draw.,<color=#e6c14f>除外</color>\nカードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする
+cardDesc_3254,<color=#e6c14f>Exiled</color>. Draw 2 cards. Double the effect of spell cards you draw.,<color=#e6c14f>除外</color>\nカードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする,<color=#e6c14f>Exiled</color>. Ambil 2 kartu. Double the effect of spell cards you draw.
 cardName_3256,Thundershower,鉄砲雨
 cardDesc_3256,Deal 2 lightning damage. Deal another 1 lightning damage for each spell card you own.,2点の雷属性のダメージを与える。あなたが<color=#e6c14f>所有</color>している魔法カード1枚につき、1点の雷属性のダメージを1回与える
 cardDescEx_3256,Deal 2 lightning damage. Deal 1 lightning damage {0} times.,2点の雷属性のダメージを与える。1点の雷属性のダメージを{0}回与える
@@ -1724,9 +1724,9 @@ cardDesc_8371,Gain rage ×4,4点の<color=#e6c14f>憤怒</color>を獲得する
 cardName_8373,Lurk,潜伏
 cardDesc_8373,<color=#e6c14f>Exiled</color>. Double your maximum rage.,<color=#e6c14f>除外</color>\n<color=#e6c14f>憤怒</color>の上限を2倍にする
 cardName_8374,Rush Forward,突進
-cardDesc_8374,<color=#e6c14f>Exiled</color>. Choose one: Draw 2 cards or get Action +3.,<color=#e6c14f>除外</color>\n選択：カードを2枚引く／3点のアクションを獲得する
+cardDesc_8374,<color=#e6c14f>Exiled</color>. Choose one: Draw 2 cards or get Action +3.,<color=#e6c14f>除外</color>\n選択：カードを2枚引く／3点のアクションを獲得する,<color=#e6c14f>Exiled</color>. Choose one: Ambil 2 kartu or get Action +3.
 cardName_8375,Draw cards,カードを引く
-cardDesc_8375,Draw 2 cards,カードを2枚引く
+cardDesc_8375,Draw 2 cards,カードを2枚引く,Ambil 2 kartu
 cardName_8376,Action,アクション
 cardDesc_8376,Action +3.,3点のアクションを獲得する
 cardName_8377,Headscarf,バンダナ
@@ -1911,9 +1911,9 @@ cardDesc_8816,On the end of your turn. Trigger the effect of your highest-cost s
 cardName_8821,Hot Pot,上手に調理
 cardDesc_8821,<color=#e6c14f>Exiled</color>. <color=#e6c14f>Recycle</color>. Double the effect of all 1 cost spell cards in your hand.,<color=#e6c14f>除外</color>、<color=#e6c14f>回収</color>\n手札にある全てのMPコストが1点の魔法カードの効果を2倍にする
 cardName_8824,Dangerous Experiment,危険な実験
-cardDesc_8824,Double the effect of the next 4 spell cards you would draw. Draw 2 cards.,次に獲得する4枚の魔法カードの効果を2倍にする。カードを2枚引く
+cardDesc_8824,Double the effect of the next 4 spell cards you would draw. Draw 2 cards.,次に獲得する4枚の魔法カードの効果を2倍にする。カードを2枚引く,Double the effect of the next 4 spell cards you would draw. Ambil 2 kartu.
 cardName_8825,Appetizer,食前酒
-cardDesc_8825,Draw 2 cards. Draw this card on start of each combat.,カードを2枚引く。戦闘の開始時に、このカードを手札に加える
+cardDesc_8825,Draw 2 cards. Draw this card on start of each combat.,カードを2枚引く。戦闘の開始時に、このカードを手札に加える,Ambil 2 kartu. Draw this card on start of each combat.
 cardName_8826,Cuve,酒樽
 cardDesc_8826,"At the start of turn, shuffle a Effective Brewing to your deck. Draw a card.",あなたのターンの開始時、<color=#e6c14f>薬品の改良</color>を1枚デッキに加える。カードを1枚引く
 cardName_8827,Fancy Blending,シェイカー パフォーマンス
@@ -1962,7 +1962,7 @@ cardDesc_8925,Deal 6 damage. Shuffle a Spiny Feathers to enemies deck.,6点の�
 cardName_8926,Sober Up,酔い覚め
 cardDesc_8926,<color=#e6c14f>Exiled</color>. Pick a card from 3 <color=#e6c14f>Exiled</color> card.,<color=#e6c14f>除外</color>\nあなたが<color=#e6c14f>所有</color>しているランダムな3枚のカードから1枚を選び、それを手札に加える
 cardName_8927,Enthusiastic Hospitality,大歓迎
-cardDesc_8927,Both player draw 2 cards.,お互いがカードを2枚ずつ引く
+cardDesc_8927,Both player draw 2 cards.,お互いがカードを2枚ずつ引く,Both player Ambil 2 kartu.
 cardName_8928,Stealth,忍び寄る
 cardDesc_8928,Halve damage you would take next 5 times.,次の５回の受けるダメージを半減する
 cardName_8954,Bloody Assault,血の饗宴
@@ -2089,7 +2089,7 @@ cardDesc_9358,"Copy the leftmost card in your hand, it costs nothing,",あなた
 cardName_9359,Curtain,魔術の帷
 cardDesc_9359,Move 1 card from your deck to your hand.,デッキからカードを1枚選び、それを手札に加える
 cardName_9360,Refine,精錬
-cardDesc_9360,Draw 2 cards.Double the effect of spell cards you draw.,カードを2枚引く。引いた魔法カードの効果を2倍にする
+cardDesc_9360,Draw 2 cards.Double the effect of spell cards you draw.,カードを2枚引く。引いた魔法カードの効果を2倍にする,Ambil 2 kartu.Double the effect of spell cards you draw.
 cardName_9361,Quick-acting Potion,特効薬
 cardDesc_9361,Choose one: 30 health/20 mana/3 Action.,選択：30点のHPを回復／20点のMPを獲得する／3点のアクションを獲得する
 cardName_9362,Tearing,引き裂く
@@ -2107,7 +2107,7 @@ cardDesc_9408,"When you gain gold, gain 1 gold coin for every 2 gold coins you g
 cardName_9409,Monster footprint,怪物の足跡
 cardDesc_9409,<color=#e6c14f>Exiled</color>. Choose and get 1 card from 4 monster cards,<color=#e6c14f>除外</color>\n4枚の怪物カードから1枚を選び、それを獲得する
 cardName_9410," Heart-piercing blades",心臓一突き
-cardDesc_9410,"Deal 2 damages 5 times, draw 2 cards",2点のダメージを5回与える。カードを2枚引く
+cardDesc_9410,"Deal 2 damages 5 times, draw 2 cards",2点のダメージを5回与える。カードを2枚引く,"Deal 2 damages 5 times, Ambil 2 kartu"
 cardName_9411,Panning,砂金採り
 cardDesc_9411,"<color=#e6c14f>Exiled</color>. Get one gold coin, get a <color=#e6c14f>Panning</color> next turn",<color=#e6c14f>除外</color>\n金貨を1枚獲得する。次のターンの開始時に、<color=#e6c14f>砂金採り</color>を1枚獲得する
 cardName_9500,Diver gloves,盗賊の手袋
@@ -2141,14 +2141,14 @@ cardDesc_11580,"<color=#e6c14f>Exiled</color>, in next 2 turns, your have <color
 cardName_11585,Death coin,死神のコイン
 cardDesc_11585,"<color=#e6c14f>Exiled</color>, gain 1 gold. Until your next turn, your have <color=#e6c14f>Better luck</color>.",<color=#e6c14f>除外</color>\n1枚の金貨を獲得する。次のターンまで、あなたは<color=#e6c14f>幸運</color>を獲得する
 cardName_11590,Death Pocket Watch,死神の懐中時計
-cardDesc_11590,"<color=#e6c14f>Exiled</color>, draw 2 cards, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10.",<color=#e6c14f>除外</color>\nカードを2枚引く。10%の確率で10点の<color=#e6c14f>審判</color>を獲得する
+cardDesc_11590,"<color=#e6c14f>Exiled</color>, draw 2 cards, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10.",<color=#e6c14f>除外</color>\nカードを2枚引く。10%の確率で10点の<color=#e6c14f>審判</color>を獲得する, "<color=#e6c14f>Exiled</color>,Ambil 2 kartu, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10."
 cardName_11635,Dark fire,冥界の炎
 cardDesc_11635,Deal 4 piercing damage 1 to 4 times.,4点の貫通ダメージを与える。この効果を1回～4回発動する,Berikan 4 damage tusuk 1 to 4 times.
 cardName_11636,Dark fire,冥界の炎
 cardDesc_11636,Deal 5 piercing damage 1 to 5 times.,5点の貫通ダメージを与える。この効果を1回～5回発動する,Berikan 5 damage tusuk 1 to 5 times.
 cardLevelUpDesc_11636,Deal <color=#8adf6a>5</color> piercing damage 1 to <color=#8adf6a>5</color> times.,<color=#8adf6a>5</color>点の貫通ダメージを与える。この効果を1回～<color=#8adf6a>5</color>回発動する
 cardName_11640,Death's hand,死神の手
-cardDesc_11640,"50% chance to trigger in sequence: Action +2, draw 2 cards, <color=#e6c14f>siphon</color> 6 mana.",順番に50%ずつの確率で発動する：2点のアクションを獲得する。カードを2枚引く。6点のMPを<color=#e6c14f>吸収</color>する
+cardDesc_11640,"50% chance to trigger in sequence: Action +2, draw 2 cards, <color=#e6c14f>siphon</color> 6 mana.",順番に50%ずつの確率で発動する：2点のアクションを獲得する。カードを2枚引く。6点のMPを<color=#e6c14f>吸収</color>する,"50% chance to trigger in sequence: Action +2, Ambil 2 kartu, <color=#e6c14f>siphon</color> 6 mana."
 cardName_11747,Sign a contract,冥府の契約
 cardDesc_11747,"<color=#e6c14f>Exiled</color>, draw a card. Can be played 1 more time.",<color=#e6c14f>除外</color>\nカードを1枚引く。追加で1回発動できる
 cardName_11748,Sign a contract,冥府の契約
@@ -2170,7 +2170,7 @@ cardDesc_11758,"<color=#e6c14f>Exiled</color>, swap your current health with you
 cardName_11759,Spirit link,魂の絆
 cardDesc_11759,"When you lose health on your turn, deal the same amount of piercing damage to your enemy.",あなたが自分のターンにダメージを受ける度に、敵にそれに等しいのダメージを与える
 cardName_11760,Wait,好機を待つ
-cardDesc_11760,"Draw 2 cards. If this card is in your hand, when you take damage, decrease its cost by 1.",カードを2枚引く。このカードが手札にある場合、あなたがHPを失う度に、このカードのコストを失ったHPの分だけ減らす
+cardDesc_11760,"Draw 2 cards. If this card is in your hand, when you take damage, decrease its cost by 1.",カードを2枚引く。このカードが手札にある場合、あなたがHPを失う度に、このカードのコストを失ったHPの分だけ減らす,"Ambil 2 kartu. If this card is in your hand, when you take damage, decrease its cost by 1."
 cardName_11761,Soul freeze,凍てつく魂
 cardDesc_11761,"<color=#e6c14f>Exiled</color>, deal 5 piercing damage. Counter the next card the enemy plays.",<color=#e6c14f>除外</color>\n5点の貫通ダメージを与える。敵が次にプレイするカードを打ち消す,"<color=#e6c14f>Exiled</color>, Berikan 5 damage tusuk. Counter the next card the enemy plays."
 cardName_11762,Soul freeze,凍りつく魂
@@ -2196,7 +2196,7 @@ cardName_11801,Soul leech,魂の搾取
 cardDesc_11801,"<color=#e6c14f>Siphon</color> 7 mana, you have 30% chance to steal a card from your enemy's deck.",7点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardLevelUpDesc_11801,"<color=#e6c14f>Siphon</color> <color=#8adf6a>7</color> mana, you have 30% chance to steal a card from your enemy's deck.",<color=#8adf6a>7</color>点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardName_11805,Ferry,渡船
-cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く,"Berikan 5 damage tusuk. If enemy has no mana, you draw 2 cards."
+cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く,"Berikan 5 damage tusuk. If enemy has no mana, you draw 2 cards.","Deal 5 piercing damage. If enemy has no mana, Ambil 2 kartu."
 cardName_11810,Harvest soul,魂の収穫
 cardDesc_11810,"Deal 5 piercing damage. If enemy has no mana, enemy loses half health (up to 60).",5点の貫通ダメージを与える。敵のMPが0の場合、敵は半分のHPを失う(最大60点のHPまで),"Berikan 5 damage tusuk. If enemy has no mana, enemy loses half health (up to 60)."
 cardName_11815,Dark World Guide,冥界の案内人
@@ -2248,7 +2248,7 @@ cardName_11938,Judgment of void,虚無の審判
 cardDesc_11938,Gain <color=#e6c14f>Judgment</color>×5. Counter the next card the enemy would play.,5点の<color=#e6c14f>審判</color>を獲得する。敵が次にプレイするカードを打ち消す
 cardLevelUpDesc_11938,Gain <color=#e6c14f>Judgment</color>×<color=#8adf6a>5</color>. Counter the next card the enemy would play.,<color=#8adf6a>5</color>点の<color=#e6c14f>審判</color>を獲得する。敵が次にプレイするカードを打ち消す
 cardName_11939,Endless purgatory,無限地獄
-cardDesc_11939,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに引くカードを1枚減らす
+cardDesc_11939,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに引くカードを1枚減らす,Ambil 2 kartu. Draw one less card next turn.
 cardName_11950,Fear,恐怖
 cardDesc_11950,Draw a card.(Automatically discard at end of turn),カードを1枚引く。ターンの終了時に、このカードを捨てる
 cardName_11953,Whisper of fear,死神の囁き
@@ -2281,7 +2281,7 @@ cardName_12001,Fog of fear,忍び寄る恐怖
 cardDesc_12001,Shuffle 2 <color=#e6c14f>Fear</color> to enemy's deck.Enemy's spell card cost 1 more mana in this combat.,敵のデッキに<color=#e6c14f>恐怖</color>を2枚加える。この戦闘中、敵の魔法カードのMPコストを+1する
 cardLevelUpDesc_12001,Shuffle <color=#8adf6a>2</color> <color=#e6c14f>Fear</color> to enemy's deck.Enemy's spell card cost 1 more mana in this combat.,敵のデッキに<color=#e6c14f>恐怖</color>を<color=#8adf6a>2</color>枚加える。この戦闘中、敵の魔法カードのMPコストを+1する
 cardName_12005,Macrophobia,待つ恐怖
-cardDesc_12005,"<color=#e6c14f>Exiled</color>, draw 2 cards. Shuffle 2 <color=#e6c14f>Fear</color> to enemy's deck.",<color=#e6c14f>除外</color>\nカードを2枚引く。敵のデッキに<color=#e6c14f>恐怖</color>を2枚加える
+cardDesc_12005,"<color=#e6c14f>Exiled</color>, draw 2 cards. Shuffle 2 <color=#e6c14f>Fear</color> to enemy's deck.",<color=#e6c14f>除外</color>\nカードを2枚引く。敵のデッキに<color=#e6c14f>恐怖</color>を2枚加える,"<color=#e6c14f>Exiled</color>, Ambil 2 kartu. Shuffle 2 <color=#e6c14f>Fear</color> to enemy's deck."
 cardName_12010,Claustrophobia,閉所恐怖症
 cardDesc_12010,Shuffle 1 to 3 <color=#e6c14f>Fear</color> to enemy's deck. Counter the next card the enemy would play.,敵のデッキに<color=#e6c14f>恐怖</color>を1枚～3枚加える。敵が次にプレイするカードを打ち消す
 cardName_12011,Claustrophobia,閉所恐怖症
@@ -2504,7 +2504,7 @@ cardLevelUpDesc_15471,Deal <color=#8adf6a>3</color> piercing damage 3 times. Ran
 cardName_15530,Vacuum cleaner,掃除機
 cardDesc_15530,"When the enemy's card is exiled, you have 50% chance to get 1 copy*.",敵のカードを<color=#e6c14f>除外</color>する度に、50%の確率でそのカードの一時的なコピーを獲得する
 cardName_15543,Test iteration,設計図
-cardDesc_15543,"<color=#e6c14f>Exiled</color>, draw 2 cards, draw an additional card in the next turn.",<color=#e6c14f>除外</color>カードを2枚引き、あなたは次のターンにカードを1枚引く
+cardDesc_15543,"<color=#e6c14f>Exiled</color>, draw 2 cards, draw an additional card in the next turn.",<color=#e6c14f>除外</color>カードを2枚引き、あなたは次のターンにカードを1枚引く,"<color=#e6c14f>Exiled</color>, Ambil 2 kartu, draw an additional card in the next turn."
 cardName_15544,Gear for upgrading,昇格歯車
 cardDesc_15544,At the beginning of the turn. Upgrade your hand.,あなたのターンの開始時、手札カードを昇格する
 cardName_15545,Gear for upgrading,1
@@ -2616,7 +2616,7 @@ cardName_15844,Mechanical mole,機械ほくろ
 cardDesc_15844,<color=#e6c14f>Exiled</color>\nInflict 12 piercing damage\nGet a copy of this card\n<color=#e6c14f>Assemble</color>: Exile 1 card,<color=#e6c14f>除外</color>\n敵に12貫通ダメージを与える。このカードのコピーを獲得する<color=#e6c14f>武装</color>：カード１枚を除外する。
 cardLevelUpDesc_15844,<color=#e6c14f>Exiled</color>\nInflict <color=#8adf6a>12</color> piercing damage\nGet a copy of this card\n<color=#e6c14f>Assemble</color>: Exile 1 card,<color=#e6c14f>除外</color>\n敵に<color=#8adf6a>12</color>貫通ダメージを与える。このカードのコピーを獲得する<color=#e6c14f>武装</color>：カード１枚を除外する。
 cardName_15846,Messenger,機械郵便
-cardDesc_15846,"<color=#e6c14f>Exiled</color>, draw 2 cards, <color=#e6c14f>Assembly</color>: <color=#e6c14f>Exile</color> a card.",<color=#e6c14f>除外</color>\nカードを2枚引く。<color=#e6c14f>武装</color>：カード１枚を除外する。
+cardDesc_15846,"<color=#e6c14f>Exiled</color>, draw 2 cards, <color=#e6c14f>Assembly</color>: <color=#e6c14f>Exile</color> a card.",<color=#e6c14f>除外</color>\nカードを2枚引く。<color=#e6c14f>武装</color>：カード１枚を除外する。,"<color=#e6c14f>Exiled</color>, Ambil 2 kartu, <color=#e6c14f>Assembly</color>: <color=#e6c14f>Exile</color> a card."
 cardName_15851,Energy shock,エネルギー衝撃
 cardDesc_15851,"Deal 6 lightning damage, +1 for each action you have lost in this combat.",6点の雷属性のダメージを与える。失ったアクション1点につき、ダメージ+１
 cardDescEx_15851,"Deal 6 lightning damage, +1 for each action you have lost in this combat. ({0})",6点の雷属性のダメージを与える。失ったアクション1点につき、ダメージ+１（{0}）
@@ -4057,7 +4057,7 @@ heroSkillStory_25,"Copy the leftmost card in your hand, it costs nothing. Cd: 2 
 heroSkillName_26,Curtain,魔術の帷
 heroSkillStory_26,Move 1 card from your deck to your hand. Cd: 2 combats.,デッキからカードを1枚選び、それを手札に加える\n充填：2
 heroSkillName_41,Refine,精錬
-heroSkillStory_41,Draw 2 cards.Double the effect of spell cards you draw. Cd: 2 combats.,カードを2枚引く。引いた魔法カードの効果を2倍にする\n充填：2
+heroSkillStory_41,Draw 2 cards.Double the effect of spell cards you draw. Cd: 2 combats.,カードを2枚引く。引いた魔法カードの効果を2倍にする\n充填：2,Ambil 2 kartu.Double the effect of spell cards you draw. Cd: 2 combats.
 heroSkillName_42,Quick-acting Potion,特効薬
 heroSkillStory_42,Choose one: 30 health/20 mana/3 Action. Cd: 3 combats.,選択：30点のHPを回復／20点のMPを獲得する／3点のアクションを獲得する\n充填：3
 heroSkillName_45,Tearing,引き裂く
@@ -4073,16 +4073,16 @@ heroSkillName_1003,End of fate,運命の特異点
 heroSkillStory_1003,"Choose and get 1 spell card from your deck, double its effect. Cd: 5 combats.",デッキから魔法カードを1枚選び、それの効果を2倍にし、手札に加える\n充填：5
 heroSkillStory_Discover_1003,"Choose and get 1 spell card from your deck, double its effect. Cd: 5 combats.",デッキから魔法カードを1枚選び、それの効果を2倍にし、手札に加える\n充填：5
 heroSkillName_1007,Contract cost,冥府の契約
-heroSkillStory_1007,"Lose 2 health, draw 2 cards. Cd: 2 combats.",2点のHPを失い、カードを2枚引く\n充填：3
+heroSkillStory_1007,"Lose 2 health, draw 2 cards. Cd: 2 combats.",2点のHPを失い、カードを2枚引く\n充填：3,"Lose 2 health, Ambil 2 kartu. Cd: 2 combats."
 heroSkillName_58,Double Strike,二段攻撃,Serangan Ganda
-heroSkillStory_58," CD: 3 Combats\nDeal 2 damage. Draw 2 cards.",充填：3\n2点のダメージを与え、カードを2枚引く
-heroSkillStory_Discover_58,Deal 2 damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く
+heroSkillStory_58," CD: 3 Combats\nDeal 2 damage. Draw 2 cards.",充填：3\n2点のダメージを与え、カードを2枚引く," CD: 3 Combats\nDeal 2 damage. Ambil 2 kartu."
+heroSkillStory_Discover_58,Deal 2 damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く,Deal 2 damage.\nAmbil 2 kartu.
 heroSkillName_59,Spiny Shield,棘の障壁,Perisai Berduri
 heroSkillStory_59," CD: 2 Combats\nDeal 5 damage. Take 1 less damage until next turn.",充填：2\n5点のダメージを与える。次のターンまで、あなたが受けるダメージを1点軽減する
 heroSkillStory_Discover_59,Deal 3 damage. Take 1 less damage until next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1点軽減する
 heroSkillName_60,Shapeshifter,千変万化
-heroSkillStory_60," CD: 3 Combats\nDraw 2 cards.",充填：3\nカードを2枚引く
-heroSkillStory_Discover_60,Draw 2 cards,カードを2枚引く
+heroSkillStory_60," CD: 3 Combats\nDraw 2 cards.",充填：3\nカードを2枚引く," CD: 3 Combats\nAmbil 2 kartu."
+heroSkillStory_Discover_60,Draw 2 cards,カードを2枚引く,Ambil 2 kartu
 heroSkillName_61,Crush,粉砕,Remukkan
 heroSkillStory_61," CD: 3 Combats\nDeal 15 damage.",充填：3\n15点のダメージを与える
 heroSkillStory_Discover_61,Deal 15 damage,15点のダメージを与える
@@ -4117,11 +4117,11 @@ heroSkillName_71,Hide,隠れドア
 heroSkillStory_71," CD: 3 Combats\nGain physical immunity until your next turn.",充填：3\nあなたの次のターンまで、物理ダメージを無効にする
 heroSkillStory_Discover_71,Gain physical immunity until your next turn.,あなたの次のターンまで、物理ダメージを無効にする
 heroSkillName_72,Magic Pocket Watch,時を操る懐中時計
-heroSkillStory_72," CD: 2 Combats\nDraw 2 cards. 10% chance to get an extra turn",充填：2\nカードを2枚引く。10%の確率で追加のターンを獲得する（成功する度に確率が半減）
-heroSkillStory_Discover_72,Draw 2 cards. 10% chance to get an extra turn (chance reduced by half for each extra turn triggered).,カードを2枚引く。10%の確率で追加のターンを獲得する（成功する度に確率が半減）
+heroSkillStory_72," CD: 2 Combats\nDraw 2 cards. 10% chance to get an extra turn",充填：2\nカードを2枚引く。10%の確率で追加のターンを獲得する（成功する度に確率が半減）," CD: 2 Combats\nAmbil 2 kartu. 10% chance to get an extra turn"
+heroSkillStory_Discover_72,Draw 2 cards. 10% chance to get an extra turn (chance reduced by half for each extra turn triggered).,カードを2枚引く。10%の確率で追加のターンを獲得する（成功する度に確率が半減）,Ambil 2 kartu. 10% chance to get an extra turn (chance reduced by half for each extra turn triggered).
 heroSkillName_73,Heaven and Hell,悪魔の天秤
-heroSkillStory_73," CD: 3 Combats\nChoice: Gain 8 mana or draw 2 cards.",充填：3\n選択：8点のMPを獲得する／カードを2枚引く
-heroSkillStory_Discover_73,Choice: Gain 8 mana or draw 2 cards.,選択：8点のMPを獲得する／カードを2枚引く
+heroSkillStory_73," CD: 3 Combats\nChoice: Gain 8 mana or draw 2 cards.",充填：3\n選択：8点のMPを獲得する／カードを2枚引く," CD: 3 Combats\nChoice: Gain 8 mana or Ambil 2 kartu."
+heroSkillStory_Discover_73,Choice: Gain 8 mana or draw 2 cards.,選択：8点のMPを獲得する／カードを2枚引く,Choice: Gain 8 mana or Ambil 2 kartu.
 heroSkillName_74,Hand of God,神の手
 heroSkillStory_74," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",充填：4\nランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
 heroSkillStory_Discover_74,"Trigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
@@ -4186,14 +4186,14 @@ heroSkillName_94,Charm,魅了
 heroSkillStory_94," CD: 2 Combats\nView 3 cards from the enemy's deck and choose 1 to copy.",充填：2\n敵のデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピーする
 heroSkillStory_Discover_94,View 3 cards from the enemy's deck and choose 1 to copy.,敵のデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピーする
 heroSkillName_95,Focus,集中
-heroSkillStory_95," CD: 3 Combats\nDraw 2 cards.",充填：3\nカードを2枚引く
-heroSkillStory_Discover_95,Draw 2 cards,カードを2枚引く
+heroSkillStory_95," CD: 3 Combats\nDraw 2 cards.",充填：3\nカードを2枚引く," CD: 3 Combats\nAmbil 2 kartu."
+heroSkillStory_Discover_95,Draw 2 cards,カードを2枚引く,Ambil 2 kartu
 heroSkillName_96,Fury,抑えられない怒り
 heroSkillStory_96," CD: 3 Combats\nView 3 cards from your deck and choose 1 to copy to your hand.",充填：3\nあなたのデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピー<color=#e6c14f>*</color>する
 heroSkillStory_Discover_96,View 3 cards from your deck and choose 1 to copy to your hand.,あなたのデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピー<color=#e6c14f>*</color>する
 heroSkillName_97,Choice,取捨選択
-heroSkillStory_97," CD: 3 Combats\nDraw 2 cards and then discard 1 card from your hand.",充填：3\nカードを3枚引き、手札からカードを1枚捨てる
-heroSkillStory_Discover_97,Draw 2 cards and then discard 1 card from your hand.,カードを3枚引き、手札からカードを1枚捨てる
+heroSkillStory_97," CD: 3 Combats\nDraw 2 cards and then discard 1 card from your hand.",充填：3\nカードを3枚引き、手札からカードを1枚捨てる," CD: 3 Combats\nAmbil 2 kartu and then discard 1 card from your hand."
+heroSkillStory_Discover_97,Draw 2 cards and then discard 1 card from your hand.,カードを3枚引き、手札からカードを1枚捨てる,Ambil 2 kartu and then discard 1 card from your hand.
 heroSkillName_98,Loss,多すぎる施し
 heroSkillStory_98," CD: 2 Combats\nDraw 3 cards and then discard 2 cards from your hand.",充填：2\nカードを3枚引き、手札からカードを2枚捨てる
 heroSkillStory_Discover_98,Draw 3 cards and then discard 2 cards from your hand.,カードを3枚引き、手札からカードを2枚捨てる
@@ -4288,8 +4288,8 @@ heroSkillName_128,Corrosive Potion,腐蝕のポーション
 heroSkillStory_128," CD: 3 Combats\nDraw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.",充填：3\nカードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
 heroSkillStory_Discover_128,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.,カードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
 heroSkillName_129,Predetermined Route,最善のルート
-heroSkillStory_129," CD: 2 Combats\nDraw 1 card. If this card is discarded because of other effects, draw 2 cards.",充填：2\nカードを1枚引く。他の効果によってこのカードが捨てられた場合、カードを2枚引く
-heroSkillStory_Discover_129,"Draw 1 card. If this card is discarded because of other effects, draw 2 cards.",カードを1枚引く。他の効果によってこのカードが捨てられた場合、カードを2枚引く
+heroSkillStory_129," CD: 2 Combats\nDraw 1 card. If this card is discarded because of other effects, draw 2 cards.",充填：2\nカードを1枚引く。他の効果によってこのカードが捨てられた場合、カードを2枚引く," CD: 2 Combats\nDraw 1 card. If this card is discarded because of other effects, Ambil 2 kartu."
+heroSkillStory_Discover_129,"Draw 1 card. If this card is discarded because of other effects, draw 2 cards.",カードを1枚引く。他の効果によってこのカードが捨てられた場合、カードを2枚引く,"Draw 1 card. If this card is discarded because of other effects, Ambil 2 kartu."
 heroSkillName_130,Stone Skin,皮膚を石化
 heroSkillStory_130," CD: 2 Combats\nGain <color=#e6c14f>Armor</color> ×4. You take 2 less damage. Lasts 2 turns.",充填：2\n4点の<color=#e6c14f>防御</color>を獲得する。あなたの次のターンまで、受けるダメージ-2
 heroSkillStory_Discover_130,Gain <color=#e6c14f>Armor</color> ×4. You take 2 less damage. Lasts 2 turns.,4点の<color=#e6c14f>防御</color>を獲得する。あなたの次のターンまで、受けるダメージ-2
@@ -4411,17 +4411,17 @@ heroSkillName_169,Spikes,串刺し
 heroSkillStory_169," CD: 3 Combats\nDeal 3 damage. Deal 1 additional damage for each 2 Armor you have.",充填：3\n3点のダメージを与える。あなたの<color=#e6c14f>防御</color>2点ごとに+1ダメージ
 heroSkillStory_Discover_169,Deal 3 damage. Deal 1 additional damage for each 2 Armor you have.,3点のダメージを与える。あなたの<color=#e6c14f>防御</color>2点ごとに+1ダメージ
 heroSkillName_170,Hack,力の前借り
-heroSkillStory_170," CD: 2 Combats\nDraw 2 cards. Draw one less card next turn.",充填：2\nカードを2枚引く。次のターンに、引くカードの枚数を1枚減らす
-heroSkillStory_Discover_170,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに、引くカードの枚数を1枚減らす
+heroSkillStory_170," CD: 2 Combats\nDraw 2 cards. Draw one less card next turn.",充填：2\nカードを2枚引く。次のターンに、引くカードの枚数を1枚減らす," CD: 2 Combats\nAmbil 2 kartu. Draw one less card next turn."
+heroSkillStory_Discover_170,Draw 2 cards. Draw one less card next turn.,カードを2枚引く。次のターンに、引くカードの枚数を1枚減らす,Ambil 2 kartu. Draw one less card next turn.
 heroSkillName_171,Bind Wound,包帯巻き
-heroSkillStory_171," CD: 2 Combats\nDiscard your hand. Draw 2 cards",充填：2\n手札のカードを全て捨て、カードを2枚引く
-heroSkillStory_Discover_171,Discard your hand. Draw 2 cards,手札のカードを全て捨て、カードを2枚引く
+heroSkillStory_171," CD: 2 Combats\nDiscard your hand. Draw 2 cards",充填：2\n手札のカードを全て捨て、カードを2枚引く," CD: 2 Combats\nDiscard your hand. Ambil 2 kartu"
+heroSkillStory_Discover_171,Discard your hand. Draw 2 cards,手札のカードを全て捨て、カードを2枚引く,Discard your hand. Ambil 2 kartu
 heroSkillName_172,Plot,企み
 heroSkillStory_172," CD: 3 Combats\nDraw 1 card. Get one <color=#e6c14f>temporary</color> copy of that card.",充填：3\nカードを1枚引き、それのコピー<color=#e6c14f>*</color>を1枚獲得する
 heroSkillStory_Discover_172,Draw 1 card. Get one <color=#e6c14f>temporary</color> copy of that card.,カードを1枚引き、それのコピー<color=#e6c14f>*</color>を1枚獲得する
 heroSkillName_173,Portal,転送ポータル
-heroSkillStory_173," CD: 3 Combats\nDraw 2 cards, if you draw a spell card it costs 0 mana.",充填：3\nカードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする
-heroSkillStory_Discover_173,"Draw 2 cards, if you draw a spell card it costs 0 mana.",カードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする
+heroSkillStory_173," CD: 3 Combats\nDraw 2 cards, if you draw a spell card it costs 0 mana.",充填：3\nカードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする," CD: 3 Combats\nAmbil 2 kartu, if you draw a spell card it costs 0 mana."
+heroSkillStory_Discover_173,"Draw 2 cards, if you draw a spell card it costs 0 mana.",カードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする,"Ambil 2 kartu, if you draw a spell card it costs 0 mana."
 heroSkillName_174,Possess,憑依
 heroSkillStory_174," CD: 2 Combats\nGain 9 mana. Draw 1 card.",充填：2\nカードを1枚引き、9点のMPを獲得する
 heroSkillStory_Discover_174,Gain 9 mana. Draw 1 card.,カードを1枚引き、9点のMPを獲得する
@@ -4468,8 +4468,8 @@ heroSkillName_188,Wobble,遠心分離
 heroSkillStory_188," CD: 3 Combats\nGain <color=#e6c14f>Effective</color>×1. Draw 1 card.",充填：3\n1点の<color=#e6c14f>改良</color>を獲得するし、カードを1枚引く
 heroSkillStory_Discover_188,Gain <color=#e6c14f>Effective</color>×1. Draw 1 card.,1点の<color=#e6c14f>改良</color>を獲得するし、��ードを1枚引く
 heroSkillName_189,Chain Reaction,連鎖反応
-heroSkillStory_189," CD: 3 Combats\nDraw 2 cards. Double the effect of spell cards you draw.",充填：4\nカードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする
-heroSkillStory_Discover_189,Draw 2 cards. Double the effect of spell cards you draw.,カードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする
+heroSkillStory_189," CD: 3 Combats\nDraw 2 cards. Double the effect of spell cards you draw.",充填：4\nカードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする," CD: 3 Combats\nAmbil 2 kartu. Double the effect of spell cards you draw."
+heroSkillStory_Discover_189,Draw 2 cards. Double the effect of spell cards you draw.,カードを2枚引く。この効果で魔法カードを引いた場合、その効果を2倍にする,Ambil 2 kartu. Double the effect of spell cards you draw.
 heroSkillName_190,Thundershower,鉄砲雨
 heroSkillStory_190," CD: 2 Combats\nDeal 2 lightning damage. Deal another 1 lightning damage for each spell card you own.",充填：2\n2点の雷属性のダメージを与える。あなたが<color=#e6c14f>所有</color>している魔法カード1枚につき、1点の雷属性のダメージを1回与える
 heroSkillStory_Discover_190,Deal 2 lightning damage. Deal another 1 lightning damage for each spell card you own.,2点の雷属性のダメージを与える。あなたが<color=#e6c14f>所有</color>している魔法カード1枚につき、1点の雷属性のダメージを1回与える
@@ -4579,8 +4579,8 @@ heroSkillName_225,Lurk,潜伏
 heroSkillStory_225," CD: 4 Combats\nDouble your maximum rage.",充填：4\n<color=#e6c14f>憤怒</color>の上限を2倍にする
 heroSkillStory_Discover_225,Double your maximum rage.,<color=#e6c14f>憤怒</color>の上限を2倍にする
 heroSkillName_226,Rush Forward,突進
-heroSkillStory_226," CD: 2 Combats\nChoose one: Draw 2 cards or get Action +3.",充填：2\n選択：カードを2枚引く／3点のアクションを獲得する
-heroSkillStory_Discover_226,Choose one: Draw 2 cards or get Action +3.,選択：カードを2枚引く／3点のアクションを獲得する
+heroSkillStory_226," CD: 2 Combats\nChoose one: Draw 2 cards or get Action +3.",充填：2\n選択：カードを2枚引く／3点のアクションを獲得する," CD: 2 Combats\nChoose one: Ambil 2 kartu or get Action +3."
+heroSkillStory_Discover_226,Choose one: Draw 2 cards or get Action +3.,選択：カードを2枚引く／3点のアクションを獲得する,Choose one: Ambil 2 kartu or get Action +3.
 heroSkillName_227,Suppress,本能を抑止
 heroSkillStory_227," CD: 3 Combats\n<color=#e6c14f>Exile</color> all attack cards from your hand. Get Action +1 for each card exiled this way.",充填：3\n手札にある攻撃カードを全て<color=#e6c14f>除外</color>する。除外したカード1枚につき、1点のアクションを獲得するし、カードを1枚引く
 heroSkillStory_Discover_227,<color=#e6c14f>Exile</color> all attack cards from your hand. Get Action +1 for each card exiled this way.,手札にある攻撃カードを全て<color=#e6c14f>除外</color>する。除外したカード1枚につき、1点のアクションを獲得するし、カードを1枚引く
