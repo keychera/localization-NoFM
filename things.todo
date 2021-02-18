@@ -5,16 +5,19 @@ Todo:
   ✘ figure out strat to record the unique strings @cancelled(21-02-17 23:57) 
     ☐ what is this?
   ✔ calculate the progress, maybe with like csv/excel formula stuff @done(21-02-17 23:55)
-    ☐ only 2% progress before Feb 18th stream!
-
+    ☐ now is tricky to calculate because of partial translation, Use special string to denote which?
+  
   ✔ try to find a way to show which line that is not translated yet @done(21-01-21 23:00) -> use this:(.*,.*,.*,.*)
     ✘ try to find a better way @cancelled(21-02-18 22:40)
       ☐ since we are doing a lot more manual and less documented
   
   ☐ I need to find out whether ID localization is done or in progress by someone else as well, maybe we can join forces.
-  ☐ to view the CSV even nicer, find out how
-
-
+  ✘ to view the CSV even nicer, find out how @cancelled(21-02-18 23:28)
+    ☐ nah, just use Google Spreadsheet, no need for complicated solution or fancy extension
+  
+  progress:
+    ☐ only 2% progress before Feb 9th stream!
+    ☐ 5.3% for for Feb 18th! yeah!
 
 just notes!:
   ☐ try (.*) instead of (.)*
