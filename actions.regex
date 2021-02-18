@@ -44,4 +44,6 @@ starting from line 115
   regex: (Deal (\d*) piercing damage([^,]*),.*)$ -> $1,Berikan $2 damage tusuk$3
   evolve!
     regex: (([^,]*)Deal (\d*) piercing damage([^,]*),.*)$ -> $1,$2Berikan $3 damage tusuk$4
-  sampai line 852
+
+  case by case, if the entry is a delimited string with comma in it, need manual copy for the remainign string.
+

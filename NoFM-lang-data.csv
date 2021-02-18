@@ -945,7 +945,7 @@ cardDesc_1019,"At the start of your turn, play one counter or attack card from y
 cardName_1021,Magic Field,マジックのステージ
 cardDesc_1021,"During this turn, draw 1 card every time a counter card is put in play. (no more than 3)",このターン中、あなたがカウンターカードをプレイする度に、カードを1枚引く(最大3枚まで)
 cardName_1023,Zen Blast,念力大爆発
-cardDesc_1023,Deal 30 piercing damage.,30点の貫通ダメージを与える
+cardDesc_1023,Deal 30 piercing damage.,30点の貫通ダメージを与える,Berikan 30 damage tusuk.
 cardName_1026,Ghost Card,オールマイティ
 cardDesc_1026,This card is treated as the last spell card you played.,このカードはあなたが前にプレイした魔法カードの効果になる
 cardName_1028,Poker Dart,カード投げ
@@ -1085,7 +1085,7 @@ cardName_1141,Thorns of Destruction,破滅の棘
 cardDesc_1141,"<color=#e6c14f>Exile</color> your leftmost card, deal 10 damage",手札の一番左のカードを<color=#e6c14f>除外</color>し、10点のダメージを与える
 cardLevelUpDesc_1141,"<color=#e6c14f>Exile</color> your leftmost card, deal <color=#8adf6a>10</color> damage",手札の一番左のカードを<color=#e6c14f>除外</color>し、<color=#8adf6a>10</color>点のダメージを与える
 cardName_1142,Confession,懺悔
-cardDesc_1142,"At the end of each of your turns, deal 4 piercing damage to the enemy.",あなたの各ターンの終了時、敵に4点の貫通ダメージを与える
+cardDesc_1142,"At the end of each of your turns, deal 4 piercing damage to the enemy.",あなたの各ターンの終了時、敵に4点の貫通ダメージを与える,"At the end of each of your turns, Berikan 4 damage tusuk to the enemy."
 cardLevelUpDesc_1142,"At the end of each of your turns, deal <color=#8adf6a>4</color> piercing damage to the enemy.",あなたの各ターンの終了時、敵に<color=#8adf6a>4</color>点の貫通ダメージを与える
 cardName_1143,Portal,転送ポータル
 cardDesc_1143,"<color=#e6c14f>Exiled</color>. Draw 2 cards, if you draw a spell card it costs 0 mana.",<color=#e6c14f>除外</color>\nカードを2枚引く。この効果で魔法カードを引いた場合、そのカードのMPコストを0にする
@@ -1167,10 +1167,10 @@ cardName_2037,Dodge,素早い
 cardDesc_2037,Draw 1 card. 25% chance of dodging. Lasts 1 turn.,カードを1枚引く。次のターン中、あなたは25%の確率でダメージを回避する
 cardLevelUpDesc_2037,<color=#8adf6a>25%</color> chance of dodging. Lasts 1 turn.,カードを1枚引く。次のターン中、あなたは<color=#8adf6a>25％</color>の確率でダメージを回避する
 cardName_2043,Stab Attack,突き刺す
-cardDesc_2043,<color=#e6c14f>Exiled</color>. Deal 9 piercing damage.,<color=#e6c14f>除外</color>\n9点の貫通ダメージを与える
+cardDesc_2043,<color=#e6c14f>Exiled</color>. Deal 9 piercing damage.,<color=#e6c14f>除外</color>\n9点の貫通ダメージを与える,<color=#e6c14f>Exiled</color>. Berikan 9 damage tusuk.
 cardLevelUpDesc_2043,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>9</color> piercing damage.,<color=#e6c14f>除外</color>\n<color=#8adf6a>9</color>点の貫通ダメージを与える
 cardName_2044,Stab Attack,突き刺す
-cardDesc_2044,<color=#e6c14f>Exiled</color>. Deal 12 piercing damage.,<color=#e6c14f>除外</color>\n12点の貫通ダメージを与える
+cardDesc_2044,<color=#e6c14f>Exiled</color>. Deal 12 piercing damage.,<color=#e6c14f>除外</color>\n12点の貫通ダメージを与える,<color=#e6c14f>Exiled</color>. Berikan 12 damage tusuk.
 cardLevelUpDesc_2044,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>12</color> piercing damage.,<color=#e6c14f>除外</color>\n<color=#8adf6a>12</color>点の貫通ダメージを与える
 cardName_2045,Lightning Link,一筋の電撃
 cardDesc_2045,Deal 1 lightning damage 2 times. Draw 2 1-mana-cost spells from your deck.,1点の雷属性のダメージを2回与える。あなたのデッキからコストが1MPの魔法カードを2枚引く
@@ -1276,7 +1276,7 @@ cardDescEx_3040,Deal {0} fire damage. The enemy suffers <color=#e6c14f>Burned</c
 cardName_3042,Concentrate,濃縮化
 cardDesc_3042,<color=#e6c14f>Exiled</color>. Double the effect of each <color=#e6c14f>potion</color> in your hand or your deck.,<color=#e6c14f>除外</color>\nあなたの手札とデッキにある全ての<color=#e6c14f>ポーション</color>の効果を2倍にする
 cardName_3161,Mental Collapse,精神錯乱
-cardDesc_3161,Deal 1 piercing damage for every 2 cards in your deck.,敵のデッキのカードの枚数2枚につき1点の貫通ダメージを与える
+cardDesc_3161,Deal 1 piercing damage for every 2 cards in your deck.,敵のデッキのカードの枚数2枚につき1点の貫通ダメージを与える,Berikan 1 damage tusuk for every 2 cards in your deck.
 cardDescEx_3161,Deal {0} piercing damage.,{0}点の貫通ダメージを与える
 cardName_3163,Drained,枯渇
 cardDesc_3163,<color=#e6c14f>Exiled</color>. Draw 1 card. The enemy gains 1 mana.(Automatically discard at end of turn),<color=#e6c14f>除外</color>\nカードを1枚引く。敵が2点のMPを獲得する。ターンの終了時に、このカードを捨てる
@@ -1288,7 +1288,7 @@ cardName_3166,Dilution,希釈
 cardDesc_3166,<color=#e6c14f>Exiled</color>. Choose one <color=#e6c14f>potion</color> in your hand and get a <color=#e6c14f>temporary</color> copy. Gain 6 mana.,<color=#e6c14f>除外</color>\n手札にある<color=#e6c14f>ポーション</color>を1枚選び、それのコピーを1枚獲得する。6点のMPを獲得する
 cardLevelUpDesc_3166,<color=#e6c14f>Exiled</color>. Choose one <color=#e6c14f>potion</color> in your hand and get a <color=#e6c14f>temporary</color> copy. Gain <color=#8adf6a>6</color> mana.,<color=#e6c14f>除外</color>\n手札にある<color=#e6c14f>ポーション</color>を1枚選び、それのコピーを1枚獲得する。<color=#8adf6a>6</color>点のMPを獲得する
 cardName_3184,Witch's Crucible,魔女の大釜
-cardDesc_3184,"When you <color=#e6c14f>exile</color> a card, \n deal 2 piercing damage.",カードの効果によってカードが<color=#e6c14f>除外</color>\nされる度に、2点の貫通ダメージを与える
+cardDesc_3184,"When you <color=#e6c14f>exile</color> a card, \n deal 2 piercing damage.",カードの効果によってカードが<color=#e6c14f>除外</color>\nされる度に、2点の貫通ダメージを与える,"When you <color=#e6c14f>exile</color> a card, \n Berikan 2 damage tusuk."
 cardName_3186,Whirling,難解なパズル
 cardDesc_3186,"<color=#e6c14f>Exiled</color> Draw cards with mana-cost 1, 2, and 3. Draw one card for each type.",<color=#e6c14f>除外</color>\nデッキからMPのコストが1と2と3のカードを1枚ずつ引く
 cardName_3192,Stone Lash,石の拳
@@ -1339,14 +1339,14 @@ cardDesc_3224,<color=#e6c14f>Exiled</color>. Gain <color=#e6c14f>Effective</colo
 cardName_3225,Bellows,ふいご
 cardDesc_3225,Enemy's <color=#e6c14f>Burned</color> triggers one additional time.,敵がカードをプレイする度に、<color=#e6c14f>やけど</color>の効果を追加で1回発動する
 cardName_3238,Shadow Potion,闇のポーション
-cardDesc_3238,Deal 2 piercing damage. Drain 2 maximum health from the enemy.,2点の貫通ダメージを与え、敵のHPの上限を2点吸収する
+cardDesc_3238,Deal 2 piercing damage. Drain 2 maximum health from the enemy.,2点の貫通ダメージを与え、敵のHPの上限を2点吸収する,Berikan 2 damage tusuk. Drain 2 maximum health from the enemy.
 cardDescEx_3238,Deal {0} piercing damage. Drain {0} maximum health from the enemy.,{0}点の貫通ダメージを与え、敵のHPの上限を{0}点吸収する
 cardName_3239,Shadow Potion,闇のポーション
-cardDesc_3239,Deal 3 piercing damage. Drain 3 maximum health from the enemy.,3点の貫通ダメージを与え、敵のHPの上限を3点吸収する
+cardDesc_3239,Deal 3 piercing damage. Drain 3 maximum health from the enemy.,3点の貫通ダメージを与え、敵のHPの上限を3点吸収する,Berikan 3 damage tusuk. Drain 3 maximum health from the enemy.
 cardLevelUpDesc_3239,Deal <color=#8adf6a>3</color> piercing damage. Drain <color=#8adf6a>3</color> maximum health from the enemy.,<color=#8adf6a>3</color>点の貫通ダメージを与え、敵のHPの上限を<color=#8adf6a>3</color>点吸収する
 cardDescEx_3239,Deal {0} piercing damage. Drain {0} maximum health from enemy.,{0}点の貫通ダメージを与え、敵のHPの上限を{0}点吸収する
 cardName_3240,Shadow Potion,闇のポーション
-cardDesc_3240,Deal 5 piercing damage. Drain 5 maximum health from the enemy.,5点の貫通ダメージを与え、敵のHPの上限を5点吸収する
+cardDesc_3240,Deal 5 piercing damage. Drain 5 maximum health from the enemy.,5点の貫通ダメージを与え、敵のHPの上限を5点吸収する,Berikan 5 damage tusuk. Drain 5 maximum health from the enemy.
 cardLevelUpDesc_3240,Deal <color=#8adf6a>5</color> piercing damage. Drain <color=#8adf6a>5</color> maximum health from the enemy.,<color=#8adf6a>5</color>点の貫通ダメージを与え、敵のHPの上限を<color=#8adf6a>5</color>点吸収する
 cardDescEx_3240,Deal {0} piercing damage. Drain {0} maximum health from the enemy.,{0}点の貫通ダメージを与え、敵のHPの上限を{0}点吸収する
 cardName_3254,Chain Reaction,連鎖反応
@@ -1401,7 +1401,7 @@ cardDescEx_3287,<color=#e6c14f>Exile</color> {0} more cards to gain an additiona
 cardName_3288,Little Rock,石ころ
 cardDesc_3288,<color=#e6c14f>Exiled</color>. Deal 1 damage.,<color=#e6c14f>除外</color>\n1点のダメージを与える
 cardName_3289,Shadow Strike,闇の一撃
-cardDesc_3289,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する
+cardDesc_3289,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Restore 10% of the health you've lost.
 cardName_3290,Occult Device,秘儀の道具
 cardDesc_3290,Gain 1 maximum health for every 4 damage you deal.,4点のダメージを与える度に、HPの上限を+1
 cardName_3291,Stamina Supply,体力剤
@@ -1410,7 +1410,7 @@ cardLevelUpDesc_3291,<color=#e6c14f>Exiled</color>. Action + 3.,<color=#e6c14f>�
 cardName_3301,Sawtooth Arrow,鋸刃の矢
 cardDesc_3301,Deal +1 damage,あなたが与えるダメージ+1
 cardName_3302,Dorlach,矢筒
-cardDesc_3302,"Every 3 times you deal physical damage, deal 1 piercing damage",物理ダメージを3回与える度に、1点の貫通ダメージを与える
+cardDesc_3302,"Every 3 times you deal physical damage, deal 1 piercing damage",物理ダメージを3回与える度に、1点の貫通ダメージを与える,"Every 3 times you deal physical damage, Berikan 1 damage tusuk"
 cardName_3303,Chambering,発射準備
 cardDesc_3303,The next attack card you play takes effect 2 more times.,このターン中に、次にプレイする攻撃カードの効果を追加で2回発動する
 cardName_3305,Self-torture,苦行
@@ -1436,7 +1436,7 @@ cardLevelUpDesc_3315,"At the start of each turn, the enemy suffers <color=#e6c14
 cardName_3317,Spare Pocket,薬品入れ
 cardDesc_3317,<color=#e6c14f>Exiled</color>. Use all <color=#e6c14f>potions</color> in your deck. They cost the same mana as usual.,<color=#e6c14f>除外</color>\nあなたのデッキにある全てのポーションカードをプレイする(MPコストを支払う)
 cardName_3318,Rot,腐敗
-cardDesc_3318,<color=#e6c14f>Exiled</color>. <color=#e6c14f>Recycle</color>. Deal 3 piercing damage.,<color=#e6c14f>除外</color>、<color=#e6c14f>回収</color>\n3点の貫通ダメージを与える
+cardDesc_3318,<color=#e6c14f>Exiled</color>. <color=#e6c14f>Recycle</color>. Deal 3 piercing damage.,<color=#e6c14f>除外</color>、<color=#e6c14f>回収</color>\n3点の貫通ダメージを与える,<color=#e6c14f>Exiled</color>. <color=#e6c14f>Recycle</color>. Berikan 3 damage tusuk.
 cardName_3321,Clone,クローン
 cardDesc_3321,<color=#e6c14f>Exiled</color>. Gain 4 mana. Shuffle copies of all the spell cards in your hand into your deck.,<color=#e6c14f>除外</color>\n4点のMPを獲得する。手札にある魔法カードを全てコピー<color=#e6c14f>*</color>し、デッキに加える
 cardName_3322,Clone,クローン
@@ -1500,7 +1500,7 @@ cardName_4022,Skull Splitter,頭蓋砕き,Pembelah Tengkorak
 cardDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal 8 physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、8点のダメージを与える,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan 8 damage fisik.
 cardLevelUpDesc_4022,<color=#e6c14f>Exile</color> the leftmost card from your hand. Deal <color=#8adf6a>8</color> physical damage.,一番左の手札を<color=#e6c14f>除外</color>\nし、<color=#8adf6a>8</color>点のダメージを与える,<color=#e6c14f>Buang</color> kartu paling kiri di tanganmu. Berikan <color=#8adf6a>8</color> damage fisik.
 cardName_4033,Confession,懺悔
-cardDesc_4033,Deal 5 piercing damage to the enemy at end of each of your turns.,あなたの各ターンの終了時、敵に3点の貫通ダメージを与える
+cardDesc_4033,Deal 5 piercing damage to the enemy at end of each of your turns.,あなたの各ターンの終了時、敵に3点の貫通ダメージを与える,Berikan 5 damage tusuk to the enemy at end of each of your turns.
 cardName_4034,Claw Swipe,ひっかき
 cardDesc_4034,Deal 5 damage,5点のダメージを与える
 cardLevelUpDesc_4034,Deal <color=#8adf6a>5</color> damage.,<color=#8adf6a>5</color>点のダメージを与える
@@ -1695,9 +1695,9 @@ cardName_8340,Oblique Claw,みだれひっかき
 cardDesc_8340,"<color=#e6c14f>Exiled</color>. Deal 4 damage, use another attack card from your deck.",<color=#e6c14f>除外</color>\n4点のダメージを与え、デッキから攻撃カードを1枚プレイする
 cardLevelUpDesc_8340,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>4</color> damage. Use an attack card from your deck.,<color=#e6c14f>除外</color>\n<color=#8adf6a>4</color>点のダメージを与え、デッキから攻撃カードを1枚プレイする
 cardName_8345,Endless Claw,ひっかき続ける
-cardDesc_8345,"<color=#e6c14f>Exiled</color>. Deal 4 piercing damage. If there is no Endless Claw in your deck, shuffle a Endless Claw to your deck.",<color=#e6c14f>除外</color>\n4点の貫通ダメージを与える。デッキに<color=#e6c14f>ひっかき続ける</color>がない場合、<color=#e6c14f>ひっかき続ける</color>を1枚デッキに加える
+cardDesc_8345,"<color=#e6c14f>Exiled</color>. Deal 4 piercing damage. If there is no Endless Claw in your deck, shuffle a Endless Claw to your deck.",<color=#e6c14f>除外</color>\n4点の貫通ダメージを与える。デッキに<color=#e6c14f>ひっかき続ける</color>がない場合、<color=#e6c14f>ひっかき続ける</color>を1枚デッキに加える,"<color=#e6c14f>Exiled</color>. Berikan 4 damage tusuk. If there is no Endless Claw in your deck, shuffle a Endless Claw to your deck."
 cardName_8346,Variant,異変
-cardDesc_8346,Deal 3 piercing damage. Transform the leftmost attack card in your hand into this card. Increase Variant's damage by 1.,3点の貫通ダメージを与える。手札の一番左の攻撃カードをこのカードに変化し、そのダメージを+1する
+cardDesc_8346,Deal 3 piercing damage. Transform the leftmost attack card in your hand into this card. Increase Variant's damage by 1.,3点の貫通ダメージを与える。手札の一番左の攻撃カードをこのカードに変化し、そのダメージを+1する,Berikan 3 damage tusuk. Transform the leftmost attack card in your hand into this card. Increase Variant's damage by 1.
 cardDescEx_8346,Deal {0} piercing damage. Transform the leftmost attack card in your hand to this card. Increase Variant's damage by 1.,{0}点の貫通ダメージを与える。手札の一番左の攻撃カードをこのカードに変化し、そのダメージを+1する
 cardName_8351,Moonlight,月光
 cardDesc_8351,"<color=#e6c14f>Exiled</color>. During this combat, gain <color=#e6c14f>Rage</color> ×1 for each action card you play.",<color=#e6c14f>除外</color>\nこの戦闘中、あなたが行動カードをプレイする度に、1点の<color=#e6c14f>憤怒</color>を獲得する
@@ -1890,7 +1890,7 @@ cardDesc_8805,<color=#e6c14f>Exiled</color>. Equip a Sleeping Wind Knight. Draw 
 cardName_8806,Rummaging,かばんを探る
 cardDesc_8806,<color=#e6c14f>Exiled</color>. Equip 2 random equipment.,<color=#e6c14f>除外</color>\nランダムに装備カードを2枚装備する
 cardName_8807,Stabbing Pain,鋭い痛み
-cardDesc_8807,Deal 10 piercing damage. Get a random attack card.,10点の貫通ダメージを与える。ランダムに攻撃カードを1枚獲得する
+cardDesc_8807,Deal 10 piercing damage. Get a random attack card.,10点の貫通ダメージを与える。ランダムに攻撃カードを1枚獲得する,Berikan 10 damage tusuk. Get a random attack card.
 cardName_8808,Phantom Boxing,幻の左
 cardDesc_8808,"<color=#e6c14f>Exiled</color>. In this combat, when you play a card, transform your leftmost card in your hand into a random card.",<color=#e6c14f>除外</color>\nこの戦闘中、あなたがカードをプレイする度に、手札の一番左のカードをランダムに他のカードに変化する
 cardName_8809,Half-time Break,インターバル
@@ -1966,7 +1966,7 @@ cardDesc_8927,Both player draw 2 cards.,お互いがカードを2枚ずつ引く
 cardName_8928,Stealth,忍び寄る
 cardDesc_8928,Halve damage you would take next 5 times.,次の５回の受けるダメージを半減する
 cardName_8954,Bloody Assault,血の饗宴
-cardDesc_8954,Deal 3 piercing damage 3 times. Restore same amount of health.,3点の貫通ダメージを3回与える。与えたダメージに等しいのHPを回復する
+cardDesc_8954,Deal 3 piercing damage 3 times. Restore same amount of health.,3点の貫通ダメージを3回与える。与えたダメージに等しいのHPを回復する,Berikan 3 damage tusuk 3 times. Restore same amount of health.
 cardName_8955,Survival Boat,救命ボート
 cardDesc_8955,You gain double armor from cards.,カードの効果で<color=#e6c14f>防御</color>を獲得する度に、獲得する<color=#e6c14f>防御</color>を2倍にする
 cardName_8956,Search,物漁り
@@ -2143,9 +2143,9 @@ cardDesc_11585,"<color=#e6c14f>Exiled</color>, gain 1 gold. Until your next turn
 cardName_11590,Death Pocket Watch,死神の懐中時計
 cardDesc_11590,"<color=#e6c14f>Exiled</color>, draw 2 cards, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10.",<color=#e6c14f>除外</color>\nカードを2枚引く。10%の確率で10点の<color=#e6c14f>審判</color>を獲得する
 cardName_11635,Dark fire,冥界の炎
-cardDesc_11635,Deal 4 piercing damage 1 to 4 times.,4点の貫通ダメージを与える。この効果を1回～4回発動する
+cardDesc_11635,Deal 4 piercing damage 1 to 4 times.,4点の貫通ダメージを与える。この効果を1回～4回発動する,Berikan 4 damage tusuk 1 to 4 times.
 cardName_11636,Dark fire,冥界の炎
-cardDesc_11636,Deal 5 piercing damage 1 to 5 times.,5点の貫通ダメージを与える。この効果を1回～5回発動する
+cardDesc_11636,Deal 5 piercing damage 1 to 5 times.,5点の貫通ダメージを与える。この効果を1回～5回発動する,Berikan 5 damage tusuk 1 to 5 times.
 cardLevelUpDesc_11636,Deal <color=#8adf6a>5</color> piercing damage 1 to <color=#8adf6a>5</color> times.,<color=#8adf6a>5</color>点の貫通ダメージを与える。この効果を1回～<color=#8adf6a>5</color>回発動する
 cardName_11640,Death's hand,死神の手
 cardDesc_11640,"50% chance to trigger in sequence: Action +2, draw 2 cards, <color=#e6c14f>siphon</color> 6 mana.",順番に50%ずつの確率で発動する：2点のアクションを獲得する。カードを2枚引く。6点のMPを<color=#e6c14f>吸収</color>する
@@ -2156,10 +2156,10 @@ cardDesc_11748,"<color=#e6c14f>Exiled</color>, draw a card. ",<color=#e6c14f>除
 cardName_11750,Vanish,雲散霧消
 cardDesc_11750,Absorb 5 health. <color=#e6c14f>Siphon</color> 5 health.,敵から5点のHPを吸収し、5点のMPを<color=#e6c14f>吸収</color>する
 cardName_11751,Collapsing,思考崩壊
-cardDesc_11751,"Deal 8 piercing damage, shuffle 1 <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を1枚加える
+cardDesc_11751,"Deal 8 piercing damage, shuffle 1 <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を1枚加える,"Berikan 8 damage tusuk, shuffle 1 <color=#e6c14f>Fear</color> to your enemy's deck."
 cardName_11752,Collapsing,思考崩壊
-cardDesc_11752,"Deal 8 piercing damage, shuffle 2 <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を2枚加える
-cardLevelUpDesc_11752,"Deal 8 piercing damage, shuffle <color=#8adf6a>2</color> <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を<color=#8adf6a>2</color>枚加える
+cardDesc_11752,"Deal 8 piercing damage, shuffle 2 <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を2枚加える,"Berikan 8 damage tusuk, shuffle 2 <color=#e6c14f>Fear</color> to your enemy's deck."
+cardLevelUpDesc_11752,"Deal 8 piercing damage, shuffle <color=#8adf6a>2</color> <color=#e6c14f>Fear</color> to your enemy's deck.",8点の貫通ダメージを与える。敵のデッキに<color=#e6c14f>恐怖</color>を<color=#8adf6a>2</color>枚加える,"Berikan 8 damage tusuk, shuffle <color=#8adf6a>2</color> <color=#e6c14f>Fear</color> to your enemy's deck."
 cardName_11753,Vanish,雲散霧消
 cardDesc_11753,Absorb 6 health. <color=#e6c14f>Siphon</color> 6 health.,敵から6点のHPを吸収し、6点のMPを<color=#e6c14f>吸収</color>する
 cardLevelUpDesc_11753,Absorb <color=#8adf6a>6</color> health. <color=#e6c14f>Siphon</color> <color=#8adf6a>6</color> health.,敵から<color=#8adf6a>6</color>点のHPを吸収し、<color=#8adf6a>6</color>点のMPを<color=#e6c14f>吸収</color>する
@@ -2172,7 +2172,7 @@ cardDesc_11759,"When you lose health on your turn, deal the same amount of pierc
 cardName_11760,Wait,好機を待つ
 cardDesc_11760,"Draw 2 cards. If this card is in your hand, when you take damage, decrease its cost by 1.",カードを2枚引く。このカードが手札にある場合、あなたがHPを失う度に、このカードのコストを失ったHPの分だけ減らす
 cardName_11761,Soul freeze,凍てつく魂
-cardDesc_11761,"<color=#e6c14f>Exiled</color>, deal 5 piercing damage. Counter the next card the enemy plays.",<color=#e6c14f>除外</color>\n5点の貫通ダメージを与える。敵が次にプレイするカードを打ち消す
+cardDesc_11761,"<color=#e6c14f>Exiled</color>, deal 5 piercing damage. Counter the next card the enemy plays.",<color=#e6c14f>除外</color>\n5点の貫通ダメージを与える。敵が次にプレイするカードを打ち消す,"<color=#e6c14f>Exiled</color>, Berikan 5 damage tusuk. Counter the next card the enemy plays."
 cardName_11762,Soul freeze,凍りつく魂
 cardDesc_11762,"<color=#e6c14f>Exiled</color>, Counter the next 2 cards the enemy plays.",<color=#e6c14f>除外</color>\n敵が次にプレイする2枚のカードを打ち消す
 cardName_11766,Assimilate,活力の吸収
@@ -2196,9 +2196,9 @@ cardName_11801,Soul leech,魂の搾取
 cardDesc_11801,"<color=#e6c14f>Siphon</color> 7 mana, you have 30% chance to steal a card from your enemy's deck.",7点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardLevelUpDesc_11801,"<color=#e6c14f>Siphon</color> <color=#8adf6a>7</color> mana, you have 30% chance to steal a card from your enemy's deck.",<color=#8adf6a>7</color>点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardName_11805,Ferry,渡船
-cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く
+cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く,"Berikan 5 damage tusuk. If enemy has no mana, you draw 2 cards."
 cardName_11810,Harvest soul,魂の収穫
-cardDesc_11810,"Deal 5 piercing damage. If enemy has no mana, enemy loses half health (up to 60).",5点の貫通ダメージを与える。敵のMPが0の場合、敵は半分のHPを失う(最大60点のHPまで)
+cardDesc_11810,"Deal 5 piercing damage. If enemy has no mana, enemy loses half health (up to 60).",5点の貫通ダメージを与える。敵のMPが0の場合、敵は半分のHPを失う(最大60点のHPまで),"Berikan 5 damage tusuk. If enemy has no mana, enemy loses half health (up to 60)."
 cardName_11815,Dark World Guide,冥界の案内人
 cardDesc_11815,"If enemy has no mana, pick a card from 3 random cards, double its effect.",敵のMPが0の場合、ランダムな3枚のカードから1枚を選び、そのカードの効果を2倍にし、それを獲得する
 cardName_11820,Necromancy,ネクロマンシー
@@ -2268,13 +2268,13 @@ cardDesc_11975,"<color=#e6c14f>Exiled</color>, equip a <color=#e6c14f>Underworld
 cardName_11980,Knell,弔いの鐘
 cardDesc_11980,"At the start of your turn, draw the lowest lost card from your deck.",あなたのターンの開始時、デッキからMPのコストが一番低いカードを引く
 cardName_11990,Stigmata,幽体離脱
-cardDesc_11990,Deal 1 piercing damage for each card in enemy's deck.,敵のデッキにあるカードの枚数に等しいの貫通ダメージを与える
-cardDescEx_11990,Deal 1 piercing damage for each card in enemy's deck. (Deal {0} damage),敵のデッキにあるカードの枚数に等しいの貫通ダメージを与える（{0}点の貫通ダメージを与える）
+cardDesc_11990,Deal 1 piercing damage for each card in enemy's deck.,敵のデッキにあるカードの枚数に等しいの貫通ダメージを与える,Berikan 1 damage tusuk for each card in enemy's deck.
+cardDescEx_11990,Deal 1 piercing damage for each card in enemy's deck. (Deal {0} damage),敵のデッキにあるカードの枚数に等しいの貫通ダメージを与える（{0}点の貫通ダメージを与える）,Berikan 1 damage tusuk for each card in enemy's deck. (Deal {0} damage)
 cardName_11995,Death harvest,死者の収穫
-cardDesc_11995,Deal 4 piercing damage 1 to 2 times.,4点の貫通ダメージを与える。この効果を1回～2回発動する
+cardDesc_11995,Deal 4 piercing damage 1 to 2 times.,4点の貫通ダメージを与える。この効果を1回～2回発動する,Berikan 4 damage tusuk 1 to 2 times.
 cardName_11996,Death harvest,死者の収穫
-cardDesc_11996,Deal 4 piercing damage 1 to 3 times.,4点の貫通ダメージを与える。この効果を1回～3回発動する
-cardLevelUpDesc_11996,Deal 4 piercing damage 1 to <color=#8adf6a>3</color> times.,4点の貫通ダメージを与える。この効果を1回～<color=#8adf6a>3</color>回発動する
+cardDesc_11996,Deal 4 piercing damage 1 to 3 times.,4点の貫通ダメージを与える。この効果を1回～3回発動する,Berikan 4 damage tusuk 1 to 3 times.
+cardLevelUpDesc_11996,Deal 4 piercing damage 1 to <color=#8adf6a>3</color> times.,4点の貫通ダメージを与える。この効果を1回～<color=#8adf6a>3</color>回発動する,Berikan 4 damage tusuk 1 to <color=#8adf6a>3</color> times.
 cardName_12000,Fog of fear,忍び寄る恐怖
 cardDesc_12000,Shuffle 1 <color=#e6c14f>Fear</color> to enemy's deck.Enemy's spell card cost 1 more mana in this combat.,敵のデッキに<color=#e6c14f>恐怖</color>を1枚加える。この戦闘中、敵の魔法カードのMPコストを+1する
 cardName_12001,Fog of fear,忍び寄る恐怖
@@ -2335,25 +2335,25 @@ cardDesc_12505,Upgrade all your cards. Restore 4 health.,手札とデッキに�
 cardName_12506,Binge drinking,一気飲み
 cardDesc_12506,Upgrade all your cards. Restore 6 health.,手札とデッキにある全てのカードを昇級する。6点のHPを回復する
 cardName_13000,Death comes,死神降臨
-cardDesc_13000,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを与える
+cardDesc_13000,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk."
 cardName_13001,Death comes,死神降臨
-cardDesc_13001,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 2 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを2回与える
+cardDesc_13001,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 2 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを2回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 2 times."
 cardName_13002,Death comes,死神降臨
-cardDesc_13002,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 3 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを3回与える
+cardDesc_13002,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 3 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを3回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 3 times."
 cardName_13003,Death comes,死神降臨
-cardDesc_13003,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 4 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを4回与える
+cardDesc_13003,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 4 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを4回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 4 times."
 cardName_13004,Death comes,死神降臨
-cardDesc_13004,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 5 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを5回与える
+cardDesc_13004,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 5 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを5回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 5 times."
 cardName_13005,Death comes,死神降臨
-cardDesc_13005,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 6 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを6回与える
+cardDesc_13005,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 6 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを6回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 6 times."
 cardName_13006,Death comes,死神降臨
-cardDesc_13006,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 7 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを7回与える
+cardDesc_13006,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 7 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを7回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 7 times."
 cardName_13007,Death comes,死神降臨
-cardDesc_13007,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 8 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを8回与える
+cardDesc_13007,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 8 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを8回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 8 times."
 cardName_13008,Death comes,死神降臨
-cardDesc_13008,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 9 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを9回与える
+cardDesc_13008,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 9 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを9回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 9 times."
 cardName_13009,Death comes,死神降臨
-cardDesc_13009,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 10 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを10回与える
+cardDesc_13009,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage 10 times.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを10回与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk 10 times."
 cardName_13010,Toxicity spread,蔓延する毒
 cardDesc_13010,"Enemy suffers <color=#e6c14f>Chilled</color> ×1 for each <color=#e6c14f>Poisoned</color> enemy owns.Enemy suffers <color=#e6c14f>Poisoned</color> ×3. ",敵に<color=#e6c14f>毒</color>がある場合、敵の<color=#e6c14f>毒</color>を1点につき、1点の<color=#e6c14f>凍結</color>を与える。そして、敵に3点の<color=#e6c14f>毒</color>を与える
 cardName_13015,Queen of Viper,毒蛇の女王
@@ -2391,10 +2391,10 @@ cardDescEx_15193,Lose all <color=#e6c14f>Armor</color>. Deal 3 times damage. ({0
 cardName_15194,Interference robot,干渉ロボット
 cardDesc_15194,"At the beginning of your turn, the enemy suffers 1 <color=#e6c14f>Frailty</color>",あなたのターンの開始時、敵に1点の<color=#e6c14f>脆弱</color>を与える
 cardName_15195,Eliminate threats,安全措置
-cardDesc_15195,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 3 piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>する、1枚<color=#e6c14f>除外</color>\nする度に、4点の貫通ダメージを与える
+cardDesc_15195,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 3 piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>する、1枚<color=#e6c14f>除外</color>\nする度に、4点の貫通ダメージを与える,"Berikan 4 damage tusuk. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 3 piercing damage for each card exiled."
 cardName_15196,Remove the trap,安全措置
-cardDesc_15196,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 4 piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>する、1枚<color=#e6c14f>除外</color>\nする度に、4点の貫通ダメージを与える
-cardLevelUpDesc_15196,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal <color=#8adf6a>4</color> piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>\nする、1枚<color=#e6c14f>除外</color>する度に、<color=#8adf6a>4</color>点の貫通ダメージを与える
+cardDesc_15196,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 4 piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>する、1枚<color=#e6c14f>除外</color>\nする度に、4点の貫通ダメージを与える,"Berikan 4 damage tusuk. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal 4 piercing damage for each card exiled."
+cardLevelUpDesc_15196,"Deal 4 piercing damage. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal <color=#8adf6a>4</color> piercing damage for each card exiled.",4点の貫通ダメージを与え、敵<color=#e6c14f>フィールド</color>のカードを全部<color=#e6c14f>除外</color>\nする、1枚<color=#e6c14f>除外</color>する度に、<color=#8adf6a>4</color>点の貫通ダメージを与える,"Berikan 4 damage tusuk. <color=#e6c14f>Exile</color> all cards on the enemy’s field, deal <color=#8adf6a>4</color> piercing damage for each card exiled."
 cardName_15197,Energy release,エネルギー解放
 cardDesc_15197,Deal 2 lighting damage and gain 1 action.,2点の雷属性のダメージを与える。1点のアクションを獲得する。
 cardName_15198,Energy release,エネルギー解放
@@ -2413,7 +2413,7 @@ cardName_15206,Current injection,電流噴射
 cardDesc_15206,Gain 1 action. <color=#e6c14f>Exhausted</color>: deal 5 lightning damage.,1点のアクションを獲得する<color=#e6c14f>消耗</color>：5点の雷属性のダメージを与える。
 cardLevelUpDesc_15206,Gain 1 action. <color=#e6c14f>Exhausted</color>: deal <color=#8adf6a>5</color> lightning damage.,1点のアクションを獲得する<color=#e6c14f>消耗</color>：<color=#8adf6a>5</color>点の雷属性のダメージを与える。
 cardName_15207,Devourer,破壊獣
-cardDesc_15207,"When a card is exiled, deal 2 piercing damage.",カードを<color=#e6c14f>除外</color>すると、2点の貫通ダメージを与える
+cardDesc_15207,"When a card is exiled, deal 2 piercing damage.",カードを<color=#e6c14f>除外</color>すると、2点の貫通ダメージを与える,"When a card is exiled, Berikan 2 damage tusuk."
 cardName_15208,Energy storage,エネルギー保存
 cardDesc_15208,"Lose up to 2 action, gain double action in the next turn.",最大2点のアクションを失う、次のターンに、2倍のアクションを獲得する
 cardDescEx_15208,"Lose up to 2 action, gain double action in the next turn.",最大2点のアクションを失う、次のターンに、2倍のアクションを獲得する
@@ -2461,12 +2461,12 @@ cardName_15278,Explosive research,爆弾研究
 cardDesc_15278,Get 2 <color=#e6c14f>Mechanical Explosive</color>\nGet 2 more in the next turn,<color=#e6c14f>機械爆弾</color>を2枚獲得する、あなたの次のターンの開始時、も2枚の<color=#e6c14f>機械爆弾</color>を獲得する
 cardLevelUpDesc_15278,Get 2 <color=#e6c14f>Mechanical Explosive</color>\nGet <color=#8adf6a>2</color> more in the next turn,<color=#e6c14f>機械爆弾</color>を2枚獲得する、あなたの次のターンの開始時、も<color=#8adf6a>2</color>枚の<color=#e6c14f>機械爆弾</color>を獲得する
 cardName_15279,Mechanical explosive,機械爆弾
-cardDesc_15279,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 8 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に8貫通ダメージを与える。
+cardDesc_15279,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 8 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に8貫通ダメージを与える。,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, Berikan 8 damage tusuk."
 cardName_15280,Mechanical explosive,機械爆弾
-cardDesc_15280,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 11 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に11貫通ダメージを与える。
+cardDesc_15280,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 11 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に11貫通ダメージを与える。,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, Berikan 11 damage tusuk."
 cardLevelUpDesc_15280,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal <color=#8adf6a>11</color> piercing damage. ",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に<color=#8adf6a>11</color>貫通ダメージを与える。
 cardName_15281,Mechanical explosive,機械爆弾
-cardDesc_15281,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 14 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に14貫通ダメージを与える。
+cardDesc_15281,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal 14 piercing damage.",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に14貫通ダメージを与える。,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, Berikan 14 damage tusuk."
 cardLevelUpDesc_15281,"<color=#e6c14f>Exiled</color>. At the beginning of the next turn, deal <color=#8adf6a>14</color> piercing damage. ",<color=#e6c14f>除外</color>\n次のターンの開始時、敵に<color=#8adf6a>14</color>貫通ダメージを与える。
 cardName_15340,Defense matrix,メカ召喚
 cardDesc_15340,"<color=#e6c14f>Exiled</color>. Gain 3 <color=#e6c14f>Armor</color>, trigger all the effects of <color=#e6c14f>Armor</color> in the deck you carry",<color=#e6c14f>除外</color>\n3点の<color=#e6c14f>防御</color>を獲得する、デッキからすべての<color=#e6c14f>防御</color>を獲得する効果が発動する
@@ -2479,11 +2479,11 @@ cardName_15421,Reflective shield,反射シールド
 cardDesc_15421,Get 5 <color=#e6c14f>Armor</color>. Use all the attack cards in the top 3 cards of the deck,5点の<color=#e6c14f>防御</color>を獲得するデッキの一番上の3枚カードの攻撃カードを使う
 cardLevelUpDesc_15421,Get <color=#8adf6a>5</color> <color=#e6c14f>Armor</color>. Use all the attack cards in the top <color=#8adf6a>3</color> cards of the deck,<color=#8adf6a>5</color>点の<color=#e6c14f>防御</color>を獲得するデッキの一番上の<color=#8adf6a>3</color>枚カードの攻撃カードを使う
 cardName_15450,Mechanical rabbit,機械ウサギ
-cardDesc_15450,"Deal 4 piercing damage, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card",敵に4点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>：カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2、<color=#e6c14f>武装</color>：カード1枚を発動する
-cardDescEx_15450,"Deal 4 piercing damage, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card",敵に4点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>：カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2（{0}点）、<color=#e6c14f>武装</color>：カード1枚を発動する
-cardDesc_15451,"Deal 6 piercing damage, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card",敵に6点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2、<color=#e6c14f>武装</color>：カード1枚を発動する
+cardDesc_15450,"Deal 4 piercing damage, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card",敵に4点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>：カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2、<color=#e6c14f>武装</color>：カード1枚を発動する,"Berikan 4 damage tusuk, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card"
+cardDescEx_15450,"Deal 4 piercing damage, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card",敵に4点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>：カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2（{0}点）、<color=#e6c14f>武装</color>：カード1枚を発動する,"Berikan 4 damage tusuk, +2 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card"
+cardDesc_15451,"Deal 6 piercing damage, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card",敵に6点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+2、<color=#e6c14f>武装</color>：カード1枚を発動する,"Berikan 6 damage tusuk, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card"
 cardLevelUpDesc_15451,"Deal <color=#8adf6a>6</color> piercing damage, +<color=#8adf6a>3</color> for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color>. <color=#e6c14f>Assembly</color>: use 1 card",敵に<color=#8adf6a>6</color>点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+<color=#8adf6a>3</color>、<color=#e6c14f>武装</color>：カード1枚を発動する
-cardDescEx_15451,"Deal 6 piercing damage, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card",敵に6点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+3（{0}点）、<color=#e6c14f>武装</color>：カード1枚を発動する
+cardDescEx_15451,"Deal 6 piercing damage, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card",敵に6点の貫通ダメージを与える、あなたが<color=#e6c14f>武装</color>カードを1枚<color=#e6c14f>保有</color>すると、与えるダメージ+3（{0}点）、<color=#e6c14f>武装</color>：カード1枚を発動する,"Berikan 6 damage tusuk, +3 for each <color=#e6c14f>Assembly</color> card you <color=#e6c14f>have</color> ({0}). <color=#e6c14f>Assembly</color>: use 1 card"
 cardName_15460,Generator,発電機
 cardDesc_15460,"At the start of your turn, gain an action in this combat.",あなたの各ターンの開始時に、1点のアクションを獲得する
 cardName_15461,Speeding,超加速
@@ -2492,14 +2492,14 @@ cardName_15462,Speeding,超加速
 cardDesc_15462,"Draw 1 card, gain 5 action .",カードを1枚引き、5点のアクションを獲得する
 cardLevelUpDesc_15462,"Draw 1 card, gain <color=#8adf6a>5</color> action .",カードを1枚引き、<color=#8adf6a>5</color>点のアクションを獲得する
 cardName_15463,Metallic tone,金属音
-cardDesc_15463,"<color=#e6c14f>Exiled</color>, deal 2 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.",<color=#e6c14f>除外</color>\n2点の貫通ダメージを与える、敵に1点の<color=#e6c14f>脆弱</color>を与える
+cardDesc_15463,"<color=#e6c14f>Exiled</color>, deal 2 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.",<color=#e6c14f>除外</color>\n2点の貫通ダメージを与える、敵に1点の<color=#e6c14f>脆弱</color>を与える,"<color=#e6c14f>Exiled</color>, Berikan 2 damage tusuk. The enemy suffers 1 <color=#e6c14f>Frailty</color>."
 cardName_15464,Metallic tone,金属音
-cardDesc_15464,"<color=#e6c14f>Exiled</color>, deal 4 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.",<color=#e6c14f>除外</color>\n4点の貫通ダメージを与える、敵に1点の<color=#e6c14f>脆弱</color>を与える
+cardDesc_15464,"<color=#e6c14f>Exiled</color>, deal 4 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.",<color=#e6c14f>除外</color>\n4点の貫通ダメージを与える、敵に1点の<color=#e6c14f>脆弱</color>を与える,"<color=#e6c14f>Exiled</color>, Berikan 4 damage tusuk. The enemy suffers 1 <color=#e6c14f>Frailty</color>."
 cardLevelUpDesc_15464,"<color=#e6c14f>Exiled</color>, deal <color=#8adf6a>4</color> piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.",<color=#e6c14f>除外</color>\n<color=#8adf6a>4</color>点の貫通ダメージを与える、敵に1点の<color=#e6c14f>脆弱</color>を与える
 cardName_15470,Collapse,崩壊
-cardDesc_15470,Deal 3 piercing damage 2 times. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.,3点の貫通ダメージを2回与える、ランダムで敵のカード2枚<color=#e6c14f>除外</color>する
+cardDesc_15470,Deal 3 piercing damage 2 times. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.,3点の貫通ダメージを2回与える、ランダムで敵のカード2枚<color=#e6c14f>除外</color>する,Berikan 3 damage tusuk 2 times. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.
 cardName_15471,Collapse,崩壊
-cardDesc_15471,Deal 3 piercing damage 3 times. Randomly <color=#e6c14f>exile</color> 3 enemy's cards.,3点の貫通ダメージを3回与える、ランダムで敵のカード3枚<color=#e6c14f>除外</color>する
+cardDesc_15471,Deal 3 piercing damage 3 times. Randomly <color=#e6c14f>exile</color> 3 enemy's cards.,3点の貫通ダメージを3回与える、ランダムで敵のカード3枚<color=#e6c14f>除外</color>する,Berikan 3 damage tusuk 3 times. Randomly <color=#e6c14f>exile</color> 3 enemy's cards.
 cardLevelUpDesc_15471,Deal <color=#8adf6a>3</color> piercing damage 3 times. Randomly <color=#e6c14f>exile</color> <color=#8adf6a>3</color>enemy's cards.,3点の貫通ダメージを<color=#8adf6a>3</color>回与える、ランダムで敵のカード<color=#8adf6a>3</color>枚<color=#e6c14f>除外</color>する
 cardName_15530,Vacuum cleaner,掃除機
 cardDesc_15530,"When the enemy's card is exiled, you have 50% chance to get 1 copy*.",敵のカードを<color=#e6c14f>除外</color>する度に、50%の確率でそのカードの一時的なコピーを獲得する
@@ -2527,61 +2527,61 @@ cardName_15562,Multiplying bullet,増殖弾LV3
 cardDesc_15562,Deal 6 damage. Play 1 card in your deck. Shuffle a level 1 multiplying robot into your deck.,6点のダメージを与え、デッキから攻撃カードを1枚プレイする、増殖弾LV1のコピーをデッキに加える
 cardLevelUpDesc_15562,Deal <color=#8adf6a>6</color> damage. Play 1 card in your deck. <color=#8adf6a>Shuffle a level 1 multiplying robot into the deck</color>,<color=#8adf6a>6</color>点のダメージを与え、デッキから攻撃カードを1枚プレイする、<color=#8adf6a>増殖弾LV1のコピーをデッキに加える</color>
 cardName_15600,Rechargeable cannon,カノン砲
-cardDesc_15600,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）
+cardDesc_15600,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）,"Berikan 5 damage tusuk (the damage is doubled after upgrade, but it will return to level 1 after use)"
 cardName_15601,Rechargeable cannon,カノン砲
-cardDesc_15601,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15601,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 10 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15601,"Deal <color=#8adf6a>10</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>10</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15602,Rechargeable cannon,カノン砲
-cardDesc_15602,"Deal 20 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に20点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
+cardDesc_15602,"Deal 20 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に20点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放,"Berikan 20 damage tusuk, return to level 1 after use, and increase the upgrade limit by 1."
 cardLevelUpDesc_15602,"Deal <color=#8adf6a>20</color> piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に<color=#8adf6a>20</color>点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
 cardName_15603,Rechargeable cannon type 2,カノン砲Ⅱ式
-cardDesc_15603,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）
+cardDesc_15603,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）,"Berikan 5 damage tusuk (the damage is doubled after upgrade, but it will return to level 1 after use)"
 cardName_15604,Rechargeable cannon type 2,カノン砲Ⅱ式
-cardDesc_15604,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15604,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 10 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15604,"Deal <color=#8adf6a>10</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>10</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15605,Rechargeable cannon type 2,カノン砲Ⅱ式
-cardDesc_15605,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15605,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 20 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15605,"Deal <color=#8adf6a>20</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>20</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15606,Rechargeable cannon type 2,カノン砲Ⅱ式
-cardDesc_15606,"Deal 40 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に40点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
+cardDesc_15606,"Deal 40 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に40点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放,"Berikan 40 damage tusuk, return to level 1 after use, and increase the upgrade limit by 1."
 cardLevelUpDesc_15606,"Deal <color=#8adf6a>40</color> piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に<color=#8adf6a>40</color>点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
 cardName_15607,Rechargeable cannon type 3,カノン砲Ⅲ式
-cardDesc_15607,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）
+cardDesc_15607,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）,"Berikan 5 damage tusuk (the damage is doubled after upgrade, but it will return to level 1 after use)"
 cardName_15608,Rechargeable cannon type 3,カノン砲Ⅲ式
-cardDesc_15608,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15608,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 10 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15608,"Deal <color=#8adf6a>10</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>10</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15609,Rechargeable cannon type 3,カノン砲Ⅲ式
-cardDesc_15609,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15609,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 20 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15609,"Deal <color=#8adf6a>20</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>20</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15610,Rechargeable cannon type 3,カノン砲Ⅲ式
-cardDesc_15610,"Deal 40 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に40点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15610,"Deal 40 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に40点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 40 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15610,"Deal <color=#8adf6a>40</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>40</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15611,Rechargeable cannon type 3,カノン砲Ⅲ式
-cardDesc_15611,"Deal 80 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に80点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
+cardDesc_15611,"Deal 80 piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に80点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放,"Berikan 80 damage tusuk, return to level 1 after use, and increase the upgrade limit by 1."
 cardLevelUpDesc_15611,"Deal <color=#8adf6a>80</color> piercing damage, return to level 1 after use, and increase the upgrade limit by 1.",敵に<color=#8adf6a>80</color>点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
 cardName_15612,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15612,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）
+cardDesc_15612,"Deal 5 piercing damage (the damage is doubled after upgrade, but it will return to level 1 after use)",敵に5点の貫通ダメージを与える。（昇格するとダメージを2倍になる、ただし、プレイした後はレベル1に戻る）,"Berikan 5 damage tusuk (the damage is doubled after upgrade, but it will return to level 1 after use)"
 cardName_15613,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15613,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15613,"Deal 10 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に10点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 10 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15613,"Deal <color=#8adf6a>10</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>10</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15614,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15614,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15614,"Deal 20 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に20点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 20 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15614,"Deal <color=#8adf6a>20</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>20</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15615,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15615,"Deal 40 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に40点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15615,"Deal 40 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に40点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 40 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15615,"Deal <color=#8adf6a>40</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>40</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15616,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15616,"Deal 80 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に80点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
+cardDesc_15616,"Deal 80 piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に80点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）,"Berikan 80 damage tusuk, return to level 1 after use (the damage is doubled after upgrade)"
 cardLevelUpDesc_15616,"Deal <color=#8adf6a>80</color> piercing damage, return to level 1 after use (the damage is doubled after upgrade)",敵に<color=#8adf6a>80</color>点の貫通ダメージを与える。（昇格するとダメージを2倍になる、プレイした後はレベル1に戻る）
 cardName_15617,Rechargeable cannon type 4,カノン砲Ⅳ式
-cardDesc_15617,"Deal 160 piercing damage, +C2639:C2669return to level 1 after use.",敵に160点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
+cardDesc_15617,"Deal 160 piercing damage, +C2639:C2669return to level 1 after use.",敵に160点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放,"Berikan 160 damage tusuk, +C2639:C2669return to level 1 after use."
 cardLevelUpDesc_15617,"Deal <color=#8adf6a>160</color> piercing damage, +C2639:C2669return to level 1 after use.",敵に<color=#8adf6a>160</color>点の貫通ダメージを与える。プレイした後はレベル1に戻る昇格上限1解放
 cardName_15735,Mechanical copy,メカニカルコピー
 cardDesc_15735,"<color=#e6c14f>Exiled</color>, choose a card from your hand. At the beginning of the next turn, get 1 copies.",<color=#e6c14f>除外</color>手札カードを1枚選び、次のターンの開始時、それのコピーを1枚獲得する。
 cardName_15809,Mechanical Blade,メカクロスボウ
-cardDesc_15809,Deal 5 piercing damage. Randomly <color=#e6c14f>exile</color> 1 enemy's cards.,5点の貫通ダメージを与える。ランダムで敵のカード1枚<color=#e6c14f>除外</color>する
+cardDesc_15809,Deal 5 piercing damage. Randomly <color=#e6c14f>exile</color> 1 enemy's cards.,5点の貫通ダメージを与える。ランダムで敵のカード1枚<color=#e6c14f>除外</color>する,Berikan 5 damage tusuk. Randomly <color=#e6c14f>exile</color> 1 enemy's cards.
 cardName_15810,Mechanical Blade,メカクロスボウ
-cardDesc_15810,Deal 7 piercing damage. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.,7点の貫通ダメージを与える。ランダムで敵のカード2枚<color=#e6c14f>除外</color>する
+cardDesc_15810,Deal 7 piercing damage. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.,7点の貫通ダメージを与える。ランダムで敵のカード2枚<color=#e6c14f>除外</color>する,Berikan 7 damage tusuk. Randomly <color=#e6c14f>exile</color> 2 enemy's cards.
 cardLevelUpDesc_15810,Deal <color=#8adf6a>7</color> piercing damage. Randomly <color=#e6c14f>exile</color> <color=#8adf6a>2</color> enemy's cards.,<color=#8adf6a>7</color>点の貫通ダメージを与える。ランダムで敵のカード<color=#8adf6a>2</color>枚<color=#e6c14f>除外</color>する
 cardName_15815,Self-repair,自己修復
 cardDesc_15815,"<color=#e6c14f>Exile</color> , regain all the <color=#e6c14f>armor</color> lost in this battle.",<color=#e6c14f>除外</color>この戦闘で失われたすべての<color=#e6c14f>防御</color>を取り戻す。
@@ -2592,7 +2592,7 @@ cardName_15821,Grapple,1
 cardDesc_15821,"<color=#e6c14f>Exiled</color>, deal 4 damage, gain a copy of the last action card you played this turn.",1
 cardLevelUpDesc_15821,"<color=#e6c14f>Exiled</color>, deal <color=#8adf6a>4</color> damage, gain a copy of the last action card you played this turn.",1
 cardName_15823,Drill,ドリル
-cardDesc_15823,"Every time you lose 1 Action, deal 1 piercing damage.",失ったアクション1点につき1点の貫通ダメージ与える
+cardDesc_15823,"Every time you lose 1 Action, deal 1 piercing damage.",失ったアクション1点につき1点の貫通ダメージ与える,"Every time you lose 1 Action, Berikan 1 damage tusuk."
 cardName_15825,Mass production device,量産装置
 cardDesc_15825,"Shuffle 10 random cards into the deck, the number of cards drawn in this battle+1",<color=#e6c14f>除外</color>\nランダムにカードを10枚あなたのデッキに加える。あなたの各ターンの開始時に、手札の上限+1
 cardName_15826,Dynamite airship,爆弾飛行船
@@ -2624,17 +2624,17 @@ cardName_15853,Mechanical blow,機械強打
 cardDesc_15853,"Deal 1 damage, +1 for each card you <color=#e6c14f>have</color> more than the enemy.",1点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+１
 cardDescEx_15853,"Deal 1 damage, +1 for each card you <color=#e6c14f>have</color> more than the enemy. ({0} damage)",1点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+１({0})
 cardName_15855,Mechanical regrind,機械強擊
-cardDesc_15855,"Deal 6 piercing damage, +2 for each card you <color=#e6c14f>have</color> more than the enemy",6点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+2
-cardDescEx_15855,"Deal 6 piercing damage, +2 for each card you <color=#e6c14f>have</color> more than the enemy ({0} damage)",6点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+2({0})
+cardDesc_15855,"Deal 6 piercing damage, +2 for each card you <color=#e6c14f>have</color> more than the enemy",6点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+2,"Berikan 6 damage tusuk, +2 for each card you <color=#e6c14f>have</color> more than the enemy"
+cardDescEx_15855,"Deal 6 piercing damage, +2 for each card you <color=#e6c14f>have</color> more than the enemy ({0} damage)",6点のダメージを与える、<color=#e6c14f>保有</color>するカードの数は敵より多くの場合、1枚につき与えるダメージ+2({0}),"Berikan 6 damage tusuk, +2 for each card you <color=#e6c14f>have</color> more than the enemy ({0} damage)"
 cardName_15859,Repair wrench,特殊レンチ
 cardDesc_15859,"Gain 3 <color=#e6c14f>Armor</color>, upgrade your hand.",3点の<color=#e6c14f>防御</color>を獲得する、手札カードを昇格する
 cardName_15860,Repair wrench,特殊レンチ
 cardDesc_15860,"Gain 5 <color=#e6c14f>Armor</color>, upgrade your hand twice.",5点の<color=#e6c14f>防御</color>を獲得する、手札カードを2回昇格する
 cardLevelUpDesc_15860,"Gain <color=#8adf6a>5</color> <color=#e6c14f>Armor</color>, upgrade your hand <color=#8adf6a>twice</color>.",<color=#8adf6a>5</color>点の<color=#e6c14f>防御</color>を獲得する、手札カードを<color=#8adf6a>2</color>回昇格する
 cardName_15865,Repair wrench,スーパーパワー
-cardDesc_15865,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: deal 2 piercing damage, randomly <color=#e6c14f>exile</color> an enemy's card.",<color=#e6c14f>除外</color>\n1点のアクションを獲得するし、<color=#e6c14f>消耗</color>：2点の貫通ダメージを与える、ランダムで敵のカード2枚<color=#e6c14f>除外</color>する
+cardDesc_15865,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: deal 2 piercing damage, randomly <color=#e6c14f>exile</color> an enemy's card.",<color=#e6c14f>除外</color>\n1点のアクションを獲得するし、<color=#e6c14f>消耗</color>：2点の貫通ダメージを与える、ランダムで敵のカード2枚<color=#e6c14f>除外</color>する,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: Berikan 2 damage tusuk, randomly <color=#e6c14f>exile</color> an enemy's card."
 cardName_15866,Repair wrench,スーパーパワー
-cardDesc_15866,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: deal 3 piercing damage, randomly <color=#e6c14f>exile</color> an enemy's card.",<color=#e6c14f>除外</color>\n1点のアクションを獲得するし、<color=#e6c14f>消耗</color>：3点の貫通ダメージを与える、ランダムで敵のカード1枚<color=#e6c14f>除外</color>する
+cardDesc_15866,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: deal 3 piercing damage, randomly <color=#e6c14f>exile</color> an enemy's card.",<color=#e6c14f>除外</color>\n1点のアクションを獲得するし、<color=#e6c14f>消耗</color>：3点の貫通ダメージを与える、ランダムで敵のカード1枚<color=#e6c14f>除外</color>する,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: Berikan 3 damage tusuk, randomly <color=#e6c14f>exile</color> an enemy's card."
 cardLevelUpDesc_15866,"<color=#e6c14f>Exiled</color>, gain 1 action. <color=#e6c14f>Exhausted</color>: deal <color=#8adf6a>3</color> piercing damage, randomly <color=#e6c14f>exile</color> an enemy's card.",<color=#e6c14f>除外</color>\n1点のアクションを獲得するし、<color=#e6c14f>消耗</color>：<color=#8adf6a>3</color>点の貫通ダメージを与える、ランダムで敵のカード1枚<color=#e6c14f>除外</color>する
 cardName_15870,Smoke bomb,煙幕弾
 cardDesc_15870,<color=#e6c14f>Exiled</color>. Draw a card. You take 2 less damage until your next turn.,<color=#e6c14f>除外</color>、カードを1枚引く。あなたの次のターンまで、受けるダメージ-2
@@ -2660,9 +2660,9 @@ cardName_15967,Upgrade,昇格改造
 cardDesc_15967,"Upgrade all cards you <color=#e6c14f>have</color>.For every level overflowed, gain 1 <color=#e6c14f>armor</color>.",<color=#e6c14f>保有</color>カードを昇格する、昇格の上限を超えた場合、等しい<color=#e6c14f>防御</color>を獲得する
 cardDescEx_15967,"Upgrade all cards you <color=#e6c14f>have</color>.For every level overflowed, gain 1 <color=#e6c14f>armor</color>. ({0})",<color=#e6c14f>保有</color>カードを昇格する、昇格の上限を超えた場合、等しい<color=#e6c14f>防御</color>を獲得する（{0}点<color=#e6c14f>防御</color>を獲得する）
 cardName_15980,Interference sound,騒音
-cardDesc_15980,Deal 7 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.,7点の貫通ダメージを与える。敵に1点の<color=#e6c14f>脆弱</color>を与える
+cardDesc_15980,Deal 7 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.,7点の貫通ダメージを与える。敵に1点の<color=#e6c14f>脆弱</color>を与える,Berikan 7 damage tusuk. The enemy suffers 1 <color=#e6c14f>Frailty</color>.
 cardName_15981,Interference sound,騒音
-cardDesc_15981,Deal 10 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.,10点の貫通ダメージを与える。敵に1点の<color=#e6c14f>脆弱</color>を与える
+cardDesc_15981,Deal 10 piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.,10点の貫通ダメージを与える。敵に1点の<color=#e6c14f>脆弱</color>を与える,Berikan 10 damage tusuk. The enemy suffers 1 <color=#e6c14f>Frailty</color>.
 cardLevelUpDesc_15981,Deal <color=#8adf6a>10</color> piercing damage. The enemy suffers 1 <color=#e6c14f>Frailty</color>.,<color=#8adf6a>10</color>点の貫通ダメージを与える。敵に1点の<color=#e6c14f>脆弱</color>を与える
 cardName_15985,Fortress,防御要塞
 cardDesc_15985,Inflict 2 piercing damage 2 times. Gain the same amount of <color=#e6c14f>Armor</color>.,2点の貫通ダメージを2回与える、ダメージと等しい点数の<color=#e6c14f>防御</color>を獲得する。
@@ -2787,7 +2787,7 @@ cardSpecialDesc_1053,<color=#ffffff>Twist the Hairspring:</color> A card that tr
 cardSpecialDesc_1055,<color=#ffffff>Sleeping Wind Knight:</color> An equipment card.,<color=#ffffff>眠りの時計仕掛けの騎士：</color>1枚の装備カード
 cardSpecialDesc_1056,<color=#ffffff>Temper:</color> Exile potion cards you play each turn.,<color=#ffffff>ブレンド：</color>プレイしたポーションを全てゲームから除外する。ターンの終了時、ブレンドしたポーションを獲得する
 cardSpecialDesc_1057,<color=#ffffff>Temporary:</color> temporary cards will disappear after they come into effect and cannot be returned to the cards group.,<color=#ffffff>臨時：</color>一時的なカードは効果を発動後、対象のカードは無くなり、デッキに戻らない。
-cardSpecialDesc_1058,<color=#ffffff>Witch's Crucible:</color> Equipment Card: Deal 2 piercing damage when youii exile a card.,<color=#ffffff>魔女のるつぼ：</color>装備カード：カードを外す時、2点の貫通ダメージを与える。
+cardSpecialDesc_1058,<color=#ffffff>Witch's Crucible:</color> Equipment Card: Deal 2 piercing damage when youii exile a card.,<color=#ffffff>魔女のるつぼ：</color>装備カード：カードを外す時、2点の貫通ダメージを与える。,<color=#ffffff>Witch's Crucible:</color> Equipment Card: Berikan 2 damage tusuk when youii exile a card.
 cardSpecialDesc_1059,"<color=#ffffff>Spear Strike:</color> Deal damage at the start of your turn, reduced when taking damage.",<color=#ffffff>槍投げの準備：</color>次のターンの開始時に、カウント分のダメージを与える。ダメージを受けるたびに、ダメージ分のカウントを減らす
 cardSpecialDesc_1060,<color=#ffffff> Effective Card:</color> Card with Effective description.,<color=#ffffff>改良カード:</color>「改良」が付くカードのことを指す。
 cardSpecialDesc_1071,"<color=#ffffff>Freeze:</color> 1-cost action card: Exile, draw a card.",<color=#ffffff>減速:</color>1アクション消耗のカードでカードを1枚引く。
@@ -2799,7 +2799,7 @@ cardSpecialDesc_1085,"<color=#ffffff>Underworld flower:</color> Equip card: At t
 cardSpecialDesc_1086,"<color=#ffffff>Spiritualism:</color> Spell cards: Pay 2 health to siphon 3 mana, draw a card.",<color=#ffffff>降霊術：</color>コスト＝2HP：3点のMPを吸収し、カードを1枚引く
 cardSpecialDesc_1087,"<color=#ffffff>Consume life:</color> This is a life consuming card. When used, you wil lose health equal to the number in the upper left corner",<color=#ffffff>コストがHP：</color>MPの代わりに、コストをHPで支払う魔法カード。左上のコストが赤色
 cardSpecialDesc_1088,"<color=#ffffff>Better luck:</color>100% chance to trigger all probability, and the maximum value for all floating effects.",<color=#ffffff>幸運：</color>全ての確率を100%にし、ランダム回数で発動するカードの効果は最大数になる
-cardSpecialDesc_1119,<color=#ffffff>Mechanical Explosives:</color> Deal 8 piercing damage in the next turn.,<color=#ffffff>機械爆弾：</color>次のターンに、8点の貫通ダメージを与える
+cardSpecialDesc_1119,<color=#ffffff>Mechanical Explosives:</color> Deal 8 piercing damage in the next turn.,<color=#ffffff>機械爆弾：</color>次のターンに、8点の貫通ダメージを与える,<color=#ffffff>Mechanical Explosives:</color> Berikan 8 damage tusuk in the next turn.
 cardSpecialDesc_1121,"<color=#ffffff>Have:</color> Means all cards in the deck, field, and hand. Removed cards are not counted",<color=#ffffff>保有：</color>デッキ、フィールド、手札のすべてのカードを保有カードと見なし
 cardSpecialDesc_1124,"<color=#ffffff>Exhausted:</color> Consume your remaining action, and each will have a certain effect",<color=#ffffff>消耗：</color>残りのアクションを消耗し、1点につき一定の効果が得られる。
 cardSpecialDesc_1125,"<color=#ffffff>On the field:</color> Including equipment cards, prayer cards, counter cards",<color=#ffffff>フィールド：</color>装備カード、祈りカード、カウンターカード
@@ -4123,8 +4123,8 @@ heroSkillName_73,Heaven and Hell,悪魔の天秤
 heroSkillStory_73," CD: 3 Combats\nChoice: Gain 8 mana or draw 2 cards.",充填：3\n選択：8点のMPを獲得する／カードを2枚引く
 heroSkillStory_Discover_73,Choice: Gain 8 mana or draw 2 cards.,選択：8点のMPを獲得する／カードを2枚引く
 heroSkillName_74,Hand of God,神の手
-heroSkillStory_74," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",充填：4\nランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する
-heroSkillStory_Discover_74,"Trigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する
+heroSkillStory_74," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",充填：4\nランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
+heroSkillStory_Discover_74,"Trigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
 heroSkillName_75,Natural Mark,ルーン石の加護
 heroSkillStory_75," CD: 3 Combats\nDraw 1 card. Halve any elemental damage you take until next turn.",充填：3\nカードを1枚引く。次のターンまで、あなたが受ける属性ダメージを半減する
 heroSkillStory_Discover_75,Draw 1 card. Halve any elemental damage you take until next turn.,カードを1枚引く。次のターンまで、あなたが受ける属性ダメージを半減する
@@ -4135,8 +4135,8 @@ heroSkillName_77,Sacred Sanctuary,聖なる守り
 heroSkillStory_77," CD: 3 Combats\nGain immunity from all damage until your next turn.",充填：3\nあなたの次のターンまで、無敵状態になる
 heroSkillStory_Discover_77,Gain immunity from all damage until your next turn.,あなたの次のターンまで、無敵状態になる
 heroSkillName_78,Angry Spirit,悪霊の執念
-heroSkillStory_78," CD: 3 Combats\nDeal 10 piercing damage to the enemy. Return this card to your hand at the start of your next turn.",充填：3\n敵に10点の貫通ダメージを与える。次のターンの開始時、悪霊の執念を手札に加える
-heroSkillStory_Discover_78,Deal 10 piercing damage to the enemy. Return this card to your hand at the start of your next turn.,敵に10貫通ダメージを与える。次のターンの開始時、悪霊の執念を手札に加える
+heroSkillStory_78," CD: 3 Combats\nDeal 10 piercing damage to the enemy. Return this card to your hand at the start of your next turn.",充填：3\n敵に10点の貫通ダメージを与える。次のターンの開始時、悪霊の執念を手札に加える," CD: 3 Combats\nBerikan 10 damage tusuk to the enemy. Return this card to your hand at the start of your next turn."
+heroSkillStory_Discover_78,Deal 10 piercing damage to the enemy. Return this card to your hand at the start of your next turn.,敵に10貫通ダメージを与える。次のターンの開始時、悪霊の執念を手札に加える,Berikan 10 damage tusuk to the enemy. Return this card to your hand at the start of your next turn.
 heroSkillName_79,Wither,衰弱
 heroSkillStory_79," CD: 4 Combats\nDouble the enemy's current <color=#e6c14f>Poisoned</color> status. The enemy suffers <color=#e6c14f>Poisoned</color> ×6.",充填：4\n敵の<color=#e6c14f>毒</color>を倍にする。そして、敵に6点の<color=#e6c14f>毒</color>を与える
 heroSkillStory_Discover_79,Double the enemy's current <color=#e6c14f>Poisoned</color> status. The enemy suffers <color=#e6c14f>Poisoned</color> ×6.,敵の<color=#e6c14f>毒</color>を倍にする。そして、敵に6点の<color=#e6c14f>毒</color>を与える
@@ -4318,14 +4318,14 @@ heroSkillName_138,Impact,猪突猛進
 heroSkillStory_138," CD: 3 Combats\nDeal damage equal to 30% of your current health (rounded down).",充填：3\nあなたの残りHPの30%に等しいのダメージを与える
 heroSkillStory_Discover_138,Deal damage equal to 30% of your current health (rounded down).,あなたの残りHPの30%に等しいのダメージを与える
 heroSkillName_139,Pre-emptive Attack,攻撃態勢
-heroSkillStory_139," CD: 3 Combats\nDeal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",充填：3\n2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える
-heroSkillStory_Discover_139,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える
+heroSkillStory_139," CD: 3 Combats\nDeal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",充填：3\n2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える," CD: 3 Combats\nBerikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage."
+heroSkillStory_Discover_139,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage."
 heroSkillName_140,Pre-emptive Healing,治療態勢
 heroSkillStory_140," CD: 3 Combats\nRestore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",充填：3\n2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する
 heroSkillStory_Discover_140,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する
 heroSkillName_141,Lunacy,狂気
-heroSkillStory_141," CD: 3 Combats\nUntil next turn, deal 5 piercing damage each time you discard a card at hand.",充填：3\nあなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える
-heroSkillStory_Discover_141,"Until next turn, deal 5 piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える
+heroSkillStory_141," CD: 3 Combats\nUntil next turn, deal 5 piercing damage each time you discard a card at hand.",充填：3\nあなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える," CD: 3 Combats\nUntil next turn, Berikan 5 damage tusuk each time you discard a card at hand."
+heroSkillStory_Discover_141,"Until next turn, deal 5 piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える,"Until next turn, Berikan 5 damage tusuk each time you discard a card at hand."
 heroSkillName_142,Transform,入れ替えトリック
 heroSkillStory_142," CD: 3 Combats\nGain 1 spell card from your deck. The cards with the highest and lowest mana costs in your hand swap their costs.",充填：3\nデッキから魔法カードを1枚引く。手札の中にあるMPのコストが一番高いカードと一番低いカードのコストを入れ替える
 heroSkillStory_Discover_142,Gain 1 spell card from your deck. The cards with the highest and lowest mana costs in your hand swap their costs.,デッキから魔法カードを1枚引く。手札の中にあるMPのコストが一番高いカードと一番低いカードのコストを入れ替える
@@ -4342,8 +4342,8 @@ heroSkillName_146,Magic Field,マジックのステージ
 heroSkillStory_146," CD: 3 Combats\nDuring this turn, draw 1 card every time a counter card is put in play. (no more than 3)",充填：3\nこのターン中、あなたがカウンターカードをプレイする度に、カードを1枚引く（最大3枚まで）
 heroSkillStory_Discover_146,"During this turn, draw 1 card every time a counter card is put in play. (no more than 3)",このターン中、あなたがカウンターカードをプレイする度に、カードを1枚引く（最大3枚まで）
 heroSkillName_147,Zen Blast,念力大爆発
-heroSkillStory_147," CD: 3 Combats\nDeal 30 piercing damage.",充填：3\n30点の貫通ダメージを与える
-heroSkillStory_Discover_147,Deal 30 piercing damage.,30点の貫通ダメージを与える
+heroSkillStory_147," CD: 3 Combats\nDeal 30 piercing damage.",充填：3\n30点の貫通ダメージを与える," CD: 3 Combats\nBerikan 30 damage tusuk."
+heroSkillStory_Discover_147,Deal 30 piercing damage.,30点の貫通ダメージを与える,Berikan 30 damage tusuk.
 heroSkillName_148,Ghost Card,オールマイティ
 heroSkillStory_148," CD: 2 Combats\nThis card is treated as the last spell card you played.",充填：2\nこのカードはあなたが前にプレイした魔法カードの効果になる
 heroSkillStory_Discover_148,This card is treated as the last spell card you played.,このカードはあなたが前にプレイした魔法カードの効果になる
@@ -4495,8 +4495,8 @@ heroSkillName_197,Chemical Rage,薬品暴走
 heroSkillStory_197," CD: 2 Combats\nShuffle 3 <color=#e6c14f>Effective Brewing</color> cards into your deck.",充填：2\nデッキに<color=#e6c14f>薬品の改良</color>を3枚加える
 heroSkillStory_Discover_197,Shuffle 3 <color=#e6c14f>Effective Brewing</color> cards into your deck.,デッキに<color=#e6c14f>薬品の改良</color>を3枚加える
 heroSkillName_198,Shadow Strike,闇の一撃
-heroSkillStory_198," CD: 3 Combats\nDeal 10 piercing damage. Restore 10% of the health you've lost.",充填：3\n10点の貫通ダメージを与え、失ったHPの10%を回復する
-heroSkillStory_Discover_198,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する
+heroSkillStory_198," CD: 3 Combats\nDeal 10 piercing damage. Restore 10% of the health you've lost.",充填：3\n10点の貫通ダメージを与え、失ったHPの10%を回復する," CD: 3 Combats\nBerikan 10 damage tusuk. Restore 10% of the health you've lost."
+heroSkillStory_Discover_198,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Restore 10% of the health you've lost.
 heroSkillName_199,Stamina Supply,体力剤
 heroSkillStory_199," CD: 3 Combats\nAction + 3.",充填：3\n3点のアクションを獲得する
 heroSkillStory_Discover_199,Action + 3.,3点のアクションを獲得する
