@@ -39,3 +39,9 @@ DEPRECATED, for now it's just notes for actions instead of that...
 starting from line 107
   regex: (Deal (.*) physical damage([^,]*),.*)$ -> $1,Berikan $2 damage fisik$3
     manually changed one by one, partial translation there.
+
+starting from line 115
+  regex: (Deal (\d*) piercing damage([^,]*),.*)$ -> $1,Berikan $2 damage tusuk$3
+  evolve!
+    regex: (([^,]*)Deal (\d*) piercing damage([^,]*),.*)$ -> $1,$2Berikan $3 damage tusuk$4
+  sampai line 852

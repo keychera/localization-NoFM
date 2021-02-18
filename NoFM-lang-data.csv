@@ -53,16 +53,16 @@ cardLevelUpDesc_19,Deal <color=#8adf6a>6</color> lightning damage. You deal + 1 
 cardName_20,Lightning Strike,落雷,Serangan Listrik
 cardDesc_20,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
 cardName_21,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_21,Deal 1 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,1点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 1 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardDescEx_21,Deal <color=#8adf6a>1</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>1</color> serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDesc_21,Deal 1 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,1点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 1 damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDescEx_21,Deal <color=#8adf6a>1</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>1</color> damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardName_22,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_22,Deal 3 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,3点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 3 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardLevelUpDesc_22,Deal <color=#8adf6a>3</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>3</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>3</color> serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardDescEx_22,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDesc_22,Deal 3 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,3点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 3 damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardLevelUpDesc_22,Deal <color=#8adf6a>3</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>3</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>3</color> damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDescEx_22,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardName_23,Piercing Attack,鋭い一撃,Serangan Tusuk
-cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,5点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 5 serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardLevelUpDesc_23,Deal <color=#8adf6a>5</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>5</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>5</color> serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
-cardDescEx_23,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} serangan menusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDesc_23,Deal 5 piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,5点の貫通ダメージを与える。あなたの<color=#e6c14f>防御</color>4点ごとに+1貫通ダメージ,Berikan 5 damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardLevelUpDesc_23,Deal <color=#8adf6a>5</color> piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,<color=#8adf6a>5</color>点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan <color=#8adf6a>5</color> damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
+cardDescEx_23,Deal {0} piercing damage + 1 for every 4 points of <color=#e6c14f>Armor</color> you have.,{0}点の貫通ダメージを与える。あなたの防御4点ごとに+1貫通ダメージ,Berikan {0} damage tusuk + 1 untuk setiap <color=#e6c14f>Armor</color> yang kau punya
 cardName_24,Divine Strike,聖なる光,Serangan Ilahi
 cardDesc_24,Deal 2 physical damage and restore the same amount of health.,2点のダメージを与える。与えたダメージに等しいHPを回復する,Berikan 2 damage fisik dan sembuhkan nyawa dengan jumlah yang sama
 cardName_25,Divine Strike,聖なる光,Serangan Ilahi
@@ -104,17 +104,17 @@ cardDescEx_38,Deal {0} physical damage + 1 for each action card played this turn
 cardName_39,Bite of Fear,噛まれる恐怖,Gigitan Kegentaran
 cardDesc_39,<color=#e6c14f>Exiled</color>. Deal 2 physical damage. The enemy suffers <color=#e6c14f>Weakness</color> for 1 turn.,<color=#e6c14f>除外</color>\n2点のダメージを与える。敵を1ターンの間<color=#e6c14f>弱化</color>させる,Berikan 2 damage fisik. Musuh akan menderita <color=#e6c14f>Lemah</color> untuk 1 putaran.
 cardName_40,Chomp,噛みつき,Gigit
-cardDesc_40,Deal 2 physical damage + 2 for each Claw Swipe you’ve played this turn.,2点のダメージを与える。このターンにプレイした鋭い爪1枚につきダメージ+2,Berikan 2 damage fisik + 2 for each Claw Swipe you’ve played this turn.
-cardName_41,Spiny Shield,棘の障壁
-cardDesc_41,Deal 3 physical damage. Take 1 less damage until next turn.,3点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan 3 damage fisik. Take 1 less damage until next turn.
-cardName_42,Shield Crusher,盾割り
-cardDesc_42,Deal 2 physical damage. The enemy loses 50% Armor.,2点のダメージを与え、敵は防御を半分失う,Berikan 2 damage fisik. The enemy loses 50% Armor.
-cardName_43,Burn,火傷
-cardDesc_43,Enemy suffers <color=#e6c14f>Burned</color> ×2.,敵に2点の<color=#e6c14f>やけど</color>を与える
-cardName_44,Chaos Strike,滅多打ち
-cardDesc_44,Deal 3 piercing damage.,3点の貫通ダメージを与える
-cardName_45,Chaos Strike,滅多打ち
-cardDesc_45,Deal 5 piercing damage.,5点の貫通ダメージを与える
+cardDesc_40,Deal 2 physical damage + 2 for each Claw Swipe you’ve played this turn.,2点のダメージを与える。このターンにプレイした鋭い爪1枚につきダメージ+2,Berikan 2 damage fisik + 2 untuk setiap Claw Swipe yang kamu mainkan di putaran ini.
+cardName_41,Spiny Shield,棘の障壁,Perisai Berduri
+cardDesc_41,Deal 3 physical damage. Take 1 less damage until next turn.,3点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan 3 damage fisik. Terima 1 damage lebih sedikit sampai putaran selanjutnya.
+cardName_42,Shield Crusher,盾割り,Peremuk Perisai
+cardDesc_42,Deal 2 physical damage. The enemy loses 50% Armor.,2点のダメージを与え、敵は防御を半分失う,Berikan 2 damage fisik. Musuh akan kehilangan 50% Armor-nya.
+cardName_43,Burn,火傷,Bakar
+cardDesc_43,Enemy suffers <color=#e6c14f>Burned</color> ×2.,敵に2点の<color=#e6c14f>やけど</color>を与える,Musuh akan <color=#e6c14f>Terbakar</color> ×2.
+cardName_44,Chaos Strike,滅多打ち,Serangan Kacau
+cardDesc_44,Deal 3 piercing damage.,3点の貫通ダメージを与える,Berikan 3 damage tusuk.
+cardName_45,Chaos Strike,滅多打ち,Serangan Kacau
+cardDesc_45,Deal 5 piercing damage.,5点の貫通ダメージを与える,Berikan 5 damage tusuk.
 cardName_46,Claw Swipe,鋭い爪
 cardDesc_46,Deal 2 physical damage.,2点のダメージを与える,Berikan 2 damage fisik.
 cardName_47,Claw Swipe,鋭い爪
@@ -209,16 +209,16 @@ cardDescEx_86,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点
 cardName_87,Lightning Strike,落雷,Serangan Listrik
 cardDesc_87,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
 cardLevelUpDesc_87,Deal 2 lightning damage. Get <color=#8adf6a>2</color> <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color>. in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を<color=#8adf6a>2</color>枚獲得する
-cardName_88,Shield Crusher,盾割り
+cardName_88,Shield Crusher,盾割り,Peremuk Perisai
 cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う,"Berikan 4 damage fisik, The enemy loses 50% Armor."
-cardLevelUpDesc_88,Deal <color=#8adf6a>4</color> physical damage. The enemy loses 50% Armor.,<color=#8adf6a>4</color>点のダメージを与え、敵は防御を半分失う,Berikan <color=#8adf6a>4</color> damage fisik. The enemy loses 50% Armor.
+cardLevelUpDesc_88,Deal <color=#8adf6a>4</color> physical damage. The enemy loses 50% Armor.,<color=#8adf6a>4</color>点のダメージを与え、敵は防御を半分失う,Berikan <color=#8adf6a>4</color> damage fisik. Musuh akan kehilangan 50% Armor-nya.
 cardName_89,Crush,粉砕,Remukkan
 cardDesc_89,Deal 15 physical damage.,15点のダメージを与える,Berikan 15 damage fisik.
 cardLevelUpDesc_89,Deal <color=#8adf6a>15</color> physical damage.,<color=#8adf6a>15</color>点のダメージを与える,Berikan <color=#8adf6a>15</color> damage fisik.
 cardName_90,Charged Strike,溜め攻撃,Serangan Berdaya
 cardDesc_90,<color=#e6c14f>Exiled</color>. Deal 3 physical damage + 3 damage for each action the enemy has. The enemy loses all Actions.,<color=#e6c14f>除外</color>\n3点のダメージを与える。敵は全てのアクションを失い、失ったアクションを1点につき与えるダメージ+3,<color=#e6c14f>Buang</color>. Berikan 3 damage fisik + 3 damage untuk setiap aksi yang musuh miliki. Musuh kehilangan seluruh aksinya.
 cardLevelUpDesc_90,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>3</color> physical damage + <color=#8adf6a>3</color> damage for each action the enemy has. The enemy loses all actions.,<color=#e6c14f>除外</color>\n<color=#8adf6a>3</color>点のダメージを与える。敵は全てのアクションを失い、失ったアクション1点につき与えるダメージ+<color=#8adf6a>3</color>,<color=#e6c14f>Buang</color>. Berikan <color=#8adf6a>3</color> damage fisik + <color=#8adf6a>3</color> damage untuk setiap aksi yang musuh miliki. Musuh kehilangan seluruh aksinya.
-cardName_91,Spiny Shield,棘の障壁
+cardName_91,Spiny Shield,棘の障壁,Perisai Berduri
 cardDesc_91,Deal 5 physical damage. Take one less damage until the start of your next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan 5 damage fisik. Take one less damage until the start of your next turn.
 cardLevelUpDesc_91,Deal <color=#8adf6a>5</color>physical damage. Take one less damage until the start of your next turn.,<color=#8adf6a>5</color>点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する
 cardName_92,Basic Attack,通常攻撃,Serangan Dasar
@@ -431,7 +431,7 @@ cardDesc_406,<color=#e6c14f>Exiled</color>. Absorb 2 health. Draw 1 card.,<color
 cardName_407,Life Leech,生命吸収
 cardDesc_407,Absorb 30 health.,敵から30点のHPを吸収する
 cardName_408,Confession,懺悔
-cardDesc_408,"At the end of each of your turns,  deal 3 piercing damage.",あなたの各ターンの終了時、敵に3点の貫通ダメージを与える
+cardDesc_408,"At the end of each of your turns, deal 3 piercing damage.",あなたの各ターンの終了時、敵に3点の貫通ダメージを与える,"Di akhir setiap putaranmu, berikan 3 damage tusuk."
 cardName_409,Elemental Wave,元素の波
 cardDesc_409,Deal 2 fire and 2 water damage.,2点の火属性と2点の水属性のダメージを与える
 cardName_410,Cure,治癒魔法
@@ -441,7 +441,7 @@ cardDesc_411,Spend your remaining mana and deal an equivalent amount of lightnin
 cardName_412,Enervate,殴打
 cardDesc_412,The enemy draws 1 less card and loses 1 Action at the start of his next turn.,次のターンに、敵が引くカードを1枚減らし、1点のアクションを失う
 cardName_413,Mana Vacuum,魔力吸収
-cardDesc_413,Deal 6 piercing damage. If this attack kills the enemy you permanently gain 1 starting mana.,6点の貫通ダメージを与える。このカードで敵を倒した場合、MPの上限+1
+cardDesc_413,Deal 6 piercing damage. If this attack kills the enemy you permanently gain 1 starting mana.,6点の貫通ダメージを与える。このカードで敵を倒した場合、MPの上限+1,Berikan 6 damage tusuk. If this attack kills the enemy you permanently gain 1 starting mana.
 cardName_414,Healing Potion,回復薬
 cardDesc_414,Restore 5 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,5点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
 cardName_415,Prophecy,予言
@@ -457,7 +457,7 @@ cardDesc_419,Draw 2 cards. 30% chance to get an extra turn. Chance is reduced ev
 cardName_420,Heaven and Hell,悪魔の天秤
 cardDesc_420,Gain 8 mana or draw 2 cards.,選択：\n8点のMPを獲得する／カードを2枚引く
 cardName_421,Hand of God,神の手
-cardDesc_421,"Trigger 2 of these effects: Restore 15 health,  draw 3 cards,  deal 10 piercing damage, or gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する
+cardDesc_421,"Trigger 2 of these effects: Restore 15 health,  draw 3 cards,  deal 10 piercing damage, or gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, or gain <color=#e6c14f>Armor</color> ×15."
 cardName_422,Holy Shield,聖なる盾
 cardDesc_422,Gain <color=#e6c14f>Armor</color> ×8.,8点の<color=#e6c14f>防御</color>を獲得する
 cardName_423,Absolute Defense,絶対的な防御
@@ -475,7 +475,7 @@ cardDesc_428,40% chance of dodging. Lasts 1 turn.,1ターンの間、40%の確�
 cardName_429,Sacred Sanctuary,聖なる守り
 cardDesc_429,<color=#e6c14f>Exiled</color>. Gain immunity from all damage until your next turn.,<color=#e6c14f>除外</color>\nあなたの次のターンまで、無敵状態になる
 cardName_430,Angry Spirit,悪霊の執念
-cardDesc_430,<color=#e6c14f>Exiled</color>. Deal 10 piercing damage. Return this card to your hand at the start of your next turn.,<color=#e6c14f>除外</color>\n敵に10貫通ダメージを与える。次のターンの開始時、このカードを手札に加える
+cardDesc_430,<color=#e6c14f>Exiled</color>. Deal 10 piercing damage. Return this card to your hand at the start of your next turn.,<color=#e6c14f>除外</color>\n敵に10貫通ダメージを与える。次のターンの開始時、このカードを手札に加える,<color=#e6c14f>Buang</color>. Berikan 10 damage tusuk. Return this card to your hand at the start of your next turn.
 cardName_431,Purifying Light,浄化の光
 cardDesc_431,Restore 10 health. Overhealing is converted into piercing damage.,10点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分の貫通ダメージを与える
 cardName_432,Wither,衰弱
@@ -555,7 +555,7 @@ cardName_507,Precision Strike,百発百中
 cardDesc_507,Deal 5 damage + 1 for every card in your hand.,5点のダメージを与える。手札のカードが1枚につきダメージ+1
 cardLevelUpDesc_507,Deal <color=#8adf6a>5</color> damage + 1 for every card in your hand.,<color=#8adf6a>5</color>点のダメージを与える。手札のカードが1枚につきダメージ+1
 cardName_509,Stab Attack,突き刺す
-cardDesc_509,<color=#e6c14f>Exiled</color>. Deal 6 piercing damage.,<color=#e6c14f>除外</color>\n6点の貫通ダメージを与える
+cardDesc_509,<color=#e6c14f>Exiled</color>. Deal 6 piercing damage.,<color=#e6c14f>除外</color>\n6点の貫通ダメージを与える,<color=#e6c14f>Exiled</color>. Berikan 6 damage tusuk.
 cardName_510,Charm,魅了
 cardDesc_510,View 3 cards from the enemy's deck and choose 1 to copy.,敵のデッキの上からカードを3枚確認し、その中から1枚を選び、それをコピーする
 cardName_511,Trap,トラップ
@@ -575,9 +575,9 @@ cardDesc_517,Draw 2 cards and then discard 1 card from your hand.,カードを2�
 cardName_518,Loss,多すぎる施し
 cardDesc_518,Draw 3 cards and then discard 2 cards from your hand.,カードを3枚引き、手札からカードを2枚捨てる
 cardName_519,Lunacy,狂気
-cardDesc_519,"Until the start of your next turn,  deal 4 piercing damage every time you discard a card.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に4点の貫通ダメージを与える
+cardDesc_519,"Until the start of your next turn, deal 4 piercing damage every time you discard a card.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に4点の貫通ダメージを与える,"Until the start of your next turn, Berikan 4 damage tusuk every time you discard a card."
 cardName_520,Poison Sting,毒針
-cardDesc_520,Deal 2 piercing damage. The enemy suffers <color=#e6c14f>Poisoned</color> ×1.,2点の貫通ダメージを与え、敵に1点の<color=#e6c14f>毒</color>を与える
+cardDesc_520,Deal 2 piercing damage. The enemy suffers <color=#e6c14f>Poisoned</color> ×1.,2点の貫通ダメージを与え、敵に1点の<color=#e6c14f>毒</color>を与える,Berikan 2 damage tusuk. The enemy suffers <color=#e6c14f>Poisoned</color> ×1.
 cardName_521,Venom,毒液
 cardDesc_521,Enemy suffers <color=#e6c14f>Poisoned</color> ×3.,敵に3点の<color=#e6c14f>毒</color>を与える,Berikan 3 poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_522,Incentivize,激励
@@ -723,7 +723,7 @@ cardDesc_589,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.,カ�
 cardName_590,Predetermined Route,最善のルート
 cardDesc_590,"Draw 1 card. If this card is discarded because of other effects,  draw 2 cards.",カードを1枚引く。他の効果によってこのカードを捨てた場合、カードを2枚引く
 cardName_591,Pre-emptive Attack,攻撃態勢
-cardDesc_591,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects,  deal 10 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードを捨てた場合、10点の貫通ダメージを与える
+cardDesc_591,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 10 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードを捨てた場合、10点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 10 piercing damage."
 cardName_592,Pre-emptive Healing,治療態勢
 cardDesc_592,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects,  restore 8 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードを捨てた場合、8点のHPを回復する
 cardName_593,Frost Protection,霜よけ
@@ -806,8 +806,8 @@ cardName_630,Impact,猪突猛進
 cardDesc_630,Deal damage equal to 30% of your current health (rounded down).,あなたの残りHPの30%に等しいのダメージを与える
 cardLevelUpDesc_630,Deal damage equal to <color=#8adf6a>30</color>% of your current health (rounded down).,あなたの残りHPの<color=#8adf6a>30%</color>に等しいのダメージを与える
 cardName_631,Pre-emptive Attack,攻撃態勢
-cardDesc_631,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects,  deal 15 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てた場合、15点の貫通ダメージを与える
-cardLevelUpDesc_631,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects,  deal <color=#8adf6a>15</color> piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードを捨てた場合、<color=#8adf6a>15</color>点の貫通ダメージを与える
+cardDesc_631,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てた場合、15点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage."
+cardLevelUpDesc_631,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal <color=#8adf6a>15</color> piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードを捨てた場合、<color=#8adf6a>15</color>点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal <color=#8adf6a>15</color> piercing damage."
 cardName_632,Pre-emptive Healing,治療態勢
 cardDesc_632,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects,  restore 10 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードを捨てた場合、10点のHPを回復する
 cardLevelUpDesc_632,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects,  restore <color=#8adf6a>10</color> health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードを捨てた場合、<color=#8adf6a>10</color>点のHPを回復する
@@ -822,11 +822,11 @@ cardName_635,Thorny Tendrils,蔦で縛り付け
 cardDesc_635,Deal 10 damage,10点のダメージを与える
 cardLevelUpDesc_635,Deal <color=#8adf6a>10</color> damage.,<color=#8adf6a>10</color>点のダメージを与える
 cardName_636,Poison Sting,毒針
-cardDesc_636,Deal 4 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.,4点の貫通ダメージを与え、敵に2点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_636,Deal 4 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.,<color=#8adf6a>4</color>点の貫通ダメージを与え、敵に<color=#8adf6a>2</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_636,Deal 4 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.,4点の貫通ダメージを与え、敵に2点の<color=#e6c14f>毒</color>を与える,Berikan 4 damage tusuk to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.
+cardLevelUpDesc_636,Deal 4 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.,<color=#8adf6a>4</color>点の貫通ダメージを与え、敵に<color=#8adf6a>2</color>点の<color=#e6c14f>毒</color>を与える,Berikan 4 damage tusuk to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×2.
 cardName_637,Poison Sting,毒針
-cardDesc_637,Deal 6 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.,6点の貫通ダメージを与え、敵に3点の<color=#e6c14f>毒</color>を与える
-cardLevelUpDesc_637,Deal 6 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.,<color=#8adf6a>6</color>点の貫通ダメージを与え、敵に<color=#8adf6a>3</color>点の<color=#e6c14f>毒</color>を与える
+cardDesc_637,Deal 6 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.,6点の貫通ダメージを与え、敵に3点の<color=#e6c14f>毒</color>を与える,Berikan 6 damage tusuk to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.
+cardLevelUpDesc_637,Deal 6 piercing damage to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.,<color=#8adf6a>6</color>点の貫通ダメージを与え、敵に<color=#8adf6a>3</color>点の<color=#e6c14f>毒</color>を与える,Berikan 6 damage tusuk to the enemy. The enemy suffers <color=#e6c14f>Poisoned</color> ×3.
 cardName_638,Bash,強打
 cardDesc_638,Deal 3 damage.\nGain <color=#e6c14f>Armor</color> ×3.,3点のダメージを与え、3点の<color=#e6c14f>防御</color>を獲得する
 cardLevelUpDesc_638,Deal 3 damage.\nGain <color=#e6c14f>Armor</color> ×3.,<color=#8adf6a>3</color>点のダメージを与え、<color=#8adf6a>3</color>点の<color=#e6c14f>防御</color>を獲得する
@@ -849,7 +849,7 @@ cardName_644,Zeal,興奮
 cardDesc_644,Deal 1 damage twice. Draw 1 card. Action +1.,1点のダメージを2回与え、カードを1枚引き、1点のアクションを獲得する
 cardLevelUpDesc_644,Deal 1 damage twice. Draw 1 card. Action +1.,1点のダメージを<color=#8adf6a>2回</color>与え、カードを1枚引き、1点のアクションを獲得する
 cardName_645,Lunacy,狂気
-cardDesc_645,"Until next turn,  deal 5 piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える
+cardDesc_645,"Until next turn, deal 5 piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える,"Until next turn, Berikan 5 damage tusuk each time you discard a card at hand."
 cardLevelUpDesc_645,"Until next turn,  deal <color=#8adf6a>5</color> piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に<color=#8adf6a>5</color>点の貫通ダメージを与える
 cardName_646,Bomb,爆弾
 cardDesc_646,Deal 30 fire damage. \nPermanently <color=#e6c14f>exile</color> this card.,30点の火属性のダメージを与える。このカードを永久にゲームから除外する
@@ -4077,7 +4077,7 @@ heroSkillStory_1007,"Lose 2 health,  draw 2 cards. Cd: 2 combats.",2点のHPを�
 heroSkillName_58,Double Strike,二段攻撃,Serangan Ganda
 heroSkillStory_58," CD: 3 Combats\nDeal 2 damage. Draw 2 cards.",充填：3\n2点のダメージを与え、カードを2枚引く
 heroSkillStory_Discover_58,Deal 2 damage.\nDraw 2 cards.,2点のダメージを与え、カードを2枚引く
-heroSkillName_59,Spiny Shield,棘の障壁
+heroSkillName_59,Spiny Shield,棘の障壁,Perisai Berduri
 heroSkillStory_59," CD: 2 Combats\nDeal 5 damage. Take 1 less damage until next turn.",充填：2\n5点のダメージを与える。次のターンまで、あなたが受けるダメージを1点軽減する
 heroSkillStory_Discover_59,Deal 3 damage. Take 1 less damage until next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1点軽減する
 heroSkillName_60,Shapeshifter,千変万化
