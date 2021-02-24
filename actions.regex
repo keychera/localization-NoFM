@@ -48,3 +48,6 @@ starting from line 115
   case by case, if the entry is a delimited string with comma in it, need manual copy for the remainign string.
 
 132 : (([^,]*)Draw 2 cards\.([^,]*),.*)$ -> $1,$2Ambil 2 kartu$3
+
+193 : (([^,]*)Restore (.*) health([^,]*),.*)$ -> $1,$2Sembuhkan $3 nyawa$4
+  until 446

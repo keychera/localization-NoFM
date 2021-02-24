@@ -188,9 +188,9 @@ cardDesc_78,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 da
 cardLevelUpDesc_78,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える,Berikan <color=#8adf6a>5</color> damage fisik.
 cardName_79,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える,Berikan 6 damage api
-cardName_81,Life Prayer,生命の祈り
-cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する
-cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する
+cardName_81,Life Prayer,生命の祈り,Doa Kehidupan
+cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する,Sembuhkan 3/6/9/12/15 nyawa berdasarkan besarnya putaran doa. 
+cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する,Sembuhkan {1} nyawa after {0} turns.
 cardName_82,Speed Prayer,速度の祈り
 cardDesc_82,Draw 1/2/3/4/5 cards depending on how many turns the prayer lasts.,祈りのターン数によって、カードを1/2/3/4/5枚引く
 cardDescEx_82,Draw {1} cards after {0} turns.,{0}ターン後、カードを{1}枚引く
@@ -253,7 +253,7 @@ cardDesc_106,Triggers when the enemy plays an attack card: Counter it; deal 2 ph
 cardName_107,Wail,泣き叫ぶ
 cardDesc_107,Triggers when the enemy plays a mana card: Counter it; draw 1 card.,敵が魔力カードをプレイした場合、そのカードを打ち消す。カードを1枚引く
 cardName_108,Swallow,飲み込む
-cardDesc_108,Triggers when the enemy plays a card: Counter it; the card is exiled. You restore 3 health.,敵がカードをプレイした場合、そのカードを打ち消し、除外する。3点のHPを回復する
+cardDesc_108,Triggers when the enemy plays a card: Counter it; the card is exiled. You restore 3 health.,敵がカードをプレイした場合、そのカードを打ち消し、除外する。3点のHPを回復する,Triggers when the enemy plays a card: Counter it; the card is exiled. Sembuhkan 3 nyawa.
 cardName_109,Resonance,共鳴
 cardDesc_109,Triggers when the enemy plays an attack/action/spell card: Counter it; gain its effect.,敵が攻撃/行動/魔法カードをプレイした場合、そのカードを打ち消し、そのカードをプレイする
 cardName_200,Mana,魔力
@@ -269,7 +269,7 @@ cardDesc_203,Gain 8 mana.,8点のMPを獲得する
 cardName_204,Mana Spring,魔力の源泉
 cardDesc_204,Mana costs decrease by 4 until the end of this turn.,このターン、MPのコストを4減らす
 cardName_205,Healing Ointment,回復軟膏
-cardDesc_205,Gain 3 mana and restore 3 health.,3点のMPを獲得するし、3点のHPを回復する
+cardDesc_205,Gain 3 mana and restore 3 health.,3点のMPを獲得するし、3点のHPを回復する,Gain 3 mana and Sembuhkan 3 nyawa.
 cardName_206,Cleansing,遥か見
 cardDesc_206,Mana costs decrease by 3 for this turn.,このターン、MPのコストを3減らす
 cardName_207,Piety,祈祷
@@ -350,13 +350,13 @@ cardDesc_312,"Each time you play an action card, deal 1 physical damage.",行動
 cardName_313,Lightning Blade,雷の短剣
 cardDesc_313,The enemy takes 1 lightning damage when an attack card is played.,攻撃カードをプレイする度に、敵に1点の雷属性のダメージを与える
 cardName_314,Revive,復活の墓石
-cardDesc_314,Triggers when you die. This equipment is permanently removed and you restore full health.,あなたが死亡した時、このカードを永久にゲームから除外し、HPを全回復する
+cardDesc_314,Triggers when you die. This equipment is permanently removed and you restore full health.,あなたが死亡した時、このカードを永久にゲームから除外し、HPを全回復する,Triggers when you die. This equipment is permanently removed and sembuhkan nyawa sampai penuh.
 cardName_316,Witch's Tome,魔女の秘本
 cardDesc_316,"At the start of your turn, draw 1 spell card from your deck.",あなたのターンの開始時、デッキから魔法カードを1枚引く
 cardName_317,Speedy Shoes,機敏のブーツ
 cardDesc_317,"At the start of your turn, draw 1 card and gain 1 Action.",あなたのターンの開始時、カードを1枚引き、1点のアクションを獲得する
 cardName_318,Vampire Sword,吸血鬼の剣
-cardDesc_318,Restore 1 health for every 4 damage you deal.,累計で4点のダメージを与えるごとに、1点のHPを回復する
+cardDesc_318,Restore 1 health for every 4 damage you deal.,累計で4点のダメージを与えるごとに、1点のHPを回復する,Sembuhkan 1 nyawa for every 4 damage you deal.
 cardName_319,Blazing Cloak,炎のマント
 cardDesc_319,Each time the enemy plays an attack card they take 2 fire damage.,敵が攻撃カードをプレイする度に、敵に2点の火属性のダメージを与える
 cardName_320,Round Shield,丸盾
@@ -435,7 +435,7 @@ cardDesc_408,"At the end of each of your turns, deal 3 piercing damage.",あな�
 cardName_409,Elemental Wave,元素の波
 cardDesc_409,Deal 2 fire and 2 water damage.,2点の火属性と2点の水属性のダメージを与える
 cardName_410,Cure,治癒魔法
-cardDesc_410,Restore 5 health.,5点のHPを回復する
+cardDesc_410,Restore 5 health.,5点のHPを回復する,Sembuhkan 5 nyawa.
 cardName_411,Hurricane,ハリケーン
 cardDesc_411,Spend your remaining mana and deal an equivalent amount of lightning damage.,全てのMPを消費し、敵に消費したMPに等しい雷属性のダメージを与える
 cardName_412,Enervate,殴打
@@ -443,7 +443,7 @@ cardDesc_412,The enemy draws 1 less card and loses 1 Action at the start of his 
 cardName_413,Mana Vacuum,魔力吸収
 cardDesc_413,Deal 6 piercing damage. If this attack kills the enemy you permanently gain 1 starting mana.,6点の貫通ダメージを与える。このカードで敵を倒した場合、MPの上限+1,Berikan 6 damage tusuk. If this attack kills the enemy you permanently gain 1 starting mana.
 cardName_414,Healing Potion,回復薬
-cardDesc_414,Restore 5 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,5点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
+cardDesc_414,Restore 5 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,5点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する,Sembuhkan 5 nyawa. Overhealing is converted into <color=#e6c14f>Armor</color>.
 cardName_415,Prophecy,予言
 cardDesc_415,Choose 1 card from your deck and add it to your hand.,デッキからカードを1枚選び、それを手札に加える
 cardName_416,Hide,隠れドア
