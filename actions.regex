@@ -51,3 +51,6 @@ starting from line 115
 
 193 : (([^,]*)Restore (.*) health([^,]*),.*)$ -> $1,$2Sembuhkan $3 nyawa$4
   until 446
+
+460 : ([^,]*Restore .* health.*)Restore (.*) health(.*)$ -> $1Sembuhkan $2 nyawa$3
+  regex for rows that have the indonesian string column already

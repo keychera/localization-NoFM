@@ -457,7 +457,7 @@ cardDesc_419,Draw 2 cards. 30% chance to get an extra turn. Chance is reduced ev
 cardName_420,Heaven and Hell,悪魔の天秤
 cardDesc_420,Gain 8 mana or draw 2 cards.,選択：\n8点のMPを獲得する／カードを2枚引く,Gain 8 mana or Ambil 2 kartu.
 cardName_421,Hand of God,神の手
-cardDesc_421,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, or gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, or gain <color=#e6c14f>Armor</color> ×15."
+cardDesc_421,"Trigger 2 of these effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, or gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 of these effects: Sembuhkan 15 nyawa, draw 3 cards, Berikan 10 damage tusuk, or gain <color=#e6c14f>Armor</color> ×15."
 cardName_422,Holy Shield,聖なる盾
 cardDesc_422,Gain <color=#e6c14f>Armor</color> ×8.,8点の<color=#e6c14f>防御</color>を獲得する
 cardName_423,Absolute Defense,絶対的な防御
@@ -545,7 +545,7 @@ cardDesc_502,Deal 1 physical damage.,１点のダメージを与える。,Berika
 cardName_503,Claw Swipe,ひっかき,Sabetan Cakar
 cardDesc_503,Deal 2 physical damage.,2点のダメージを与える。,Berikan 2 damage fisik.
 cardName_504,Vampirism,吸血
-cardDesc_504,Deal 2 physical damage and restore same amount of health.,2点のダメージを与え、与えたダメージに等しいのHPを回復する,Berikan 2 damage fisik and restore same amount of health.
+cardDesc_504,Deal 2 physical damage and restore same amount of health.,2点のダメージを与え、与えたダメージに等しいのHPを回復する,Berikan 2 damage fisik and sembuhkan nyawa dengan jumlah yang sama.
 cardName_505,Precision Strike,百発百中
 cardDesc_505,Deal 1 physical damage + 1 for every card in your hand.,1点のダメージを与える。手札のカードが1枚につきダメージ+1,Berikan 1 damage fisik + 1 for every card in your hand.
 cardName_506,Precision Strike,百発百中
@@ -1401,7 +1401,7 @@ cardDescEx_3287,<color=#e6c14f>Exile</color> {0} more cards to gain an additiona
 cardName_3288,Little Rock,石ころ
 cardDesc_3288,<color=#e6c14f>Exiled</color>. Deal 1 damage.,<color=#e6c14f>除外</color>\n1点のダメージを与える
 cardName_3289,Shadow Strike,闇の一撃
-cardDesc_3289,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Restore 10% of the health you've lost.
+cardDesc_3289,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Sembuhkan 10% dari nyawa yang hilang.
 cardName_3290,Occult Device,秘儀の道具
 cardDesc_3290,Gain 1 maximum health for every 4 damage you deal.,4点のダメージを与える度に、HPの上限を+1
 cardName_3291,Stamina Supply,体力剤
@@ -1966,7 +1966,7 @@ cardDesc_8927,Both player draw 2 cards.,お互いがカードを2枚ずつ引く
 cardName_8928,Stealth,忍び寄る
 cardDesc_8928,Halve damage you would take next 5 times.,次の５回の受けるダメージを半減する
 cardName_8954,Bloody Assault,血の饗宴
-cardDesc_8954,Deal 3 piercing damage 3 times. Restore same amount of health.,3点の貫通ダメージを3回与える。与えたダメージに等しいのHPを回復する,Berikan 3 damage tusuk 3 times. Restore same amount of health.
+cardDesc_8954,Deal 3 piercing damage 3 times. Restore same amount of health.,3点の貫通ダメージを3回与える。与えたダメージに等しいのHPを回復する,Berikan 3 damage tusuk 3 times. Sembuhkan nyawa dengan jumlah yang sama.
 cardName_8955,Survival Boat,救命ボート
 cardDesc_8955,You gain double armor from cards.,カードの効果で<color=#e6c14f>防御</color>を獲得する度に、獲得する<color=#e6c14f>防御</color>を2倍にする
 cardName_8956,Search,物漁り
@@ -4123,8 +4123,8 @@ heroSkillName_73,Heaven and Hell,悪魔の天秤
 heroSkillStory_73," CD: 3 Combats\nChoice: Gain 8 mana or draw 2 cards.",充填：3\n選択：8点のMPを獲得する／カードを2枚引く," CD: 3 Combats\nChoice: Gain 8 mana or Ambil 2 kartu."
 heroSkillStory_Discover_73,Choice: Gain 8 mana or draw 2 cards.,選択：8点のMPを獲得する／カードを2枚引く,Choice: Gain 8 mana or Ambil 2 kartu.
 heroSkillName_74,Hand of God,神の手
-heroSkillStory_74," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",充填：4\nランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
-heroSkillStory_Discover_74,"Trigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 random effects: Restore 15 health, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
+heroSkillStory_74," CD: 4 Combats\nTrigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",充填：4\nランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する," CD: 4 Combats\nTrigger 2 random effects: Sembuhkan 15 nyawa, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
+heroSkillStory_Discover_74,"Trigger 2 random effects: Restore 15 health, draw 3 cards, deal 10 piercing damage, gain <color=#e6c14f>Armor</color> ×15.",ランダムで2つの効果が発動。\n15点のHPを回復。カードを3枚引く。15点の貫通ダメージを与える。15点の<color=#e6c14f>防御</color>を獲得する,"Trigger 2 random effects: Sembuhkan 15 nyawa, draw 3 cards, Berikan 10 damage tusuk, gain <color=#e6c14f>Armor</color> ×15."
 heroSkillName_75,Natural Mark,ルーン石の加護
 heroSkillStory_75," CD: 3 Combats\nDraw 1 card. Halve any elemental damage you take until next turn.",充填：3\nカードを1枚引く。次のターンまで、あなたが受ける属性ダメージを半減する
 heroSkillStory_Discover_75,Draw 1 card. Halve any elemental damage you take until next turn.,カードを1枚引く。次のターンまで、あなたが受ける属性ダメージを半減する
@@ -4495,8 +4495,8 @@ heroSkillName_197,Chemical Rage,薬品暴走
 heroSkillStory_197," CD: 2 Combats\nShuffle 3 <color=#e6c14f>Effective Brewing</color> cards into your deck.",充填：2\nデッキに<color=#e6c14f>薬品の改良</color>を3枚加える
 heroSkillStory_Discover_197,Shuffle 3 <color=#e6c14f>Effective Brewing</color> cards into your deck.,デッキに<color=#e6c14f>薬品の改良</color>を3枚加える
 heroSkillName_198,Shadow Strike,闇の一撃
-heroSkillStory_198," CD: 3 Combats\nDeal 10 piercing damage. Restore 10% of the health you've lost.",充填：3\n10点の貫通ダメージを与え、失ったHPの10%を回復する," CD: 3 Combats\nBerikan 10 damage tusuk. Restore 10% of the health you've lost."
-heroSkillStory_Discover_198,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Restore 10% of the health you've lost.
+heroSkillStory_198," CD: 3 Combats\nDeal 10 piercing damage. Restore 10% of the health you've lost.",充填：3\n10点の貫通ダメージを与え、失ったHPの10%を回復する," CD: 3 Combats\nBerikan 10 damage tusuk. Sembuhkan 10% nyawa yang hilang."
+heroSkillStory_Discover_198,Deal 10 piercing damage. Restore 10% of the health you've lost.,10点の貫通ダメージを与え、失ったHPの10%を回復する,Berikan 10 damage tusuk. Sembuhkan 10% nyawa yang hilang.
 heroSkillName_199,Stamina Supply,体力剤
 heroSkillStory_199," CD: 3 Combats\nAction + 3.",充填：3\n3点のアクションを獲得する
 heroSkillStory_Discover_199,Action + 3.,3点のアクションを獲得する
