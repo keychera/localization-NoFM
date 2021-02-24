@@ -477,7 +477,7 @@ cardDesc_429,<color=#e6c14f>Exiled</color>. Gain immunity from all damage until 
 cardName_430,Angry Spirit,悪霊の執念
 cardDesc_430,<color=#e6c14f>Exiled</color>. Deal 10 piercing damage. Return this card to your hand at the start of your next turn.,<color=#e6c14f>除外</color>\n敵に10貫通ダメージを与える。次のターンの開始時、このカードを手札に加える,<color=#e6c14f>Buang</color>. Berikan 10 damage tusuk. Return this card to your hand at the start of your next turn.
 cardName_431,Purifying Light,浄化の光
-cardDesc_431,Restore 10 health. Overhealing is converted into piercing damage.,10点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分の貫通ダメージを与える
+cardDesc_431,Restore 10 health. Overhealing is converted into piercing damage.,10点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分の貫通ダメージを与える,Sembuhkan 10 nyawa. Overhealing is converted into piercing damage.
 cardName_432,Wither,衰弱
 cardDesc_432,Double the enemy's current <color=#e6c14f>Poisoned</color> status. The enemy suffers <color=#e6c14f>Poisoned</color> ×6.,敵の<color=#e6c14f>毒</color>を倍にする。そして、敵に6点の<color=#e6c14f>毒</color>を与える
 cardName_433,Shrink,収縮
@@ -504,11 +504,11 @@ cardDesc_442,The enemy draws 1 less card on his next turn and suffers <color=#e6
 cardName_443,Thunderclap,雷鳴
 cardDesc_443,Deal 5 lightning damage. Your next spell card costs no mana.,5点の雷属性のダメージを与える。あなたが次にプレイする魔法カードのMPのコストを無視する
 cardName_444,Blessing,祝福
-cardDesc_444,Restore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
+cardDesc_444,Restore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する,Sembuhkan 15 nyawa. Overhealing is converted into <color=#e6c14f>Armor</color>.
 cardName_445,Flickering Flames,火種
 cardDesc_445,Deal 2 fire damage. The enemy takes 2 more fire damage.,2点の火属性のダメージを与える。この戦闘中、あなたが与える火属性のダメージ+2
 cardName_446,Dark Dawn,黎明の光
-cardDesc_446,<color=#e6c14f>Exiled</color>. Restore 50% of the health you've lost and deal damage equal to half the health restored.,<color=#e6c14f>除外</color>\n失ったHPの半分に等しいのHPを回復し、回復したHPの半分に等しいの貫通ダメージを与える
+cardDesc_446,<color=#e6c14f>Exiled</color>. Restore 50% of the health you've lost and deal damage equal to half the health restored.,<color=#e6c14f>除外</color>\n失ったHPの半分に等しいのHPを回復し、回復したHPの半分に等しいの貫通ダメージを与える,<color=#e6c14f>Exiled</color>. Sembuhkan 50% nyawa yang hilang and deal damage equal to half the health restored.
 cardName_447,Heaven and Hell,悪魔の天秤
 cardDesc_447,Gain 8 mana.,8点のMPを獲得する。
 cardName_448,Heaven and Hell,悪魔の天秤
@@ -528,8 +528,8 @@ cardName_455,Life Leech,生命吸収
 cardDesc_455,Absorb 35 health.,敵から35点のHP吸収する
 cardLevelUpDesc_455,Absorb <color=#8adf6a>35</color> health.,敵から<color=#8adf6a>35</color>点のHPを吸収する
 cardName_456,Cure,治癒魔法
-cardDesc_456,Restore 7 health.,7点のHPを回復する
-cardLevelUpDesc_456,Restore <color=#8adf6a>7</color> health.,<color=#8adf6a>7</color>点のHPを回復する
+cardDesc_456,Restore 7 health.,7点のHPを回復する,Sembuhkan 7 nyawa.
+cardLevelUpDesc_456,Restore <color=#8adf6a>7</color> health.,<color=#8adf6a>7</color>点のHPを回復する,Sembuhkan <color=#8adf6a>7</color> nyawa.
 cardName_457,Disaster,津波
 cardDesc_457,Deal 35 water damage. Discard all of the enemy's equipment and prayer cards.,35点の水属性のダメージを与える。敵の装備中の装備カードと進行中の祈りカードを全て破壊する
 cardLevelUpDesc_457,Deal <color=#8adf6a>35</color> water damage. Discard all of the enemy's equipment and prayer cards.,<color=#8adf6a>35</color>点の水属性のダメージを与える。敵の装備中のカードと進行中の祈りカードを全て破壊する
@@ -585,7 +585,7 @@ cardDesc_522,Deal 1 physical damage.\nDraw 1 card.,1点のダメージを与え�
 cardName_523,Soul Blitz,エクトプラズマ
 cardDesc_523,Discard 1 card. Deal 8 physical damage to the enemy.,手札からカードを1枚捨て、敵に8点のダメージを与える,Discard 1 card. Berikan 8 damage fisik to the enemy.
 cardName_524,Hasty Healing,応急処置
-cardDesc_524,Restore 3 health.\nDraw 1 card.,3点のHPを回復し、カードを1枚引く
+cardDesc_524,Restore 3 health.\nDraw 1 card.,3点のHPを回復し、カードを1枚引く,Sembuhkan 3 nyawa.\nDraw 1 card.
 cardName_525,Reward,報酬
 cardDesc_525,Deal 2 damage.\nDraw 1 card.,2点のダメージを与え、カードを1枚引く
 cardName_526,Bleed,毒の感染
@@ -640,7 +640,7 @@ cardDesc_549,Deal 2 damage. If the target's health is below 30% deal 20 damage i
 cardName_550,Raid,襲撃
 cardDesc_550,<color=#e6c14f>Exiled</color>.\nDraw 3 cards.,<color=#e6c14f>除外</color>\nカードを3枚引く
 cardName_551,Emergency Healing,緊急治療
-cardDesc_551,Restore to maximum health. \nPermanently <color=#e6c14f>exile</color> this card.,HPを上限まで回復する。このカードを永久にゲームから除外する
+cardDesc_551,Restore to maximum health. \nPermanently <color=#e6c14f>exile</color> this card.,HPを上限まで回復する。このカードを永久にゲームから除外する,Sembuhkan nyawa sampai penuh. \nPermanently <color=#e6c14f>exile</color> this card.
 cardName_552,Battle Horn,戦の角笛
 cardDesc_552,"<color=#e6c14f>Exiled</color>. Until the end of this turn, draw 1 card each time you play an attack card",<color=#e6c14f>除外</color>\nこのターン中、あなたは攻撃カードをプレイする度に、カードを1枚引く
 cardName_553,Strength Blessing,力の増強
@@ -667,7 +667,7 @@ cardDesc_562,"Until the start of your next turn, you gain 1 <color=#e6c14f>Armor
 cardName_563,Bone Shield,骨の盾
 cardDesc_563,Blocks 3 points of damage.,3点の<color=#e6c14f>防御</color>を獲得する
 cardName_564,Plunder,略奪
-cardDesc_564,Restore 5 health. Destroy 1 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを1枚ずつ破壊する
+cardDesc_564,Restore 5 health. Destroy 1 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを1枚ずつ破壊する,Sembuhkan 5 nyawa. Destroy 1 enemy equipment card and 1 enemy prayer card.
 cardName_565,Bomb,爆弾
 cardDesc_565,Deal 20 fire damage. \nPermanently <color=#e6c14f>exile</color> this card.,20点の火属性のダメージを与える。このカードを永久にゲームから除外する
 cardName_566,Pursue,追撃
@@ -717,7 +717,7 @@ cardDesc_586,Deal 5 damage. The enemy cannot play a card during their next turn.
 cardName_587,Disarm,武装奪取
 cardDesc_587,Get 1 enemy equipment card from the field.,敵が装備中の装備カードを1枚獲得する
 cardName_588,Holy Providence,神の加護
-cardDesc_588,"This combat, restore 2 health at the start of each turn.",今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する
+cardDesc_588,"This combat, restore 2 health at the start of each turn.",今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する,"This combat, Sembuhkan 2 nyawa at the start of each turn."
 cardName_589,Corrosive Potion,腐蝕のポーション
 cardDesc_589,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.,カードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
 cardName_590,Predetermined Route,最善のルート
@@ -757,8 +757,8 @@ cardDesc_610,Deal 5 lightning damage and lose 2 Action.,5点の雷属性のダ�
 cardName_611,Stun,気絶
 cardDesc_611,Deal 3 damage. The enemy loses all Action and mana.,3点のダメージを与える。敵は全てのMPとアクションを失う
 cardName_612,Vampire,吸血
-cardDesc_612,Deal 3 damage and restore same amount of health.,3点のダメージを与え、与えたダメージに等しいのHPを回復する
-cardLevelUpDesc_612,Deal <color=#8adf6a>3</color> damage. Restore <color=#8adf6a>3</color> health.,<color=#8adf6a>3</color>点のダメージを与え、与えたダメージに等しいのHPを回復する
+cardDesc_612,Deal 3 damage and restore same amount of health.,3点のダメージを与え、与えたダメージに等しいのHPを回復する,Deal 3 damage and sembuhkan nyawa dengan jumlah yang sama.
+cardLevelUpDesc_612,Deal <color=#8adf6a>3</color> damage. Restore <color=#8adf6a>3</color> health.,<color=#8adf6a>3</color>点のダメージを与え、与えたダメージに等しいのHPを回復する,Deal <color=#8adf6a>3</color> damage. Sembuhkan <color=#8adf6a>3</color> nyawa.
 cardName_613,Interfere,邪魔
 cardDesc_613,<color=#e6c14f>Exiled</color>. Shuffle 2 Prank cards into the enemy's deck. The enemy cannot play any cards during their next turn.,<color=#e6c14f>除外</color>\n敵のデッキに<color=#e6c14f>いたずら</color>を2枚加える。敵は次のターンにカードをプレイできない
 cardName_614,Evil Hex,邪悪の呪い
@@ -783,8 +783,8 @@ cardName_622,Soul Blitz,エクトプラズマ
 cardDesc_622,Discard 1 card. Deal 11 damage to the enemy.,手札からカードを1枚捨て、敵に11点のダメージを与える
 cardLevelUpDesc_622,Discard 1 card. Deal <color=#8adf6a>11</color> damage to the enemy.,手札からカードを1枚捨て、敵に<color=#8adf6a>11</color>点のダメージを与える
 cardName_623,Hasty Healing,応急処置
-cardDesc_623,Restore 4 health.\nDraw 1 card.,4点のHPを回復し、カードを1枚引く
-cardLevelUpDesc_623,Restore <color=#8adf6a>4</color> health. Draw 1 card.,<color=#8adf6a>4</color>点のHPを回復し、カードを1枚引く
+cardDesc_623,Restore 4 health.\nDraw 1 card.,4点のHPを回復し、カードを1枚引く,Sembuhkan 4 nyawa.\nDraw 1 card.
+cardLevelUpDesc_623,Restore <color=#8adf6a>4</color> health. Draw 1 card.,<color=#8adf6a>4</color>点のHPを回復し、カードを1枚引く,Sembuhkan <color=#8adf6a>4</color> nyawa. Draw 1 card.
 cardName_624,Bleed,毒の感染
 cardDesc_624,Draw 1 card. The enemy suffers <color=#e6c14f>Poisoned</color> ×4.,敵に4点の<color=#e6c14f>毒</color>を与え、カードを1枚引く。
 cardLevelUpDesc_624,Draw 1 card. The enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>4</color>.,敵に<color=#8adf6a>4</color>点の<color=#e6c14f>毒</color>を与え、カードを1枚引く。
@@ -812,8 +812,8 @@ cardName_632,Pre-emptive Healing,治療態勢
 cardDesc_632,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードを捨てた場合、10点のHPを回復する
 cardLevelUpDesc_632,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects, restore <color=#8adf6a>10</color> health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードを捨てた場合、<color=#8adf6a>10</color>点のHPを回復する
 cardName_633,Vampire,吸血
-cardDesc_633,Deal 4 damage and restore same amount of health.,4点のダメージを与え、与えたダメージに等しいのHPを回復する
-cardLevelUpDesc_633,Deal <color=#8adf6a>4</color> damage and restore same amount of health.,<color=#8adf6a>4</color>点のダメージを与え、与えたダメージに等しいのHPを回復する
+cardDesc_633,Deal 4 damage and restore same amount of health.,4点のダメージを与え、与えたダメージに等しいのHPを回復する,Deal 4 damage and sembuhkan nyawa dengan jumlah yang sama.
+cardLevelUpDesc_633,Deal <color=#8adf6a>4</color> damage and restore same amount of health.,<color=#8adf6a>4</color>点のダメージを与え、与えたダメージに等しいのHPを回復する,Deal <color=#8adf6a>4</color> damage and sembuhkan nyawa dengan jumlah yang sama.
 cardName_634,Tearing,暴れる
 cardDesc_634,"Deal 3 damage. The next time you play this card, deal 3 additional damage.",3点のダメージを与える。このカードを次にプレイする時、与えるダメージを+3
 cardLevelUpDesc_634,"Deal <color=#8adf6a>3</color> damage. The next time you play this card, deal <color=#8adf6a>3</color> additional damage.",<color=#8adf6a>3</color>点のダメージを与える。このカードを次にプレイする時、与えるダメージを+<color=#8adf6a>3</color>
@@ -837,8 +837,8 @@ cardName_640,Suffocate,窒息
 cardDesc_640,Deal 5 water damage. The enemy draws 1 less card on his next turn.,5点の水属性のダメージを与える。次のターンに敵が引くカードを1枚減らす
 cardLevelUpDesc_640,Deal <color=#8adf6a>5</color> water damage. The enemy draws 1 less card on his next turn.,<color=#8adf6a>5</color>点の水属性のダメージを与える。次のターンに敵が引くカードを1枚減らす
 cardName_641,Plunder,略奪
-cardDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを2枚ずつ破壊する
-cardLevelUpDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを<color=#8adf6a>2</color>枚ずつ破壊する
+cardDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを2枚ずつ破壊する,Sembuhkan 5 nyawa. Destroy 2 enemy equipment card and 1 enemy prayer card.
+cardLevelUpDesc_641,Restore 5 health. Destroy 2 enemy equipment card and 1 enemy prayer card.,5点のHPを回復する。敵の装備中の装備カードと進行中の祈りカードを<color=#8adf6a>2</color>枚ずつ破壊する,Sembuhkan 5 nyawa. Destroy 2 enemy equipment card and 1 enemy prayer card.
 cardName_642,Flamethrower,火吹き
 cardDesc_642,Deal 12 fire damage.,12点の火属性のダメージを与える,Berikan 12 damage api
 cardLevelUpDesc_642,Deal 12 fire damage.,<color=#8adf6a>12</color>点の火属性のダメージを与える,Berikan 12 damage api
@@ -874,7 +874,7 @@ cardDesc_706,The werewolf draws 2 more cards on the next turn.,次のターン�
 cardName_707,Restrict,束縛
 cardDesc_707,You cannot play any cards during this turn.,敵は次のターンにカードをプレイできない
 cardName_708,Self-healing,自己回復
-cardDesc_708,Restore 10 health,10点のHPを回復する
+cardDesc_708,Restore 10 health,10点のHPを回復する,Sembuhkan 10 nyawa
 cardName_709,Persuade,説得
 cardDesc_709,Draw 1 extra card,追加でカードを1枚引く
 cardName_710,Freeze,進行する凍傷
@@ -892,7 +892,7 @@ cardDesc_715,Grandma gains <color=#e6c14f>Armor</color> ×30,おばあさんは3
 cardName_716,Hesitate,ためらい
 cardDesc_716,The first 3 damage cards played this turn target herself.,このターンに、あなたがプレイする最初の3枚のダメージを与えるカードはあなたにダメージを与える
 cardName_717,Treatment,治療
-cardDesc_717,Restore 10 health,10点のHPを回復する
+cardDesc_717,Restore 10 health,10点のHPを回復する,Sembuhkan 10 nyawa
 cardName_718,Freeze,進行する凍傷
 cardDesc_718,Shuffle 6 Freeze cards into your deck.,デッキに凍結を6枚加える
 cardName_719,Injury,怪我を受ける
@@ -908,7 +908,7 @@ cardDesc_723,Grandma gains <color=#e6c14f>Armor</color> ×40,おばあさんは4
 cardName_724,Hesitate,ためらい
 cardDesc_724,The first 3 damage cards played this turn target herself.,このターンに、あなたがプレイする最初の3枚のダメージを与えるカードはあなたにダメージを与える
 cardName_725,Treatment,治療
-cardDesc_725,Restore 5 health,5点のHPを回復する
+cardDesc_725,Restore 5 health,5点のHPを回復する,Sembuhkan 5 nyawa
 cardName_726,Healing Werewolf,狼男の超回復
 cardDesc_726,The werewolf restores 40% health.,狼男は失ったHPの40%を回復する
 cardName_1001,Emergency Rations,非常食
@@ -1106,9 +1106,9 @@ cardDesc_1702,Gain 8 mana.\nDraw 1 card.,8点のMPを獲得する。カードを
 cardName_1703,Sweep,お掃除
 cardDesc_1703,Deal 4 damage. Gain <color=#e6c14f>Armor</color> ×4. Draw 1 card.,4点のダメージを与える。カードを1枚引き、4点の<color=#e6c14f>防御</color>を獲得する
 cardName_1705,Blood Rose,赤い薔薇
-cardDesc_1705,Your maximum health increases by 5. Restore 5 health.,HPの上限+5。5点のHPを回復する
+cardDesc_1705,Your maximum health increases by 5. Restore 5 health.,HPの上限+5。5点のHPを回復する,Your maximum health increases by 5. Sembuhkan 5 nyawa.
 cardName_1706,Chicken Drumstick,骨付き肉
-cardDesc_1706,Restore 2 health.\nDraw 1 card.,2点のHPを回復し、カードを1枚引く
+cardDesc_1706,Restore 2 health.\nDraw 1 card.,2点のHPを回復し、カードを1枚引く,Sembuhkan 2 nyawa.\nDraw 1 card.
 cardName_1707,No Trespassing!,通行止め
 cardDesc_1707,Gain <color=#e6c14f>Armor</color> ×4. Counter the next card the enemy would play.,4点の<color=#e6c14f>防御</color>を獲得する。敵が次にカードをプレイした場合、そのカードを打ち消す
 cardName_1708,Robo-Rabbit,部品交換
@@ -1205,16 +1205,16 @@ cardName_2057,Acid Bomb,毒液の爆弾
 cardDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color>×7.,敵に7点の<color=#e6c14f>毒</color>を与える
 cardLevelUpDesc_2057,Enemy suffers <color=#e6c14f>Poisoned</color> ×<color=#8adf6a>7</color>.,敵に<color=#8adf6a>7</color>点の<color=#e6c14f>毒</color>を与える,Berikan <color=#8adf6a>7</color> poin <color=#e6c14f>Racun</color> ke musuh.
 cardName_2058,Healing Potion,回復薬
-cardDesc_2058,Restore 7 health. Overhealing will be converted to <color=#e6c14f>Armor</color>.,7点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
-cardLevelUpDesc_2058,Restore <color=#8adf6a>7</color> health. Overhealing will be converted to Armor.,<color=#8adf6a>7</color>点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
+cardDesc_2058,Restore 7 health. Overhealing will be converted to <color=#e6c14f>Armor</color>.,7点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する,Sembuhkan 7 nyawa. Overhealing will be converted to <color=#e6c14f>Armor</color>.
+cardLevelUpDesc_2058,Restore <color=#8adf6a>7</color> health. Overhealing will be converted to Armor.,<color=#8adf6a>7</color>点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する,Sembuhkan <color=#8adf6a>7</color> nyawa. Overhealing will be converted to Armor.
 cardName_2059,Ice Shield,氷の盾
 cardDesc_2059,Gain <color=#e6c14f>Armor</color>×6 Enemy suffers <color=#e6c14f>Chilled</color>×6.,6点の<color=#e6c14f>防御</color>を獲得する。敵に6点の<color=#e6c14f>凍結</color>を与える
 cardLevelUpDesc_2059,Gain <color=#e6c14f>Armor</color>×<color=#8adf6a>6</color> Enemy suffers <color=#e6c14f>Chilled</color>×<color=#8adf6a>6</color>.,<color=#8adf6a>6</color>点の<color=#e6c14f>防御</color>を獲得する。敵に<color=#8adf6a>6</color>点の<color=#e6c14f>凍結</color>を与える
 cardName_2061,Round Shield,丸盾
 cardDesc_2061,Block 4 damage each turn.,各ターンに、4点のダメージを防御する
 cardName_2062,Purifying Light,浄化の光
-cardDesc_2062,Restore 15 health. Overhealing will be converted to piercing damage dealt to the enemy.,15点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分貫通ダメージを与える
-cardLevelUpDesc_2062,Restore <color=#8adf6a>15</color> health. Overhealing will be converted to piercing damage dealt to the enemy.,<color=#8adf6a>15</color>点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分貫通ダメージを与える
+cardDesc_2062,Restore 15 health. Overhealing will be converted to piercing damage dealt to the enemy.,15点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分貫通ダメージを与える,Sembuhkan 15 nyawa. Overhealing will be converted to piercing damage dealt to the enemy.
+cardLevelUpDesc_2062,Restore <color=#8adf6a>15</color> health. Overhealing will be converted to piercing damage dealt to the enemy.,<color=#8adf6a>15</color>点のHPを回復する。回復がHPの上限を超えた場合、敵に超えた分貫通ダメージを与える,Sembuhkan <color=#8adf6a>15</color> nyawa. Overhealing will be converted to piercing damage dealt to the enemy.
 cardName_2063,Bizarre Rune,怪しげなルーン
 cardDesc_2063,The enemy takes 3 additional damage during their turn.,敵のターン中に、敵が受けるダメージを+3
 cardLevelUpDesc_2063,The enemy takes <color=#8adf6a>3</color> additional damage during their turn.,敵のターン中に、敵が受けるダメージを+<color=#8adf6a>3</color>
@@ -1668,7 +1668,7 @@ cardDesc_8219,<color=#e6c14f>Exiled</color>. Deal 1 damage for each 2 levels of 
 cardLevelUpDesc_8219,<color=#e6c14f>Exiled</color>. Deal 1 damage for each <color=#8adf6a>2</color> levels of cards you own.,<color=#e6c14f>除外</color>\nあなたが<color=#e6c14f>所有</color>しているカードのレベルの合計を<color=#8adf6a>2</color>レベルごとに、１点のダメージを与える
 cardDescEx_8219,<color=#e6c14f>Exiled</color>. Deal 1 damage for each 2 levels of cards you own. (Deal {0} damage),<color=#e6c14f>除外</color>\nあなたが<color=#e6c14f>所有</color>しているカードのレベルの合計を2レベルごとに、１点のダメージを与える({0}点のダメージを与える)
 cardName_8277,Wound Healing,自己回復
-cardDesc_8277,"<color=#e6c14f>Exiled</color>. During this combat, restore 1 health for every action card you play.",<color=#e6c14f>除外</color>\nこの戦闘中、行動カードをプレイする度に、1点のHPを回復する
+cardDesc_8277,"<color=#e6c14f>Exiled</color>. During this combat, restore 1 health for every action card you play.",<color=#e6c14f>除外</color>\nこの戦闘中、行動カードをプレイする度に、1点のHPを回復する,"<color=#e6c14f>Exiled</color>. During this combat, Sembuhkan 1 nyawa for every action card you play."
 cardName_8278,Wound Healing,自己回復
 cardDesc_8278,"<color=#e6c14f>Exiled</color>. Restore 3 health. During this combat, restore 1 health for every action card you play.",<color=#e6c14f>除外</color>\n3点のHPを回復する。この戦闘中、行動カードをプレイする度に、1点のHPを回復する
 cardLevelUpDesc_8278,"<color=#e6c14f>Exiled</color>. Restore <color=#8adf6a>3</color> health. During this combat, restore 1 health for every action card you play.",<color=#e6c14f>除外</color>\n<color=#8adf6a>3点のHPを回復する。</color>この戦闘中、行動カードをプレイする度に、1点のHPを回復する
@@ -1921,7 +1921,7 @@ cardDesc_8827,<color=#e6c14f>Exiled</color>. <color=#e6c14f>Recycle</color>\nGai
 cardName_8828,Installation building,フエルフラスコ
 cardDesc_8828,"<color=#e6c14f>Exiled</color>. Choose one card from 3 random equipment, equip 2 copies.",<color=#e6c14f>除外</color>\nランダムな3枚の装備カードから1枚を選び、そのカードのコピーを2枚装備する
 cardName_8851,Sharp Kitchen Knife,恨み包丁
-cardDesc_8851,<color=#e6c14f>Exiled</color>. Deal 5 damage. Restore same amount of health.,<color=#e6c14f>除外</color>\n敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する
+cardDesc_8851,<color=#e6c14f>Exiled</color>. Deal 5 damage. Restore same amount of health.,<color=#e6c14f>除外</color>\n敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する,<color=#e6c14f>Exiled</color>. Deal 5 damage. Sembuhkan nyawa dengan jumlah yang sama.
 cardName_8852,Champion Cloak,勝者のマント
 cardDesc_8852,<color=#e6c14f>Exiled</color>. Gain <color=#e6c14f>Armor</color> ×10. Get a random action card.,<color=#e6c14f>除外</color>\n10点の<color=#e6c14f>防御</color>を獲得する。ランダムに行動カードを1枚獲得する
 cardName_8853,Toy Spear,おもちゃの槍
@@ -2079,7 +2079,7 @@ cardDesc_9353,Immune to all damage. Lasts 1 turn.,あなたは次のターンま
 cardName_9354,Tenacity,執念
 cardDesc_9354,Gain Armor equivalent to the health you have lost.,失ったHP分の防御を獲得する
 cardName_9355,Dexterity,器用
-cardDesc_9355,Gain 2 Action. Restore 3 health when you play an action card.,2点のアクションを獲得する。このターンに、行動カードをプレイする度に、3点のHPを回復する
+cardDesc_9355,Gain 2 Action. Restore 3 health when you play an action card.,2点のアクションを獲得する。このターンに、行動カードをプレイする度に、3点のHPを回復する,Gain 2 Action. Sembuhkan 3 nyawa when you play an action card.
 cardName_9356,Introspection,瞑想
 cardDesc_9356,Spell card cost for this turn is halved. Damage taken is halved.,このターン中に、魔法カードのMPコストを半減し、あなたが受けるダメージも半減する
 cardName_9357,Incantation,呪文を唱える
@@ -2176,9 +2176,9 @@ cardDesc_11761,"<color=#e6c14f>Exiled</color>, deal 5 piercing damage. Counter t
 cardName_11762,Soul freeze,凍りつく魂
 cardDesc_11762,"<color=#e6c14f>Exiled</color>, Counter the next 2 cards the enemy plays.",<color=#e6c14f>除外</color>\n敵が次にプレイする2枚のカードを打ち消す
 cardName_11766,Assimilate,活力の吸収
-cardDesc_11766,"<color=#e6c14f>Exiled</color>, in this combat, you restore 1 health when you lose health on your turn.",<color=#e6c14f>除外</color>\nこの戦闘中に、あなたが自分のターンにHPを失う度に、1点のHPを回復する
+cardDesc_11766,"<color=#e6c14f>Exiled</color>, in this combat, you restore 1 health when you lose health on your turn.",<color=#e6c14f>除外</color>\nこの戦闘中に、あなたが自分のターンにHPを失う度に、1点のHPを回復する,"<color=#e6c14f>Exiled</color>, in this combat, you Sembuhkan 1 health when you lose nyawa on your turn."
 cardName_11767,Cruel assimilate,活力の奪取
-cardDesc_11767,"<color=#e6c14f>Exiled</color>, in this combat, you restore 2 health when you lose health on your turn.",<color=#e6c14f>除外</color>\nこの戦闘中に、あなたが自分のターンにHPを失う度に、2点のHPを回復する
+cardDesc_11767,"<color=#e6c14f>Exiled</color>, in this combat, you restore 2 health when you lose health on your turn.",<color=#e6c14f>除外</color>\nこの戦闘中に、あなたが自分のターンにHPを失う度に、2点のHPを回復する,"<color=#e6c14f>Exiled</color>, in this combat, you Sembuhkan 2 health when you lose nyawa on your turn."
 cardName_11769,Sacrifice of souls,魂の生贄
 cardDesc_11769,"<color=#e6c14f>Exiled</color>, get 2 health consuming cards.",<color=#e6c14f>除外</color>\nコストがHPのカードを2枚獲得する
 cardName_11771,Guider lamp,冥界のランプ
@@ -2329,11 +2329,11 @@ cardDesc_12502,Deal 5 damage.Shuffle 1 <color=#e6c14f>Freeze</color> to enemy's 
 cardName_12503,Drunken trouble,うざ絡み
 cardDesc_12503,Deal 7 damage.Shuffle 1 <color=#e6c14f>Freeze</color> to enemy's deck.,6点のダメージを与える。敵のデッキに<color=#e6c14f>凍結</color>を1枚加える
 cardName_12504,Binge drinking,一気飲み
-cardDesc_12504,Upgrade all your cards. Restore 2 health.,手札とデッキにある全てのカードを昇格する。2点のHPを回復する
+cardDesc_12504,Upgrade all your cards. Restore 2 health.,手札とデッキにある全てのカードを昇格する。2点のHPを回復する,Upgrade all your cards. Sembuhkan 2 nyawa.
 cardName_12505,Binge drinking,一気飲み
-cardDesc_12505,Upgrade all your cards. Restore 4 health.,手札とデッキにある全てのカードを昇級する。4点のHPを回復する
+cardDesc_12505,Upgrade all your cards. Restore 4 health.,手札とデッキにある全てのカードを昇級する。4点のHPを回復する,Upgrade all your cards. Sembuhkan 4 nyawa.
 cardName_12506,Binge drinking,一気飲み
-cardDesc_12506,Upgrade all your cards. Restore 6 health.,手札とデッキにある全てのカードを昇級する。6点のHPを回復する
+cardDesc_12506,Upgrade all your cards. Restore 6 health.,手札とデッキにある全てのカードを昇級する。6点のHPを回復する,Upgrade all your cards. Sembuhkan 6 nyawa.
 cardName_13000,Death comes,死神降臨
 cardDesc_13000,"<color=#e6c14f>Exiled</color>, draw a card. Deal 10 piercing damage.",<color=#e6c14f>除外</color>\nカードを1枚引き、10点の貫通ダメージを与える,"<color=#e6c14f>Exiled</color>, draw a card. Berikan 10 damage tusuk."
 cardName_13001,Death comes,死神降臨
@@ -2695,13 +2695,13 @@ cardLevelUpDesc_17001,Get <color=#8adf6a>20</color> <color=#e6c14f>armor</color>
 cardName_17010,Sprint preparation,疾走準備
 cardDesc_17010,Until the next turn you take -2 damage. Change this card into <color=#e6c14f>Sprint</color>,あなたの次のターンまでに、あなたが受けるダメージを-2する、このカードを<color=#e6c14f>疾走</color>に変化する
 cardName_17020,Fast treatment,超再生
-cardDesc_17020,<color=#e6c14f>Exiled</color>. Fully restore your health.,<color=#e6c14f>除外</color>\nHPを全回復する
+cardDesc_17020,<color=#e6c14f>Exiled</color>. Fully restore your health.,<color=#e6c14f>除外</color>\nHPを全回復する,<color=#e6c14f>Exiled</color>. Sembuhkan nyawa sampai penuh.
 cardName_17030,Piety of light,光の敬虔
-cardDesc_17030," Prayer countdowns speed up by 1 turn, restore 1 health for each accelerated card.",進行中の祈りカードのカウントを1ターン進める。１枚1枚につきHPを1点回復。
+cardDesc_17030,"Prayer countdowns speed up by 1 turn, restore 1 health for each accelerated card.",進行中の祈りカードのカウントを1ターン進める。１枚1枚につきHPを1点回復。,"Prayer countdowns speed up by 1 turn, Sembuhkan 1 nyawa for each accelerated card."
 cardName_17040,Pious creed,敬虔信条
 cardDesc_17040,Gain 1 <color=#e6c14f>confess</color> for every 5 health you restore.,5点のHPを回復するごとに、1点の<color=#e6c14f>懺悔</color>を獲得する
 cardName_17050,Fast treatment,超回復
-cardDesc_17050,<color=#e6c14f>Exiled</color>. Restore 50 health.,<color=#e6c14f>除外</color>50点のHPを回復する。
+cardDesc_17050,<color=#e6c14f>Exiled</color>. Restore 50 health.,<color=#e6c14f>除外</color>50点のHPを回復する。,<color=#e6c14f>Exiled</color>. Sembuhkan 50 nyawa.
 cardName_19000,Regretful prayer,悔い改める
 cardDesc_19000,"Get 3 <color=#e6c14f>confession</color>. After 3 turns, trigger the <color=#e6c14f>confession</color> effect",3点の<color=#e6c14f>懺悔</color>を獲得するし、3ターン後<color=#e6c14f>懺悔</color>の効果を発動する
 cardDescEx_19000,"After {0} turns, trigger confession",{0}ターン後，懺悔の効果を発動する
@@ -2853,7 +2853,7 @@ effectDesc_326,Swift: Draw {0} cards. Gain {0} Action.,素早い：カードを{
 effectDesc_329,Damage Reduction: Deal {0} physical damage.,ダメージ点軽減：与える物理ダメージを{0},Damage Reduction: Berikan {0} damage fisik.
 effectDesc_335,Protection: You cannot take more than {0} damage at once.,保護：{0}点を超えるダメージは{0}点になる（貫通ダメージを除く）
 effectDesc_336,Brass Knuckles: Deal {0} additional physical damage.,ダメージ増加：与える物理ダメージ+{0},Brass Knuckles: Berikan {0} additional damage fisik.
-effectDesc_337,Cure: Restore {0} health.,治癒魔法：{0}点のHPを回復する
+effectDesc_337,Cure: Restore {0} health.,治癒魔法：{0}点のHPを回復する,Cure: Sembuhkan {0} nyawa.
 effectDesc_338,Armor Break: Damage dealt becomes piercing damage.,防御無視：与えるダメージを貫通効果と見なす。
 effectDesc_344,Fatal Blow: Die in {0} turns.,致命傷：あなたは{0}ターン後に死亡する
 effectDesc_345,Repeat: Copy your next card.,コピー：次にプレイするカードをコピーする
@@ -2868,7 +2868,7 @@ effectDesc_4001,Frustration: Discard {0} cards at random during your next turn.,
 effectDesc_4002,Fatigue: You cannot draw cards during your next {0} turns.,疲労：次の{0}ターンの間にカードを引けない
 effectDesc_4003,Laziness: You cannot play cards during your next {0} turns.,怠惰：次の{0}ターンの間にカードを引けない
 effectDesc_4004,Discipline: Restore health by 50% of the damage you have dealt.,忠告：与えたダメージの半分に等しいのHPを回復する
-effectDesc_4005,"Dexterity: Each time you use an action card, restore 3 health.",器用：このターン、行動カードをプレイする度に、3点のHPを回復する
+effectDesc_4005,"Dexterity: Each time you use an action card, restore 3 health.",器用：このターン、行動カードをプレイする度に、3点のHPを回復する,"Dexterity: Each time you use an action card, Sembuhkan 3 nyawa."
 effectDesc_4006,Introspection: Casting spell cards costs half as much mana this turn.,魔法コスト半減：このターン、魔法カードのコストを半減する
 effectDesc_4007,Incantation: Deal {0} additional damage this turn.,呪文：このターン、与えるダメージ+{0}
 effectDesc_4008,Pyro: Deal {0} additional fire damage.,火種：与える火属性のダメージ+{0}
@@ -2894,7 +2894,7 @@ effectDesc_4027,"Zeal: Each time you use an attack card, draw a card.",興奮：
 effectDesc_4028,Awakening: Damage increased by {0} times.,覚醒：与えるダメージを{0}倍にする
 effectDesc_4029,"Each time you use a spell card, draw 1 card.",魔法カードをプレイする度に、カードを1枚引く
 effectDesc_4030,Renegade: Draw {0} cards at start of turn.,加速：ターンの開始時、カードを{0}枚引く
-effectDesc_4031,"Rebirth (Talent): Revive after death, restore 1 health and become immune to damage for 1 turn.",復活（才能）：死亡した時に、HPを全回復する。1ターンの間、無敵になる
+effectDesc_4031,"Rebirth (Talent): Revive after death, restore 1 health and become immune to damage for 1 turn.",復活（才能）：死亡した時に、HPを全回復する。1ターンの間、無敵になる,"Rebirth (Talent): Revive after death, Sembuhkan 1 nyawa and become immune to damage for 1 turn."
 effectDesc_4032,xx: The first 3 damage dealing cards that the enemy plays will target them (3 times).,挑発：敵がプレイする最初の3枚のダメージを与えるカードは敵にダメージを与える
 effectDesc_4033,xx: Maximum hand size and card draws decrease by {0}.,恐怖：手札の上限と引くカードの枚数を{0}枚減らす
 effectDesc_4034,xx: Reduces the enemy's Action by {0}.,xx：敵のアクション-{0}
@@ -2962,7 +2962,7 @@ effectDesc_4162,Accelerate: Action +{0}.,加速：{0}点のアクションを獲
 effectDesc_4163,Critical Moment: Get a random attack card for each action card you use.,危機一髪：行動カードをプレイする度に、ランダムに攻撃カードを1枚獲得する
 effectDesc_4164,Take by Storm: Use anattack card from your deck when you use action card.,強襲：行動カードをプレイする度に、デッキから攻撃カードを{0}枚プレイする
 effectDesc_4166,Rage:Deal {0} damage on the end of your turn.Immediately trigger the damage when the maxmum rage is exceeded.,憤怒：あなたのターン終了時、もしくは上限値以上に憤怒を獲得するした場合、{0}点のダメージを与える
-effectDesc_4167,Wound Healing: Restore {0} health for each action card you use.,自己回復：行動カードをプレイする度に、{0}点のHPを回復する
+effectDesc_4167,Wound Healing: Restore {0} health for each action card you use.,自己回復：行動カードをプレイする度に、{0}点のHPを回復する,Wound Healing: Sembuhkan {0} nyawa for each action card you use.
 effectDesc_4177,"Bane of Doom: The end of the turn, all prayers speed up {0} turn",黙示録：ターンの終了時に、進行中の祈りカードのカウントを{0}ターン進める
 effectDesc_4183,"Greed: For each card you get, gain {0} health.",貪欲：カードを引く度に、{0}点のHPを回復する
 effectDesc_4185,Disintegration: Explode after {0} turns and deal damage equal to the health.,解体：{0}ターン後に爆発し、残りHPに等しいのダメージを与える
@@ -3004,7 +3004,7 @@ effectDesc_4267001,"Judgment: For each 10 Judgment you gain, shuffle a Death com
 effectDesc_4272,"Soul shelling: When the health is reduced below 1, the maximum health will be reduced by 2 for each damage received.",魂の殻：HPが1以下になるダメージを受ける場合、そのダメージを受ける代わりに、1点のダメージにつきHPの上限-2
 effectDesc_4275,"Knight Armor: At the start of your turn, get one of the enemy's equipments.",騎士の鎧：ターンの開始時に、敵の装備カードを獲得する
 effectDesc_4280,"Previous memory: every time a card is shuffled into your deck due to an effect, its cost will be reduced to half",前世の記憶：あなたのデッキにカードを加える場合、そのカードのコストを半減する
-effectDesc_4287,Assimilation: Restore {0} health when you lose health in your turn.,活力の吸収：あなたのターンにHPを失う度に、{0}点のHPを回復する
+effectDesc_4287,Assimilation: Restore {0} health when you lose health in your turn.,活力の吸収：あなたのターンにHPを失う度に、{0}点のHPを回復する,Assimilation: Sembuhkan {0} health when you lose nyawa in your turn.
 effectDesc_4288,Soul Assumption: Siphon {0}% of enemy's mana each turn.,魔力の吸収：ターンの開始時に、敵の残りMPを半分吸収する
 effectDesc_4289,Frame: Damage +{0}.,火災：ダメージ+{0}。各ターンにカウントを増やす
 effectDesc_4290,Flood: Absorb {0} health and Max health of enemy at the start of turn.,洪水：ターンの開始時に、敵のHPとHPの上限を{0}点吸収する
@@ -3049,7 +3049,7 @@ effectDesc_4414,Explosive workshop: Obtained {0} mechanical explosives,爆弾工
 effectDesc_4415,"Waste utilization: Whenever a card is upgraded in combat, gain {0} armor.",再利用：カードを1枚昇格につき、{0}点の<color=#e6c14f>防御</color>を獲得する
 effectDesc_5000,Mana Recharge: Restore {0} mana.,魔力の補充：{0}点のMPを回復する
 effectDesc_5001,Waver: Deal damage to the enemy at random.,不安定：敵にダメージを与える際に、そのダメージはランダムで決まる
-effectDesc_5002,Regen: Restore {0} health at start of turn.,自動回復：ターンの開始時に、{0}点のHPを回復する
+effectDesc_5002,Regen: Restore {0} health at start of turn.,自動回復：ターンの開始時に、{0}点のHPを回復する,Regen: Sembuhkan {0} nyawa at start of turn.
 effectDesc_5003,Antibodies: Immunity to Poison damage.,抗体：毒属性によるダメージを半減する
 effectDesc_5004,Select 1 hand and permanently give it to your opponent,カードを1枚選び、それを永久に敵に渡す
 effectDesc_5005,Aegis: Take {0}% less physical damage.,保護：受ける物理ダメージを{0}%軽減する
@@ -3076,7 +3076,7 @@ effectDesc_5026,Cowardice: You have a chance of escaping after taking damage.,�
 effectDesc_5027,Introspection: Restore {0} mana at start of turn.,瞑想：ターンの開始時に、{0}点のMPを回復する
 effectDesc_5028,Majesty: The enemy's Action decreases by 1.,威厳：敵は1点のアクションを失う
 effectDesc_5029,Scorch: Your opponent takes {0} fire damage when they play a card.,灼熱：敵がカードをプレイする度に、{0}点の火属性のダメージを受ける
-effectDesc_5030,"Resurrection: At start of each turn, automatically restore {0}% of the health you have lost.",再生：ターンの開始時に、失ったHPの{0}%を回復する
+effectDesc_5030,"Resurrection: At start of each turn, automatically restore {0}% of the health you have lost.",再生：ターンの開始時に、失ったHPの{0}%を回復する,"Resurrection: At start of each turn, automatically Sembuhkan {0}% of the nyawa you have lost."
 effectDesc_5031,Nirvana: Change into a statue after death.,輪廻：死亡した場合、石像になる
 effectDesc_5032,Rebirth: Revive on your next turn.,転生：ターンの開始時に復活する
 effectDesc_5033,Penetration: Take double elemental damage.,貫通：受ける属性ダメージが2倍になる
@@ -3091,7 +3091,7 @@ effectDesc_5040,Bitter Choice: Little Red Riding Hood must make a choice each tu
 effectDesc_5041,Immunity: Immunity to the next damage you take.,免疫：次のダメージを受けない
 effectDesc_5042,Time Pressure: The enemy has less time to play their cards.,緊迫：敵がカードをプレイできる時間が減少する
 effectDesc_5043,Restlessness: Draw {0} card at start of turn.,苛立ち：ターンの開始時に、カードを{0}枚引く
-effectDesc_5044,Corruption: Restore 1 health each time you deal {0} damage.,堕落：{0}点のダメージを与えるごとに、1点のHPを回復する
+effectDesc_5044,Corruption: Restore 1 health each time you deal {0} damage.,堕落：{0}点のダメージを与えるごとに、1点のHPを回復する,Corruption: Sembuhkan 1 nyawa each time you deal {0} damage.
 effectDesc_5045,Infection: Your opponent takes {0} poison damage at start of turn.,感染：ターンの開始時に、敵は{0}点の<color=#e6c14f>毒</color>を受ける
 effectDesc_5047,"Wavering Heart: On your next turn, choose {0} hand and give it to Grandma.",揺れる想い：2ターンごとに、手札からカードを{0}枚選び、それを敵に渡す
 effectDesc_5048,xx: Your opponent adds new cards into their deck until it has {0} cards,植付け：敵のデッキにカードが{0}枚になるようにカードを追加する
@@ -3120,7 +3120,7 @@ effectDesc_5070,Bitter choice: every turn the little red riding hood needs to ma
 effectDesc_5071,"Aging: when the deck of little red riding hood is reset, the cap is -1 (up to -2)",老衰：敵がデッキをリシャッフルする度に、引くカードの枚数を1枚減らす（最大-2枚）
 effectDesc_5072,Immunization: Avoid the next damage,免疫：次のダメージを受けない
 effectDesc_5073,Effectiveial: this turn you deal 2 times more damage,覚醒：このターンに、与えるダメージを{0}倍にする
-effectDesc_5074,"Resurrection: At start of each turn, automatically restore {0}% of the health you have lost.",再生：ターンの開始時に、失ったHPの{0}%を回復する
+effectDesc_5074,"Resurrection: At start of each turn, automatically restore {0}% of the health you have lost.",再生：ターンの開始時に、失ったHPの{0}%を回復する,"Resurrection: At start of each turn, automatically Sembuhkan {0}% of the nyawa you have lost."
 effectDesc_5075,Wisdom: Gain {0} mana each turn,知恵：{0}点のMPを回復する
 effectDesc_5080,"Begging: If enemy has cards in hand, take them, skip card draw this turn.",乞食：ターンの開始時に、敵の手札にカードがある場合、カードを引く代わりに、敵の手札を全て獲得する
 effectDesc_5081,Rose Burst: The enemy loses all Actions and mana when enemy uses first damage card.,バラの棘：各ターンに、敵が最初にダメージを与えるカードをプレイした場合、敵は全てのアクションとMPを失う
@@ -3166,7 +3166,7 @@ effectDesc_6017,Bunker: Enemy deals 1 damage instead.,バンカー：敵が与�
 effectDesc_6018,"Execution: When the enemy's blood volume is less than 50% of its maximum life, increase that damage by {0}%.",処刑：敵の残りHPが50%以下の場合、与えるダメージを{0}%増加する
 effectDesc_6019,Cold Wind: Enemy's Chilled stays half at the end of the turn.,寒風：ターンの終了時に、敵の凍結は半分残る
 effectDesc_6020,Gift from Heaven: Drop 1 gold for each 2 damage taken.,天よりの宝：2点のダメージを受ける度に、1枚の金貨を獲得する
-effectDesc_6021,Drop candies: Restore 1 health for each {0} damage taken.,飴ちゃん：{0}点のダメージを受ける度に、敵が1点のHPを回復する
+effectDesc_6021,Drop candies: Restore 1 health for each {0} damage taken.,飴ちゃん：{0}点のダメージを受ける度に、敵が1点のHPを回復する,Drop candies: Sembuhkan 1 nyawa for each {0} damage taken.
 effectDesc_6023,"Blarney: Exile cards that enemy plays, shuffle random card to enemy's deck.",戯言：敵がプレイしたカードを全て除外し、代わりにランダムにカードを1枚敵のデッキに加える
 effectDesc_6035,"Coal Elf: when the enemy gains Poisoned / Burn / Sticking / Chilld, you deal 1 fire damage",石炭の精霊：敵が毒/やけど/粘着/凍結を受ける度に、1点の火属性のダメージを与える
 effectDesc_6036,"Baby Dragon: At the start of the turn, you gain a Blazing Charge*.",ベビードラゴン：あなたのターンの開始時、火炎魔法を1枚獲得する
@@ -3203,14 +3203,14 @@ effectDesc_7034,"Trample: When you deal damage no less than 10, you deal {0}% mo
 effectDesc_7035,"Two-bladed Sword:Deal +{0} damage, take +{0} damage.",諸刃の剣：与えるダメージ+{0}、受けるダメージ+{0}
 effectDesc_7036,"Codex of Wonders: For each 2 turns, add a temporary spell card to your hand.",不思議な秘本：2ターンごとに、手札に一時的な魔法カードをランダムに1枚加える
 effectDesc_7037,Stuck:Have {0} chance of losing effect when using card.,粘着：プレイするカードが{0}%の確率で打ち消される
-effectDesc_7038,"Contract of Life: For 3 turns, restore {0}% of the health you have lost.",命の契約：各ターンの開始時に、失ったHPの{0}%に等しいのHPを回復する
+effectDesc_7038,"Contract of Life: For 3 turns, restore {0}% of the health you have lost.",命の契約：各ターンの開始時に、失ったHPの{0}%に等しいのHPを回復する,"Contract of Life: For 3 turns, sembuhkan {0}% of the nyawa you have lost."
 effectDesc_7039,Numbness: Take {0} less damage.,無感覚：受けるダメージ-{0}
 effectDesc_7040,"Telescope: At the start of combat, add a temporary copy of a card from your deck(can not copy equipment)",望遠鏡：戦闘の開始時に、ランダムに所有している1枚のカードの一時的なコピーを獲得する
 effectDesc_7041,"Strong Combination: At the start of your combat, gain <color=#e6c14f>Effective</color>×1.",有効な調合：戦闘の開始時に、1点の<color=#e6c14f>強化</color>を獲得する
 effectDesc_7042,Fast Reactions: {0}% chance to dodge damage.,野生の勘：ダメージを受ける時に、{0}%の確率でそのダメージを回避する
 effectDesc_7043,Lucky Coin: Dodge the first damage every combat.,幸運なコイン：各戦闘の最初のダメージを回避する
 effectDesc_7044,"Skull candy: For each {0} damage you deal by spell cards, restore 1 mana.",ドクロ飴：魔法カードによって{0}点のダメージを与えるごとに、1点のMPを獲得する
-effectDesc_7045,"Bread of the Dead: When you use a spell card, restore 1 health.",幽霊のパン：魔法カードをプレイする度に、{0}HPを回復する
+effectDesc_7045,"Bread of the Dead: When you use a spell card, restore 1 health.",幽霊のパン：魔法カードをプレイする度に、{0}HPを回復する,"Bread of the Dead: When you use a spell card, sembuhkan 1 nyawa."
 effectDesc_7046,"Chocolate coffins: When you use a attack card, gain Armor ×1.",チョコレートの棺：攻撃カードをプレイする度に、{0}点の<color=#e6c14f>防御</color>を獲得する
 effectDesc_7048,Ghost Candle: Lose 1 mana each turn.,幽霊のロウソク：ターンの終了時に、{0}点のMPを失う
 effectDesc_7049,Crystal Skull: Enemy suffers <color=#e6c14f>Bleeding</color>×{0} each turn.,水晶のドクロ：ターンの開始時に、敵に{0}点の流血を与える
@@ -3234,8 +3234,8 @@ effectDesc_7512,"Man in a Flask: After {0} cards exiled, get a random card.",フ
 effectDesc_7514,"Genetic Modification: When you shuffle a card to your deck, shuffle a temporary copy of that card.",遺伝子操作：あなたが自分のデッキにカードを加える場合、そのカードのコピーを1枚デッキに加える
 effectDesc_7516,"Rally Horn: When you use an action card, use an attack card from your deck.",結集の角笛：行動カードをプレイする度に、デッキから攻撃カードを{0}枚プレイする
 effectDesc_7520,"Vow Dagger: When you draw a card from empty deck, get a temporary random card.",毒霧：デッキからカードが引けない場合、敵に{0}点の毒を与える
-effectDesc_7521,"Hemostatic Bandage: For each action card you use, restore {0} health.",止血包帯：行動カードをプレイする度に、1点のHPを回復する
-effectDesc_75211111,"Hemostatic Bandage: For each action card you use, restore {0} health.",止血包帯：行動カードをプレイする度に、1点のHPを回復する
+effectDesc_7521,"Hemostatic Bandage: For each action card you use, restore {0} health.",止血包帯：行動カードをプレイする度に、1点のHPを回復する,"Hemostatic Bandage: For each action card you use, sembuhkan {0} nyawa."
+effectDesc_75211111,"Hemostatic Bandage: For each action card you use, restore {0} health.",止血包帯：行動カードをプレイする度に、1点のHPを回復する,"Hemostatic Bandage: For each action card you use, sembuhkan {0} nyawa."
 effectDesc_7524,"Mirror of Moon: When you use a spell card with less than 5 mana cost , get a temporary copy of that card.",月の鏡：MPコストが{0}以下の魔法カードをコピーする
 effectDesc_7525,"Weapon Master: At the start of each combat, shuffle copies of all your equipped weapons to your deck.",武器の達人：戦闘の開始時に、あなたが装備している装備カードを全てコピーし、デッキに加える
 effectDesc_7526,Magic Crossover: Triple your mana,マジシャン・クロス：戦闘の開始時に、MPを2倍にする
@@ -3293,7 +3293,7 @@ effectDesc_7608,Flea Spy: Gain 1 action at the start of your turn.,ノミの斥�
 effectDesc_7609,Sleepless: Draw {0} card,不眠症：カードを{0}枚引く
 effectDesc_7610,Sleepless: Draw {0} card,不眠症：カードを{0}枚引く
 effectDesc_7618,"Count down: At the start of your turn, gain <color=#e6c14f>Judgment</color> of the current turn number ({0})",カウントダウン：ターンの開始時に、現在のターン数に等しいの審判を獲得する
-effectDesc_7620,Dawn of the soul: Restore {0}% of health after each combat.,魂の夜明け：戦闘の終了時、HPの上限の{0}%に等しいのHPを回復する
+effectDesc_7620,Dawn of the soul: Restore {0}% of health after each combat.,魂の夜明け：戦闘の終了時、HPの上限の{0}%に等しいのHPを回復する,Dawn of the soul: sembuhkan {0}% nyawa after each combat.
 effectDesc_7621,Death's hand: Get a Death's hand,イカサマサイコロ：このターンの間、幸運になる
 effectDesc_7624,Apprentice Cook: Get a Wild Cook at the start of combat.,見習い料理人：戦闘の開始時に、闇鍋を獲得する
 effectDesc_7626,Madness: Get a random card,狂気：ランダムにカードを1枚獲得する
@@ -3606,7 +3606,7 @@ eventTalentStory_7,Copy one card from the deck.,デッキからカードを1枚�
 eventTalentName_8,Rigor,厳格
 eventTalentStory_8,Deal 1 additional physical damage to the enemy.,敵に与える物理ダメージ+1,Berikan 1 damage fisik tambahan ke musuh.
 eventTalentName_9,Rebirth,復活
-eventTalentStory_9,Revive after next death and restore all health.,次に死亡する際に、HPを全回復して、復活する
+eventTalentStory_9,Revive after next death and restore all health.,次に死亡する際に、HPを全回復して、復活する,Revive after next death and sembuhkan nyawa sampai penuh.
 eventTalentName_10,Purity,純粋
 eventTalentStory_10,Select up to 3 cards from your deck and exile them.,デッキからカードを3枚まで選び、それらをデッキから除外する
 LostThingName_1001,Gift Card,優待券
@@ -3660,7 +3660,7 @@ LostThingDesc_1047,Delete 2 card from your deck.,デッキからカードを2枚
 LostThingName_1048,Fencing,剣術の訓練
 LostThingDesc_1048,You deal 1 additional damage.,敵に与えるダメージ+1
 LostThingName_1049,Feather of Phoenix,鳳凰の羽
-LostThingDesc_1049,Revive after next death and restore all health.,死亡した時に、HPを全回復する
+LostThingDesc_1049,Revive after next death and restore all health.,死亡した時に、HPを全回復する,Revive after next death and sembuhkan nyawa sampai penuh.
 LostThingName_1050,Healthy,HP強化
 LostThingDesc_1050,Maximum health +6,HPの上限+5
 LostThingName_1052,Mana,魔力強化
@@ -3714,7 +3714,7 @@ LostThingDesc_1080,"When you take damage, you have 10% chance to draw a card.",�
 LostThingName_1081,Two-bladed Sword,諸刃の剣
 LostThingDesc_1081,"Deal +1 damage, take +1 damage.",与えるダメージ+1、受けるダメージ+1
 LostThingName_1082,Contract of Life,命の契約
-LostThingDesc_1082,"For 3 turns, restore 20% of the health you've lost.",3ターンの間、ターンの開始時に、失ったHPの20%に等しいのHPを回復する
+LostThingDesc_1082,"For 3 turns, restore 20% of the health you've lost.",3ターンの間、ターンの開始時に、失ったHPの20%に等しいのHPを回復する,"For 3 turns, sembuhkan 20% nyawa yang hilang."
 LostThingName_1083,Numbness,無感覚
 LostThingDesc_1083,Take -1 damage.(Except piercing damage),受けるダメージ-1（貫通ダメージを除く）
 LostThingName_1084,Telescope,望遠鏡
@@ -3748,7 +3748,7 @@ LostThingDesc_1097,"For each 10 damage you deal by spell cards, restore 1 mana."
 LostThingName_1098,Crystal Skull,水晶のドクロ
 LostThingDesc_1098,Enemy suffers <color=#e6c14f>Bleeding</color>×4 each turn.,ターンの開始時に、敵に4点の流血を与える
 LostThingName_1099,Bread of the Dead,幽霊のパン
-LostThingDesc_1099,"When you use a spell card, restore 1 health.",魔法カードをプレイする度に、1点のHPを回復する
+LostThingDesc_1099,"When you use a spell card, restore 1 health.",魔法カードをプレイする度に、1点のHPを回復する,"When you use a spell card, sembuhkan 1 nyawa."
 LostThingName_1100,Ghost Candle,幽霊のロウソク
 LostThingDesc_1100,"Initial mana +12, Lose 1 mana each turn.",初期MP+12。各ターンの終了時に、1点のMPを失う
 LostThingName_1101,Marigold,亡霊の花
@@ -3828,7 +3828,7 @@ LostThingDesc_1139,Reduce Action cost in your hand by 1 at the start of each com
 LostThingName_1140,Bloodletting,血の対価
 LostThingDesc_1140,"Maximum health -12, Copy a card from your deck.",デッキのカードを1枚コピーする。HPの上限-12
 LostThingName_1141,Hemostatic bandage,止血包帯
-LostThingDesc_1141,Restore 1 health each time you use an action card.,行動カードをプレイする度に、1点のHPを回復する
+LostThingDesc_1141,Restore 1 health each time you use an action card.,行動カードをプレイする度に、1点のHPを回復する,sembuhkan 1 nyawa each time you use an action card.
 LostThingName_1142,Deer's Lightness,俊敏の鹿
 LostThingDesc_1142,Draw an additional card at the start of each combat.,戦闘の開始時に、追加でカードを1枚引く
 LostThingName_1143,Genetic Modification,遺伝子操作
@@ -3846,7 +3846,7 @@ LostThingDesc_1200,"Every time a card is shuffled into your deck due to an effec
 LostThingName_1201,Soul Assumption,魔力の吸収
 LostThingDesc_1201,Siphon half of enemy's mana at the start of each turn.,各ターンの開始時、敵の残りMPの半分を吸収する
 LostThingName_1202,Dawn of the soul,魂の夜明け
-LostThingDesc_1202,Maxmum health +5. Restore 10% of health after each combat.,HPの上限+5。戦闘の終了時、10%のHPを回復する
+LostThingDesc_1202,Maxmum health +5. Restore 10% of health after each combat.,HPの上限+5。戦闘の終了時、10%のHPを回復する,Maxmum health +5. sembuhkan 10% nyawa after each combat.
 LostThingName_1203,Soul shelling,魂の殻
 LostThingDesc_1203,"When the health is reduced below 1, the maximum health will be reduced by 2 for each damage received.",HPが0以下になるダメージを受ける場合、そのダメージを受ける代わりに、1点のダメージにつきHPの上限-2
 LostThingName_1205,Death coin,死神のコイン
@@ -4047,7 +4047,7 @@ heroSkillStory_15,Immune to all damage. Lasts 1 turn. Cd: 2 combats.,あなた�
 heroSkillName_18,Tenacity,執念
 heroSkillStory_18,Gain Armor equivalent to the health you have lost. Cd: 3 combats.,失ったHP分の防御を獲得する\n充填：3
 heroSkillName_19,Dexterity,器用
-heroSkillStory_19,Gain 2 Action. Restore 3 health when you play an action card. Cd: 3 combats.,2点のアクションを獲得する。このターンに、行動カードをプレイする度に、3点のHPを回復する\n充填：3
+heroSkillStory_19,Gain 2 Action. Restore 3 health when you play an action card. Cd: 3 combats.,2点のアクションを獲得する。このターンに、行動カードをプレイする度に、3点のHPを回復する\n充填：3,Gain 2 Action. Sembuhkan 3 nyawa when you play an action card. Cd: 3 combats.
 heroSkillName_20,Introspection,瞑想
 heroSkillStory_20,Spell card cost for this turn is halved. Damage taken is halved. Cd: 2 combats.,このターン中に、魔法カードのMPコストを半減し、あなたが受けるダメージも半減する\n充填：2
 heroSkillName_21,Incantation,呪文を唱える
@@ -4162,11 +4162,11 @@ heroSkillName_86,Thunderclap,雷鳴
 heroSkillStory_86," CD: 3 Combats\nDeal 5 lightning damage. Your next spell card costs no mana.",充填：3\n5点の雷属性のダメージを与える。あなたが次にプレイする魔法カードのMPのコストを無視する
 heroSkillStory_Discover_86,Deal 5 lightning damage. Your next spell card costs no mana.,5点の雷属性のダメージを与える。あなたが次にプレイする魔法カードのMPのコストを無視する
 heroSkillName_87,Blessing,祝福
-heroSkillStory_87," CD: 3 Combats\nRestore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.",充填：3\n15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
-heroSkillStory_Discover_87,Restore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する
+heroSkillStory_87," CD: 3 Combats\nRestore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.",充填：3\n15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する," CD: 3 Combats\nSembuhkan 15 nyawa. Overhealing is converted into <color=#e6c14f>Armor</color>."
+heroSkillStory_Discover_87,Restore 15 health. Overhealing is converted into <color=#e6c14f>Armor</color>.,15点のHPを回復する。回復がHPの上限を超えた場合、超えた分の<color=#e6c14f>防御</color>を獲得する,Sembuhkan 15 nyawa. Overhealing is converted into <color=#e6c14f>Armor</color>.
 heroSkillName_88,Dark Dawn,黎明の光
 heroSkillStory_88," CD: 3 Combats\nRestore 50% of the health you've lost, deal damage equal to half the health restored.",充填：3\n失ったHPの半分に等しいのHPを回復し、回復したHPの半分に等しいの貫通ダメージを与える
-heroSkillStory_Discover_88,"Restore 50% of the health you've lost, deal damage equal to half the health restored.",失ったHPの半分に等しいのHPを回復し、回復したHPの半分に等しいの貫通ダメージを与える
+heroSkillStory_Discover_88,"Restore 50% of the health you've lost, deal damage equal to half the health restored.",失ったHPの半分に等しいのHPを回復し、回復したHPの半分に等しいの貫通ダメージを与える,"sembuhkan 50% nyawa yang hilang, deal damage equal to half the nyawa restored."
 heroSkillName_89,Desperate Attack,背水の陣
 heroSkillStory_89," CD: 3 Combats\nDeal piercing damage equal to half the health you've lost.",充填：3\nあなたが失ったHPの半分に等しいの貫通ダメージを与える
 heroSkillStory_Discover_89,Deal piercing damage equal to half the health you've lost.,あなたが失ったHPの半分に等しいの貫通ダメージを与える
@@ -4282,8 +4282,8 @@ heroSkillName_126,Disarm,武装奪取
 heroSkillStory_126," CD: 3 Combats\nGet 1 enemy equipment card from the field.",充填：3\n敵が装備中の装備カードを1枚獲得する
 heroSkillStory_Discover_126,Get 1 enemy equipment card from the field.,敵が装備中の装備カードを1枚獲得する
 heroSkillName_127,Holy Providence,神の加護
-heroSkillStory_127," CD: 2 Combats\nDraw 1 card. This combat, restore 2 health at the start of each turn.",充填：2\nカードを1枚引く。今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する
-heroSkillStory_Discover_127,"Draw 1 card. This combat, restore 2 health at the start of each turn.",カードを1枚引く。今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する
+heroSkillStory_127," CD: 2 Combats\nDraw 1 card. This combat, restore 2 health at the start of each turn.",充填：2\nカードを1枚引く。今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する," CD: 2 Combats\nDraw 1 card. This combat, sembuhkan 2 nyawa at the start of each turn."
+heroSkillStory_Discover_127,"Draw 1 card. This combat, restore 2 health at the start of each turn.",カードを1枚引く。今の戦闘中、あなたの各ターンの開始時、2点のHPを回復する,"Draw 1 card. This combat, sembuhkan 2 nyawa at the start of each turn."
 heroSkillName_128,Corrosive Potion,腐蝕のポーション
 heroSkillStory_128," CD: 3 Combats\nDraw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.",充填：3\nカードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
 heroSkillStory_Discover_128,Draw 1 card. Enemy suffers <color=#e6c14f>Frailty</color> ×1.,カードを1枚引く。敵に1点の<color=#e6c14f>脆弱</color>を与える
@@ -4321,8 +4321,8 @@ heroSkillName_139,Pre-emptive Attack,攻撃態勢
 heroSkillStory_139," CD: 3 Combats\nDeal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",充填：3\n2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える," CD: 3 Combats\nBerikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage."
 heroSkillStory_Discover_139,"Deal 2 piercing damage. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage.",2点の貫通ダメージを与え、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点の貫通ダメージを与える,"Berikan 2 damage tusuk. Draw 1 card. If this card is discarded due to other effects, deal 15 piercing damage."
 heroSkillName_140,Pre-emptive Healing,治療態勢
-heroSkillStory_140," CD: 3 Combats\nRestore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",充填：3\n2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する
-heroSkillStory_Discover_140,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する
+heroSkillStory_140," CD: 3 Combats\nRestore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",充填：3\n2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する," CD: 3 Combats\nSembuhkan 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 nyawa."
+heroSkillStory_Discover_140,"Restore 2 health. Draw 1 card. If this card is discarded due to other effects, restore 10 health.",2点のHPを回復し、カードを1枚引く。他の効果によってこのカードが捨てられた場合、10点のHPを回復する,"Sembuhkan 2 nyawa. Draw 1 card. If this card is discarded due to other effects, sembuhkan 10 nyawa."
 heroSkillName_141,Lunacy,狂気
 heroSkillStory_141," CD: 3 Combats\nUntil next turn, deal 5 piercing damage each time you discard a card at hand.",充填：3\nあなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える," CD: 3 Combats\nUntil next turn, Berikan 5 damage tusuk each time you discard a card at hand."
 heroSkillStory_Discover_141,"Until next turn, deal 5 piercing damage each time you discard a card at hand.",あなたの次のターンまで、あなたがカードを1枚捨てる度に、敵に5点の貫通ダメージを与える,"Until next turn, Berikan 5 damage tusuk each time you discard a card at hand."
@@ -4630,8 +4630,8 @@ heroSkillName_242,Recovery Unit,復元装置
 heroSkillStory_242," CD: 3 Combats\n<color=#e6c14f>Exiled</color>, choose and get 1 card form 3 random cards you own.",充填：3\nあなたが<color=#e6c14f>所有</color>しているランダムの3枚のカードから1枚を選び、それのコピー<color=#e6c14f>*</color>を2枚デッキに加える
 heroSkillStory_Discover_242,"<color=#e6c14f>Exiled</color>, choose and get 1 card form 3 random cards you own.",あなたが<color=#e6c14f>所有</color>しているランダムの3枚のカードから1枚を選び、それのコピー<color=#e6c14f>*</color>を2枚デッキに加える
 heroSkillName_243,Sharp Kitchen Knife,恨み包丁
-heroSkillStory_243," CD: 2 Combats\nDeal 5 damage. Restore same amount of health.",充填：2\n敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する
-heroSkillStory_Discover_243,Deal 5 damage. Restore same amount of health.,敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する
+heroSkillStory_243," CD: 2 Combats\nDeal 5 damage. Restore same amount of health.",充填：2\n敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する," CD: 2 Combats\nDeal 5 damage. Sembuhkan same amount of nyawa."
+heroSkillStory_Discover_243,Deal 5 damage. Restore same amount of health.,敵に5点のダメージを与え、あなたは与えたダメージに等しいのHPを回復する,Deal 5 damage. Sembuhkan nyawa dengan jumlah yang sama.
 heroSkillName_244,Code of Ice,氷結の呪文書
 heroSkillStory_244," CD: 3 Combats\nThe enemy suffers <color=#e6c14f>Chilled</color> ×4. Get a <color=#e6c14f>Chilling Card</color>.",充填：3\n敵に4点の<color=#e6c14f>凍結</color>を与える。<color=#e6c14f>凍結</color>カードを1枚獲得する
 heroSkillStory_Discover_244,The enemy suffers <color=#e6c14f>Chilled</color> ×4. Get a <color=#e6c14f>Chilling Card</color>.,敵に4点の<color=#e6c14f>凍結</color>を与える。<color=#e6c14f>凍結</color>カードを1枚獲得する
@@ -4656,7 +4656,7 @@ heroSkillStory_Discover_250,Trigger round effect of all equipments.,装備中の
 heroTalentName_3,Discovery,宝箱発見
 heroTalentDesc_3,Open one chest for free\nCooldown: 4 combats,宝箱を1つ開ける\n充填：4
 heroTalentName_4,Cure,回復
-heroTalentDesc_4,Restore all health\nCooldown: 4 combats,HPを全回復する\n充填：4
+heroTalentDesc_4,Restore all health\nCooldown: 4 combats,HPを全回復する\n充填：4,Sembuhkan nyawa sampai penuh\nCooldown: 4 combats
 heroTalentName_1,Baptism,洗礼
 heroTalentDesc_1,Select 1 card from the deck to upgrade\nCooldown: 5 combats,デッキからカードを1枚昇級する\n充填：5
 heroTalentName_2,Confusion,交渉
@@ -5038,7 +5038,7 @@ cardDesc_100220,Halves the elemental damage taken.,受ける属性ダメージ�
 cardName_100230,Emptiness,虚無
 cardDesc_100230,Halves the physical damage taken.,受ける物理ダメージを{0}%軽減する
 cardName_100240,Cure,治癒魔法
-cardDesc_100240,Restore {0} health at start of turn.,あなたのターンの開始時、{0}点のHPを回復する
+cardDesc_100240,Restore {0} health at start of turn.,あなたのターンの開始時、{0}点のHPを回復する,Sembuhkan {0} nyawa at start of turn.
 cardName_100290,Fear,威嚇
 cardDesc_100290,The enemy's turn is forced to end in 10 seconds.,敵がカードをプレイできる時間が減少する
 cardName_100300,Death,致命傷
@@ -5114,7 +5114,7 @@ cardDesc_102230,Time Pressure,敵がカードをプレイできる時間が減�
 cardName_102240,Restlessness,苛立ち1
 cardDesc_102240,Draw 3 extra cards each turn.,ターンの開始時に、カードを{0}枚引く
 cardName_102250,Corruption,堕落1
-cardDesc_102250,Restore 1 health each time you deal 3 damage.,{0}点のダメージを与えるごとに、1点のHPを回復する
+cardDesc_102250,Restore 1 health each time you deal 3 damage.,{0}点のダメージを与えるごとに、1点のHPを回復する,Sembuhkan 1 nyawa each time you deal 3 damage.
 cardName_102260,Infection,感染1
 cardDesc_102260,Your opponent takes {0} poison damage at start of turn.,ターンの開始時に、敵は{0}点の<color=#e6c14f>毒</color>を受ける
 cardName_102270,Brass Knuckles,突き刺さる痛み
@@ -6523,7 +6523,7 @@ achieveDesc_1221,"Burp -- impudent, who do you say smells? Plaguer's eyes blurre
 advanceName_1001,Your deck needs to be streamlined.,デッキを整理してみよう！全ての宝箱のカードを獲得するせずに、必要なカードだけを獲得するしよう
 advanceName_1002,Save money and buy some powerful cards.,金貨を貯めて、強力なカードを購入しよう
 advanceName_1003,Hoard cards for combos.,手札にカードを貯めると、簡単にコンボがつながるかもしれない？
-advanceName_1004,Leveling up can restore your health.,レベルアップすると、HPが全回復する
+advanceName_1004,Leveling up can restore your health.,レベルアップすると、HPが全回復する,Leveling up bisa sembuhkan nyawamu.
 advanceName_1005,Hoard bandages to stay healthy,包帯イベントを置いておくと、HPを回復してから戦闘に挑める
 advanceName_1006,controll your attack cards,やけどのダメージを抑えるには、使用するカードをよく考えるといいだろう
 advanceName_1007,hoard the damage card,雪崩の敵を効率的に倒すには、ダメージを与えるカードを貯めるといいだろう
@@ -7964,7 +7964,7 @@ ChooseUpCard,Upgrade Card,カードを昇級
 ChooseDelCard,Delete Card,カードを除外
 UpCardSuccess,Upgraded,カードを昇級しました
 CurPrice,Current price: {0},現在の必要金貨：{0}
-TranslateCoin2Hp,Spend {0} Gold to restore {1} health?,{0}枚の金貨を失い、{1}点のHPを回復しますか？
+TranslateCoin2Hp,Spend {0} Gold to restore {1} health?,{0}枚の金貨を失い、{1}点のHPを回復しますか？,Spend {0} Gold to Sembuhkan {1} nyawa?
 HP,Health,HP
 AddOneCard,Get a new card,新しいカードを獲得する
 RandomUpCard,Upgrade a card,ランダムにカードを昇格する
