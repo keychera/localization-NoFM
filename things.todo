@@ -30,11 +30,17 @@ just notes!:
   ✘ giving up writing actions because i feel like it is something that I can make later, and useless @cancelled(21-02-17 23:55)
   
 
-late-game!:
+late-game!(not really):
   ☐ optimize them!
-    ☐ make something that you thought of in Godot!
+    ☐ make something that you thought of in Godot! @started(21-03-07 11:06)
+      ☐ gather all the asset of all the card types
+      ☐ separate the card image elements
+      ☐ init godot
+      ☐ incorporate the files, reorganize the whole repo
+        ☐ Make the first card
   
   ☐ I need to contact the dev about my localization process, will do if Im already at 25% 
+    ☐ or if I have a presentabe mvp of the things above
   
   ☐ I want to check out a software called "Weblate"
     ☐ find out if it is useful or just overkill for this project
