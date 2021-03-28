@@ -190,27 +190,27 @@ cardName_79,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える,Berikan 6 damage api
 cardName_81,Life Prayer,生命の祈り,Doa Kehidupan
 cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する,Sembuhkan 3/6/9/12/15 nyawa berdasarkan besarnya putaran doa.
-cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する,Sembuhkan {1} nyawa after {0} turns.
-cardName_82,Speed Prayer,速度の祈り
-cardDesc_82,Draw 1/2/3/4/5 cards depending on how many turns the prayer lasts.,祈りのターン数によって、カードを1/2/3/4/5枚引く
-cardDescEx_82,Draw {1} cards after {0} turns.,{0}ターン後、カードを{1}枚引く
-cardName_83,Attack Prayer,攻撃の祈り
-cardDesc_83,Deal 4/7/10/13/16 physical damage depending on how many turns the prayer lasts.,祈りのターン数によって、4/7/10/13/16点のダメージを与える,Berikan 4/7/10/13/16 damage fisik depending on how many turns the prayer lasts.
-cardDescEx_83,Deal {1} damage after {0} turns.,{0}ターン後、{1}点のダメージを与える
-cardName_84,Rage Prayer,憤怒の祈り
-cardDesc_84,Deal 5/10/15/20/25 fire damage depending on how many turns the prayer lasts.,祈りのターン数によって、5/10/15/20/25点の火属性のダメージを与える
-cardDescEx_84,Deal {1} fire damage after {0} turns.,{0}ターン後、{1}点の火属性のダメージを与える
-cardName_85,Misfortune,厄災
-cardDesc_85,Deal 30 physical damage after 5 turns.,5ターン後、30点のダメージを与える,Berikan 30 damage fisik after 5 turns.
-cardDescEx_85,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik after {0} turns.
-cardName_86,Misfortune,厄災
-cardDesc_86,Deal 40 physical damage after 5 turns.,5ターン後、40点のダメージを与える,Berikan 40 damage fisik after 5 turns.
-cardDescEx_86,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik after {0} turns.
+cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する,Sembuhkan {1} nyawa setelah {0} putaran.
+cardName_82,Speed Prayer,速度の祈り,Doa Kecepatan
+cardDesc_82,Draw 1/2/3/4/5 cards depending on how many turns the prayer lasts.,祈りのターン数によって、カードを1/2/3/4/5枚引く,Ambil 1/2/3/4/5 kartu berdasarkan besarnya putaran doa.
+cardDescEx_82,Draw {1} cards after {0} turns.,{0}ターン後、カードを{1}枚引く,Ambil {1} kartu setelah {0} putaran.
+cardName_83,Attack Prayer,攻撃の祈り,Doa Penyerangan
+cardDesc_83,Deal 4/7/10/13/16 physical damage depending on how many turns the prayer lasts.,祈りのターン数によって、4/7/10/13/16点のダメージを与える,Berikan 4/7/10/13/16 damage fisik berdasarkan putaran doa.
+cardDescEx_83,Deal {1} damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage setelah {0} putaran.
+cardName_84,Rage Prayer,憤怒の祈り,Doa Kemarahan
+cardDesc_84,Deal 5/10/15/20/25 fire damage depending on how many turns the prayer lasts.,祈りのターン数によって、5/10/15/20/25点の火属性のダメージを与える,Berikan 4/7/10/13/16 damage api berdasarkan besarnya putaran doa.
+cardDescEx_84,Deal {1} fire damage after {0} turns.,{0}ターン後、{1}点の火属性のダメージを与える,Berikan {1} damage api setelah {0} putaran.
+cardName_85,Misfortune,厄災,Kemalangan
+cardDesc_85,Deal 30 physical damage after 5 turns.,5ターン後、30点のダメージを与える,Berikan 30 damage fisik setelah 5 putaran.
+cardDescEx_85,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik setelah {0} putaran.
+cardName_86,Misfortune,厄災,Kemalangan
+cardDesc_86,Deal 40 physical damage after 5 turns.,5ターン後、40点のダメージを与える,Berikan 40 damage fisik setelah 5 putaran.
+cardDescEx_86,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik setelah {0} putaran.
 cardName_87,Lightning Strike,落雷,Serangan Listrik
-cardDesc_87,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color>
-cardLevelUpDesc_87,Deal 2 lightning damage. Get <color=#8adf6a>2</color> <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color>. in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を<color=#8adf6a>2</color>枚獲得する
+cardDesc_87,Deal 2 lightning damage. Get 2 <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color> in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を2枚獲得する,Berikan 2 damage listrik. Dapatkan 2 <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color> di tanganmu.
+cardLevelUpDesc_87,Deal 2 lightning damage. Get <color=#8adf6a>2</color> <color=#e6c14f>temporary</color> <color=#e6c14f> jarring</color>. in your hand.,2点の雷属性のダメージを与える。<color=#e6c14f>ショック</color><color=#e6c14f>*</color>を<color=#8adf6a>2</color>枚獲得する,Berikan 2 damage listrik. Dapatkan <color=#8adf6a>2</color> <color=#e6c14f>Gemuruh</color><color=#e6c14f>*</color> di tanganmu.
 cardName_88,Shield Crusher,盾割り,Peremuk Perisai
-cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う,"Berikan 4 damage fisik, The enemy loses 50% Armor."
+cardDesc_88,"Deal 4 physical damage, The enemy loses 50% Armor.",4点のダメージを与え、敵は防御を半分失う,"Berikan 4 damage fisik. Musuh akan kehilangan 50% Armor-nya."
 cardLevelUpDesc_88,Deal <color=#8adf6a>4</color> physical damage. The enemy loses 50% Armor.,<color=#8adf6a>4</color>点のダメージを与え、敵は防御を半分失う,Berikan <color=#8adf6a>4</color> damage fisik. Musuh akan kehilangan 50% Armor-nya.
 cardName_89,Crush,粉砕,Remukkan
 cardDesc_89,Deal 15 physical damage.,15点のダメージを与える,Berikan 15 damage fisik.
@@ -239,7 +239,7 @@ cardDesc_97,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 da
 cardLevelUpDesc_97,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える,Berikan <color=#8adf6a>5</color> damage fisik.
 cardName_100,Spell Blocker,対抗呪文
 cardDesc_100,Triggers when the enemy plays a spell card: Counter it.,敵が魔法カードをプレイした場合、そのカードを打ち消す
-cardDescEx_100,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik after {0} turns.
+cardDescEx_100,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik setelah {0} putaran.
 cardName_101,Turn Back,卑怯
 cardDesc_101,Triggers when the enemy plays a damaging card: Counter it; draw 1 card.,敵がダメージを与えるカードをプレイした場合、そのカードを打ち消す。カードを1枚引く
 cardName_102,Directionless,誤った指図
@@ -1600,7 +1600,7 @@ cardDesc_8005,Choose a card from 3 random cards. Shuffle 3 copies of that card t
 cardName_8006,Whim,天才のひらめき
 cardDesc_8006,Choose a card from 4 random cards. Shuffle 3 copies of that card to your deck.,ランダムな4枚のカードから1枚を選び、それのコピー<color=#e6c14f>*</color>を3枚デッキに加える
 cardLevelUpDesc_8006,Choose a card from <color=#8adf6a>4</color> random cards. Shuffle 3 copies of that card to your deck.,ランダムな<color=#8adf6a>4</color>枚のカードから1枚を選び、それのコピー<color=#e6c14f>*</color>を3枚デッキに加える
-cardName_8010,Jarring,ショック
+cardName_8010,Jarring,ショック,Gemuruh
 cardDesc_8010,Deal 2 lightning damage.,2点の雷属性のダメージを与える
 cardName_8012,Close Combat,白兵戦
 cardDesc_8012,<color=#e6c14f>Exiled</color>. Equip a Shortsword and a Round Shield.,<color=#e6c14f>除外</color>\n短剣と丸盾を1枚ずつ装備する
