@@ -37,11 +37,11 @@ cardName_13,Soul Strike,魂の一撃,Serangan Jiwa
 cardDesc_13,Deal 5 physical damage. If this card kills the enemy you permanently gain 2 maximum health.,5点のダメージを与える。このカードで敵を倒した場合、HPの上限+2,"Berikan 5 damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
 cardLevelUpDesc_13,Deal <color=#8adf6a>5</color> physical damage. If this card kills the enemy you permanently gain 2 maximum health.,<color=#8adf6a>5</color>点のダメージを与える。このカードで敵を倒した場合、HPの上限+2,"Berikan <color=#8adf6a>5</color> damage fisik. Jika kartu ini membunuh musuh, maksimum nyawa +2"
 cardName_14,Binding Strike,締付け,Serangan Mengikat
-cardDesc_14,"<color=#e6c14f>Exiled</color>. Deal 2 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n2点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 2 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu" 
+cardDesc_14,"<color=#e6c14f>Exiled</color>. Deal 2 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n2点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 2 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu"
 cardName_15,Binding Strike,締付け,Serangan Mengikat
-cardDesc_15,"<color=#e6c14f>Exiled</color>. Deal 4 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n4点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 4 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu" 
+cardDesc_15,"<color=#e6c14f>Exiled</color>. Deal 4 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n4点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 4 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu"
 cardName_16,Binding Strike,締付け,Serangan Mengikat
-cardDesc_16,"<color=#e6c14f>Exiled</color>. Deal 6 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n6点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 6 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu" 
+cardDesc_16,"<color=#e6c14f>Exiled</color>. Deal 6 physical damage. On their turn, the enemy can only play 1 type of card.",<color=#e6c14f>除外</color>\n6点のダメージを与える。敵は次のターンに1種類のカードしかプレイできない,"<color=#e6c14f>Dibuang</color>. Berikan 6 damage fisik. Di putaran mereka, musuh hanya bisa bermain 1 tipe kartu"
 cardName_17,Storm Strike,雷の一撃,Serangan Badai
 cardDesc_17,Deal 2 lightning damage. You deal + 1 damage this turn.,2点の雷属性のダメージを与える。このターン中、あなたが与えるダメージ+１,"Berikan 2 damage listrik. Di putaran ini, damage-mu + 1"
 cardName_18,Storm Strike,雷の一撃,Serangan Badai
@@ -189,7 +189,7 @@ cardLevelUpDesc_78,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a
 cardName_79,Burning Strike,炎の一撃,Serangan Membara
 cardDesc_79,Deal 6 fire damage.,6点の火属性のダメージを与える,Berikan 6 damage api
 cardName_81,Life Prayer,生命の祈り,Doa Kehidupan
-cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する,Sembuhkan 3/6/9/12/15 nyawa berdasarkan besarnya putaran doa. 
+cardDesc_81,Restore 3/6/9/12/15 health depending on how many turns the prayer lasts.,祈りのターン数によって、3/6/9/12/15点のHPを回復する,Sembuhkan 3/6/9/12/15 nyawa berdasarkan besarnya putaran doa.
 cardDescEx_81,Restore {1} health after {0} turns.,{0}ターン後、{1}HPを回復する,Sembuhkan {1} nyawa after {0} turns.
 cardName_82,Speed Prayer,速度の祈り
 cardDesc_82,Draw 1/2/3/4/5 cards depending on how many turns the prayer lasts.,祈りのターン数によって、カードを1/2/3/4/5枚引く
@@ -2141,7 +2141,7 @@ cardDesc_11580,"<color=#e6c14f>Exiled</color>, in next 2 turns, your have <color
 cardName_11585,Death coin,死神のコイン
 cardDesc_11585,"<color=#e6c14f>Exiled</color>, gain 1 gold. Until your next turn, your have <color=#e6c14f>Better luck</color>.",<color=#e6c14f>除外</color>\n1枚の金貨を獲得する。次のターンまで、あなたは<color=#e6c14f>幸運</color>を獲得する
 cardName_11590,Death Pocket Watch,死神の懐中時計
-cardDesc_11590,"<color=#e6c14f>Exiled</color>, draw 2 cards, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10.",<color=#e6c14f>除外</color>\nカードを2枚引く。10%の確率で10点の<color=#e6c14f>審判</color>を獲得する, "<color=#e6c14f>Exiled</color>,Ambil 2 kartu, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10."
+cardDesc_11590,"<color=#e6c14f>Exiled</color>, draw 2 cards, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10.","<color=#e6c14f>除外</color>\nカードを2枚引く。10%の確率で10点の<color=#e6c14f>審判</color>を獲得する","<color=#e6c14f>Exiled</color>,Ambil 2 kartu, you have 10% chance to gain <color=#e6c14f>Judgment</color> ×10."
 cardName_11635,Dark fire,冥界の炎
 cardDesc_11635,Deal 4 piercing damage 1 to 4 times.,4点の貫通ダメージを与える。この効果を1回～4回発動する,Berikan 4 damage tusuk 1 to 4 times.
 cardName_11636,Dark fire,冥界の炎
@@ -2196,7 +2196,7 @@ cardName_11801,Soul leech,魂の搾取
 cardDesc_11801,"<color=#e6c14f>Siphon</color> 7 mana, you have 30% chance to steal a card from your enemy's deck.",7点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardLevelUpDesc_11801,"<color=#e6c14f>Siphon</color> <color=#8adf6a>7</color> mana, you have 30% chance to steal a card from your enemy's deck.",<color=#8adf6a>7</color>点のMPを<color=#e6c14f>吸収</color>し、30%の確率で敵のデッキからカードを1枚獲得する
 cardName_11805,Ferry,渡船
-cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く,"Berikan 5 damage tusuk. If enemy has no mana, you draw 2 cards.","Deal 5 piercing damage. If enemy has no mana, Ambil 2 kartu."
+cardDesc_11805,"Deal 5 piercing damage. If enemy has no mana, you draw 2 cards.",5点の貫通ダメージを与える。敵のMPが0の場合、あなたはカードを2枚引く,"Berikan 5 damage tusuk. Jika musuh tidak punya mana, ambil 2 kartu."
 cardName_11810,Harvest soul,魂の収穫
 cardDesc_11810,"Deal 5 piercing damage. If enemy has no mana, enemy loses half health (up to 60).",5点の貫通ダメージを与える。敵のMPが0の場合、敵は半分のHPを失う(最大60点のHPまで),"Berikan 5 damage tusuk. If enemy has no mana, enemy loses half health (up to 60)."
 cardName_11815,Dark World Guide,冥界の案内人

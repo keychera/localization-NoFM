@@ -13,7 +13,8 @@ Todo:
   
   ☐ I need to find out whether ID localization is done or in progress by someone else as well, maybe we can join forces.
   ✘ to view the CSV even nicer, find out how @cancelled(21-02-18 23:28)
-    ☐ nah, just use Google Spreadsheet, no need for complicated solution or fancy extension
+    ✘ nah, just use Google Spreadsheet, no need for complicated solution or fancy extension @cancelled(21-03-28 13:35)
+    ☐ fixed the vscode jupyter, now we roll with it
   
   progress:
     ☐ only 2% progress before Feb 9th stream!
@@ -32,7 +33,8 @@ just notes!:
 
 late-game!(not really):
   ☐ optimize them!
-    ☐ make something that you thought of in Godot! @started(21-03-07 11:06)
+    ✘ make something that you thought of in Godot! @started(21-03-07 11:06) @cancelled(21-03-28 13:35) @wasted(3w2h29m35s)
+    ☐ start above later
       ☐ gather all the asset of all the card types
       ☐ separate the card image elements
       ☐ init godot
