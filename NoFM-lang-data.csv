@@ -219,8 +219,8 @@ cardName_90,Charged Strike,溜め攻撃,Serangan Berdaya
 cardDesc_90,<color=#e6c14f>Exiled</color>. Deal 3 physical damage + 3 damage for each action the enemy has. The enemy loses all Actions.,<color=#e6c14f>除外</color>\n3点のダメージを与える。敵は全てのアクションを失い、失ったアクションを1点につき与えるダメージ+3,<color=#e6c14f>Buang</color>. Berikan 3 damage fisik + 3 damage untuk setiap aksi yang musuh miliki. Musuh kehilangan seluruh aksinya.
 cardLevelUpDesc_90,<color=#e6c14f>Exiled</color>. Deal <color=#8adf6a>3</color> physical damage + <color=#8adf6a>3</color> damage for each action the enemy has. The enemy loses all actions.,<color=#e6c14f>除外</color>\n<color=#8adf6a>3</color>点のダメージを与える。敵は全てのアクションを失い、失ったアクション1点につき与えるダメージ+<color=#8adf6a>3</color>,<color=#e6c14f>Buang</color>. Berikan <color=#8adf6a>3</color> damage fisik + <color=#8adf6a>3</color> damage untuk setiap aksi yang musuh miliki. Musuh kehilangan seluruh aksinya.
 cardName_91,Spiny Shield,棘の障壁,Perisai Berduri
-cardDesc_91,Deal 5 physical damage. Take one less damage until the start of your next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan 5 damage fisik. Take one less damage until the start of your next turn.
-cardLevelUpDesc_91,Deal <color=#8adf6a>5</color>physical damage. Take one less damage until the start of your next turn.,<color=#8adf6a>5</color>点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する
+cardDesc_91,Deal 5 physical damage. Take one less damage until the start of your next turn.,5点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan 5 damage fisik. Damage yang diterima setelah ini berkurang satu sampai mulai putaran berikutnya.
+cardLevelUpDesc_91,Deal <color=#8adf6a>5</color>physical damage. Take one less damage until the start of your next turn.,<color=#8adf6a>5</color>点のダメージを与える。次のターンまで、あなたが受けるダメージを1軽減する,Berikan <color=#8adf6a>5</color>physical damage. damage fisik. Damage yang diterima setelah ini berkurang satu sampai mulai putaran berikutnya.
 cardName_92,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_92,Deal 1 physical damage.,1点のダメージを与える,Berikan 1 damage fisik.
 cardName_93,Basic Attack,通常攻撃,Serangan Dasar
@@ -237,16 +237,16 @@ cardLevelUpDesc_96,Deal <color=#8adf6a>3</color> physical damage.,<color=#8adf6a
 cardName_97,Basic Attack,通常攻撃,Serangan Dasar
 cardDesc_97,Deal 5 physical damage.,5点のダメージを与える,Berikan 5 damage fisik.
 cardLevelUpDesc_97,Deal <color=#8adf6a>5</color> physical damage.,<color=#8adf6a>5</color>点のダメージを与える,Berikan <color=#8adf6a>5</color> damage fisik.
-cardName_100,Spell Blocker,対抗呪文
-cardDesc_100,Triggers when the enemy plays a spell card: Counter it.,敵が魔法カードをプレイした場合、そのカードを打ち消す
+cardName_100,Spell Blocker,対抗呪文,Pemblokir Sihir
+cardDesc_100,Triggers when the enemy plays a spell card: Counter it.,敵が魔法カードをプレイした場合、そのカードを打ち消す,Aktif saat musuh memainkan kartu sihir: Balas kartu itu.
 cardDescEx_100,Deal {1} physical damage after {0} turns.,{0}ターン後、{1}点のダメージを与える,Berikan {1} damage fisik setelah {0} putaran.
-cardName_101,Turn Back,卑怯
-cardDesc_101,Triggers when the enemy plays a damaging card: Counter it; draw 1 card.,敵がダメージを与えるカードをプレイした場合、そのカードを打ち消す。カードを1枚引く
-cardName_102,Directionless,誤った指図
-cardDesc_102,Triggers when enemy plays an action card: \n Counter it; gain its effect.,敵が行動カードをプレイした場合、そのカードを打ち消し、そのカードをプレイする
-cardName_103,Fatigue,疲労困憊
-cardDesc_103,Triggers when the enemy has 4 cards left in their hand: The enemy discards their hand.,敵が4枚目のカードをプレイした場合、敵の手札を全て捨てる
-cardName_104,Miasma,瘴気
+cardName_101,Turn Back,卑怯,Putar Balik
+cardDesc_101,Triggers when the enemy plays a damaging card: Counter it; draw 1 card.,敵がダメージを与えるカードをプレイした場合、そのカードを打ち消す。カードを1枚引く,Aktif saat musuh memainkan kartu yang memberikan damage: Balas; ambil 1 kartu.
+cardName_102,Directionless,誤った指図,Tak berarah
+cardDesc_102,Triggers when enemy plays an action card: \n Counter it; gain its effect.,敵が行動カードをプレイした場合、そのカードを打ち消し、そのカードをプレイする,Aktif saat musuh memainkan kartu aksi: Balas; dapatkan efek kartu tersebut.
+cardName_103,Fatigue,疲労困憊,Kelelahan
+cardDesc_103,Triggers when the enemy has 4 cards left in their hand: The enemy discards their hand.,敵が4枚目のカードをプレイした場合、敵の手札を全て捨てる,Aktif saat musum memiliki 4 kartu di tangan: Musuh membuang semua kartu di tangannya.
+cardName_104,Miasma,瘴気,Miasma
 cardDesc_104,<color=#e6c14f>Exiled</color>. Triggers when the enemy plays their 4th card: Counter it; the enemy discards their hand.,<color=#e6c14f>除外</color>\n敵が4枚目のカードをプレイした場合、敵の手札を全て捨てる
 cardName_106,Counterattack,反撃
 cardDesc_106,Triggers when the enemy plays an attack card: Counter it; deal 2 physical damage. Draw 1 card.,敵が攻撃カードを\nプレイした場合、\nそのカードを打ち消す。\nカードを1枚引き、\n2点のダメージを与える
